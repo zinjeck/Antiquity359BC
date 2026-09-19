@@ -1,0 +1,7 @@
+aq_calendar_year = {
+ value = current_year
+ if = { limit = { current_year <= 1000 } value = 1001 subtract = current_year }
+ else = { subtract = 1000 }
+}
+aq_calendar_day = { value = current_day }
+aq_calendar_month = { value = current_month }

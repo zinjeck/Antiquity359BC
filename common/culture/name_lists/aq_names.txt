@@ -1,0 +1,59 @@
+name_list_aq_macedonian = {
+ male_names = { Philip Amyntas Perdikkas Alexandros Antigonos Ptolemaios }
+ female_names = { Eurydike Kleopatra Phila Kynane }
+ dynasty_names = { aq_dyn_generic_macedonian }
+}
+
+name_list_aq_hellenic = {
+ male_names = { Dionysios Menon Kleon Pammenes Nikias Demetrios Antipatros }
+ female_names = { Phila Thais Myrrhine Lysandra }
+ dynasty_names = { aq_dyn_generic_hellenic }
+}
+
+name_list_aq_latin = {
+ male_names = { Marcus Lucius Gaius Publius Quintus Titus }
+ female_names = { Claudia Cornelia Aemilia Livia }
+ dynasty_names = { aq_dyn_generic_latin }
+}
+
+name_list_aq_etruscan = {
+ male_names = { Larth Lars Arnth Vel Aule }
+ female_names = { Thana Larthia Velia Ramtha }
+ dynasty_names = { aq_dyn_generic_etruscan }
+}
+
+name_list_aq_punic = {
+ male_names = { Hanno Hamilcar Himilco Hasdrubal Bomilcar Mago }
+ female_names = { Elissa Sophonisba Salammbo Abibaal }
+ dynasty_names = { aq_dyn_generic_punic }
+}
+
+name_list_aq_egyptian = {
+ male_names = { Nectanebo Djedhor Tjahapimu Petosiris Pakhom }
+ female_names = { Tasherenese Neferu Tahebet Iset }
+ dynasty_names = { aq_dyn_generic_egyptian }
+}
+
+name_list_aq_persian = {
+ male_names = { Artaxerxes Darius Ariobarzanes Orontes Mithridates Autophradates }
+ female_names = { Atossa Parysatis Stateira Amestris }
+ dynasty_names = { aq_dyn_generic_persian }
+}
+
+name_list_aq_gaulish = {
+ male_names = { Brennos Cavaros Boduognatos Orgetorix Litavicos }
+ female_names = { Epona Cartimandua Camma Onomaris }
+ dynasty_names = { aq_dyn_generic_gaulish }
+}
+
+name_list_aq_magadhan = {
+ male_names = { Mahapadma Kalashoka Bhadrasena Ugrasena Nandivardhana }
+ female_names = { Sujata Nanda Vasumati Padma }
+ dynasty_names = { aq_dyn_generic_magadhan }
+}
+
+name_list_aq_sinitic = {
+ male_names = { Zheng Sheng Liang Cheng Wu Jian Xian }
+ female_names = { Jing Hua Lan Mei Ying }
+ dynasty_names = { aq_dyn_generic_sinitic }
+}

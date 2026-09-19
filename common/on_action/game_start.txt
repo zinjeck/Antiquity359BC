@@ -1,0 +1,15 @@
+on_game_start = {
+ effect = {
+  set_global_variable = { name = is_game_start_date days = 1 }
+  set_global_variable = { name = aq_scenario_active value = yes }
+  set_global_variable = { name = start_epidemic_grace value = yes years = 10 }
+ }
+}
+on_game_start_after_lobby = {
+ effect = {
+  every_living_character = {
+   limit = { is_landed = yes }
+   change_government = tribal_government
+  }
+ }
+}

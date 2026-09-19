@@ -1,0 +1,179 @@
+aq_spear_retinue = {
+ type = pikemen
+ damage = 20 toughness = 22 pursuit = 0 screen = 10
+ 
+ can_recruit = { culture = { has_innovation = innovation_aq_spears } }
+ buy_cost = { prestige = 150 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 100
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ illustration = { reference = pikemen }
+}
+
+aq_scout_horse = {
+ type = light_cavalry
+ damage = 18 toughness = 14 pursuit = 30 screen = 25
+ 
+ can_recruit = { culture = { has_innovation = innovation_aq_light_horse } }
+ buy_cost = { prestige = 165 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 100
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ illustration = { reference = light_horsemen }
+}
+
+aq_slingers = {
+ type = archers
+ damage = 23 toughness = 9 pursuit = 0 screen = 8
+ 
+ can_recruit = { culture = { has_innovation = innovation_aq_slingers } }
+ buy_cost = { prestige = 180 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 100
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ illustration = { reference = bowmen }
+}
+
+aq_phalanx = {
+ type = pikemen
+ damage = 28 toughness = 26 pursuit = 0 screen = 4
+ 
+ can_recruit = { culture = { has_innovation = innovation_aq_pikes } }
+ buy_cost = { prestige = 195 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 100
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ illustration = { reference = pikemen }
+}
+
+aq_siege_crews = {
+ type = siege_weapon
+ damage = 0 toughness = 10 pursuit = 0 screen = 0
+ fights_in_main_phase = no siege_tier = 1 siege_value = 0.1
+ can_recruit = { culture = { has_innovation = innovation_aq_siegecraft } }
+ buy_cost = { prestige = 210 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 10
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ 
+}
+
+aq_heavy_infantry = {
+ type = heavy_infantry
+ damage = 32 toughness = 24 pursuit = 8 screen = 8
+ 
+ can_recruit = { culture = { has_innovation = innovation_aq_flexible_infantry } }
+ buy_cost = { prestige = 225 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 100
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ illustration = { reference = armored_footmen }
+}
+
+aq_composite_archers = {
+ type = archers
+ damage = 32 toughness = 14 pursuit = 0 screen = 8
+ 
+ can_recruit = { culture = { has_innovation = innovation_aq_composite_bows } }
+ buy_cost = { prestige = 240 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 100
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ illustration = { reference = bowmen }
+}
+
+aq_mail_retinue = {
+ type = heavy_infantry
+ damage = 30 toughness = 30 pursuit = 0 screen = 12
+ 
+ can_recruit = { culture = { has_innovation = innovation_aq_mail } }
+ buy_cost = { prestige = 255 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 100
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ illustration = { reference = armored_footmen }
+}
+
+aq_torsion_engines = {
+ type = siege_weapon
+ damage = 0 toughness = 12 pursuit = 0 screen = 0
+ fights_in_main_phase = no siege_tier = 1 siege_value = 0.2
+ can_recruit = { culture = { has_innovation = innovation_aq_torsion } }
+ buy_cost = { prestige = 270 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 10
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ 
+}
+
+aq_screening_horse = {
+ type = light_cavalry
+ damage = 25 toughness = 20 pursuit = 35 screen = 35
+ 
+ can_recruit = { culture = { has_innovation = innovation_aq_cavalry_screen } }
+ buy_cost = { prestige = 285 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 100
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ illustration = { reference = light_horsemen }
+}
+
+aq_armored_lancers = {
+ type = heavy_cavalry
+ damage = 70 toughness = 28 pursuit = 22 screen = 8
+ 
+ can_recruit = { culture = { has_innovation = innovation_aq_armored_cavalry } }
+ buy_cost = { prestige = 300 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 100
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ illustration = { reference = armored_horsemen }
+}
+
+aq_field_engineers = {
+ type = siege_weapon
+ damage = 0 toughness = 14 pursuit = 0 screen = 0
+ fights_in_main_phase = no siege_tier = 2 siege_value = 0.3
+ can_recruit = { culture = { has_innovation = innovation_aq_field_engineers } }
+ buy_cost = { prestige = 315 }
+ low_maintenance_cost = { prestige = 0.15 }
+ high_maintenance_cost = { prestige = 0.6 }
+ provision_cost = 7
+ stack = 10
+ ai_quality = { value = 3 }
+ allowed_in_hired_troops = no
+ 
+}

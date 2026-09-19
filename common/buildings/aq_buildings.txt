@@ -1,0 +1,143 @@
+aq_granary_01 = {
+ construction_time = 455
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_granaries } } }
+ cost_gold = 40 cost_prestige = 75
+ province_modifier = { monthly_income = 0.10 supply_limit = 250 }
+ next_building = aq_granary_02
+ type_icon = "icon_building_market_villages.dds"
+ ai_value = { base = 1 }
+}
+
+aq_granary_02 = {
+ construction_time = 545
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_depots } } }
+ cost_gold = 80 cost_prestige = 150
+ province_modifier = { monthly_income = 0.20 supply_limit = 500 }
+ next_building = aq_granary_03
+ type_icon = "icon_building_market_villages.dds"
+ ai_value = { base = 1 }
+}
+
+aq_granary_03 = {
+ construction_time = 635
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_reservoirs } } }
+ cost_gold = 120 cost_prestige = 225
+ province_modifier = { monthly_income = 0.30 supply_limit = 750 }
+ 
+ type_icon = "icon_building_market_villages.dds"
+ ai_value = { base = 1 }
+}
+
+aq_earthwork_01 = {
+ construction_time = 455
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_earthworks } } }
+ cost_gold = 40 cost_prestige = 75
+ max_garrison = 75 province_modifier = { fort_level = 1 }
+ next_building = aq_earthwork_02
+ type_icon = "icon_building_palisades.dds"
+ ai_value = { base = 1 }
+}
+
+aq_earthwork_02 = {
+ construction_time = 545
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_fort_stores } } }
+ cost_gold = 80 cost_prestige = 150
+ max_garrison = 150 province_modifier = { fort_level = 2 }
+ next_building = aq_earthwork_03
+ type_icon = "icon_building_palisades.dds"
+ ai_value = { base = 1 }
+}
+
+aq_earthwork_03 = {
+ construction_time = 635
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_fortified_centers } } }
+ cost_gold = 120 cost_prestige = 225
+ max_garrison = 225 province_modifier = { fort_level = 3 }
+ 
+ type_icon = "icon_building_palisades.dds"
+ ai_value = { base = 1 }
+}
+
+aq_muster_01 = {
+ construction_time = 455
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_musters } } }
+ cost_gold = 40 cost_prestige = 75
+ levy = 60 province_modifier = { stationed_maa_damage_mult = 0.03 }
+ next_building = aq_muster_02
+ type_icon = "icon_building_war_camps.dds"
+ ai_value = { base = 1 }
+}
+
+aq_muster_02 = {
+ construction_time = 545
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_officers } } }
+ cost_gold = 80 cost_prestige = 150
+ levy = 120 province_modifier = { stationed_maa_damage_mult = 0.06 }
+ next_building = aq_muster_03
+ type_icon = "icon_building_war_camps.dds"
+ ai_value = { base = 1 }
+}
+
+aq_muster_03 = {
+ construction_time = 635
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_reserves } } }
+ cost_gold = 120 cost_prestige = 225
+ levy = 180 province_modifier = { stationed_maa_damage_mult = 0.09 }
+ 
+ type_icon = "icon_building_war_camps.dds"
+ ai_value = { base = 1 }
+}
+
+aq_workshop_01 = {
+ construction_time = 455
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_workshops } } }
+ cost_gold = 40 cost_prestige = 75
+ province_modifier = { monthly_income = 0.15 }
+ next_building = aq_workshop_02
+ type_icon = "icon_building_longhouses.dds"
+ ai_value = { base = 1 }
+}
+
+aq_workshop_02 = {
+ construction_time = 545
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_artisans } } }
+ cost_gold = 80 cost_prestige = 150
+ province_modifier = { monthly_income = 0.30 }
+ next_building = aq_workshop_03
+ type_icon = "icon_building_longhouses.dds"
+ ai_value = { base = 1 }
+}
+
+aq_workshop_03 = {
+ construction_time = 635
+ is_enabled = { building_requirement_tribal = yes }
+ can_construct_potential = { has_building_or_higher = tribe_01 }
+ can_construct = { scope:holder = { culture = { has_innovation = innovation_aq_craft_districts } } }
+ cost_gold = 120 cost_prestige = 225
+ province_modifier = { monthly_income = 0.45 }
+ 
+ type_icon = "icon_building_longhouses.dds"
+ ai_value = { base = 1 }
+}

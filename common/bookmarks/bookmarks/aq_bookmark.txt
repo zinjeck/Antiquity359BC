@@ -1,0 +1,77 @@
+bm_aq_359 = {
+ start_date = 642.5.1
+ is_playable = yes
+ recommended = yes
+ group = bm_group_aq_359
+ weight = { value = 100 }
+character = {
+ name = aq_bookmark_macedon
+ history_id = aq_macedon
+ dynasty = aq_dyn_macedon
+ type = male
+ birth = 619.1.1
+ title = k_aq_macedon
+ government = tribal_government
+ culture = aq_macedonian
+ religion = hellenic_pagan
+ difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+ position = { 200 350 }
+ animation = personality_bold
+}
+character = {
+ name = aq_bookmark_persia
+ history_id = aq_persia
+ dynasty = aq_dyn_persia
+ type = male
+ birth = 557.1.1
+ title = e_aq_persia
+ government = tribal_government
+ culture = aq_persian
+ religion = mazdayasna
+ difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+ position = { 450 570 }
+ animation = personality_bold
+}
+character = {
+ name = aq_bookmark_egypt
+ history_id = aq_egypt
+ dynasty = aq_dyn_egypt
+ type = male
+ birth = 602.1.1
+ title = k_aq_egypt
+ government = tribal_government
+ culture = aq_egyptian
+ religion = aq_kemetic
+ difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+ position = { 700 350 }
+ animation = personality_bold
+}
+character = {
+ name = aq_bookmark_carthage
+ history_id = aq_carthage
+ dynasty = aq_dyn_carthage
+ type = male
+ birth = 597.1.1
+ title = k_aq_carthage
+ government = tribal_government
+ culture = aq_punic
+ religion = aq_punic
+ difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+ position = { 950 570 }
+ animation = personality_bold
+}
+character = {
+ name = aq_bookmark_rome
+ history_id = aq_rome
+ dynasty = aq_dyn_rome
+ type = male
+ birth = 600.1.1
+ title = k_aq_rome
+ government = tribal_government
+ culture = aq_latin
+ religion = hellenic_pagan
+ difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+ position = { 1200 350 }
+ animation = personality_bold
+}
+}

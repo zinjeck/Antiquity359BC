@@ -1,0 +1,479 @@
+innovation_aq_iron_tools = {
+ culture_era = culture_era_aq_early
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { build_speed = -0.05 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_granaries = {
+ culture_era = culture_era_aq_early
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ county_modifier = { supply_limit_mult = 0.05 }
+ unlock_building = aq_granary_01
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_coinage = {
+ culture_era = culture_era_aq_early
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { domain_tax_mult = 0.03 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_field_boundaries = {
+ culture_era = culture_era_aq_early
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { development_growth_factor = 0.03 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_oral_law = {
+ culture_era = culture_era_aq_early
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { monthly_prestige = 0.05 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_pottery = {
+ culture_era = culture_era_aq_early
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { domain_tax_mult = 0.02 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_workshops = {
+ culture_era = culture_era_aq_early
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { build_gold_cost = -0.03 }
+ unlock_building = aq_workshop_01
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_roads = {
+ culture_era = culture_era_aq_early
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { movement_speed = 0.03 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_spears = {
+ culture_era = culture_era_aq_early
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { men_at_arms_limit = 1 }
+ unlock_maa = aq_spear_retinue
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_light_horse = {
+ culture_era = culture_era_aq_early
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { retreat_losses = -0.03 }
+ unlock_maa = aq_scout_horse
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_slingers = {
+ culture_era = culture_era_aq_early
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { levy_reinforcement_rate = 0.03 }
+ unlock_maa = aq_slingers
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_pikes = {
+ culture_era = culture_era_aq_early
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { men_at_arms_cap = 1 }
+ unlock_maa = aq_phalanx
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_earthworks = {
+ culture_era = culture_era_aq_early
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ county_modifier = { garrison_size = 0.05 }
+ unlock_building = aq_earthwork_01
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_musters = {
+ culture_era = culture_era_aq_early
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { levy_size = 0.03 }
+ unlock_building = aq_muster_01
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_signals = {
+ culture_era = culture_era_aq_early
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { knight_effectiveness_mult = 0.03 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_leather = {
+ culture_era = culture_era_aq_early
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { army_maintenance_mult = -0.02 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_masonry = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { build_speed = -0.05 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_watermills = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { domain_tax_mult = 0.04 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_weights = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { domain_tax_mult = 0.03 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_records = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { development_growth_factor = 0.04 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_cisterns = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ county_modifier = { supply_limit_mult = 0.05 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_depots = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { supply_capacity_mult = 0.10 }
+ unlock_building = aq_granary_02
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_artisans = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { build_gold_cost = -0.04 }
+ unlock_building = aq_workshop_02
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_couriers = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { movement_speed = 0.03 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_siegecraft = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { siege_phase_time = -0.03 }
+ unlock_maa = aq_siege_crews
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_flexible_infantry = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { men_at_arms_limit = 1 }
+ unlock_maa = aq_heavy_infantry
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_composite_bows = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { men_at_arms_cap = 1 }
+ unlock_maa = aq_composite_archers
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_mail = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { knight_effectiveness_mult = 0.04 }
+ unlock_maa = aq_mail_retinue
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_torsion = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { siege_phase_time = -0.03 }
+ unlock_maa = aq_torsion_engines
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_cavalry_screen = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { retreat_losses = -0.04 }
+ unlock_maa = aq_screening_horse
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_officers = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { levy_reinforcement_rate = 0.05 }
+ unlock_building = aq_muster_02
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_fort_stores = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ county_modifier = { garrison_size = 0.08 }
+ unlock_building = aq_earthwork_02
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_steel = {
+ culture_era = culture_era_aq_late
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { build_gold_cost = -0.04 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_markets = {
+ culture_era = culture_era_aq_late
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { domain_tax_mult = 0.05 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_reservoirs = {
+ culture_era = culture_era_aq_late
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ county_modifier = { supply_limit_mult = 0.08 }
+ unlock_building = aq_granary_03
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_rotations = {
+ culture_era = culture_era_aq_late
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { development_growth_factor = 0.05 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_scribes = {
+ culture_era = culture_era_aq_late
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { monthly_prestige = 0.08 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_trade_stations = {
+ culture_era = culture_era_aq_late
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { domain_tax_mult = 0.03 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_craft_districts = {
+ culture_era = culture_era_aq_late
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { build_speed = -0.05 }
+ unlock_building = aq_workshop_03
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_roads_late = {
+ culture_era = culture_era_aq_late
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ character_modifier = { movement_speed = 0.04 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_armored_cavalry = {
+ culture_era = culture_era_aq_late
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { men_at_arms_cap = 1 }
+ unlock_maa = aq_armored_lancers
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_field_engineers = {
+ culture_era = culture_era_aq_late
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { siege_phase_time = -0.05 }
+ unlock_maa = aq_field_engineers
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_frontiers = {
+ culture_era = culture_era_aq_late
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ county_modifier = { garrison_size = 0.10 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_reserves = {
+ culture_era = culture_era_aq_late
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { levy_reinforcement_rate = 0.07 }
+ unlock_building = aq_muster_03
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_quartermasters = {
+ culture_era = culture_era_aq_late
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { army_maintenance_mult = -0.04 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_combined_arms = {
+ culture_era = culture_era_aq_late
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { men_at_arms_limit = 1 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_fortified_centers = {
+ culture_era = culture_era_aq_late
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ county_modifier = { garrison_size = 0.07 }
+ unlock_building = aq_earthwork_03
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
+
+innovation_aq_veterans = {
+ culture_era = culture_era_aq_late
+ group = culture_group_military
+ icon = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+ character_modifier = { knight_effectiveness_mult = 0.06 }
+ 
+ flag = global_regular
+ ai_weight_for_fascination = { value = 100 }
+}
