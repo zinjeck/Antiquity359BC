@@ -1,4 +1,4 @@
-#Effects used for religion interactions
+﻿#Effects used for religion interactions
 
 excommunicate_character = {
 	if = {

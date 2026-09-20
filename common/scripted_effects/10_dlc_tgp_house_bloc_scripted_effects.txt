@@ -1,4 +1,4 @@
-#### Japanese Bloc effects
+﻿#### Japanese Bloc effects
 
 ## Create Japanese Bloc
 #

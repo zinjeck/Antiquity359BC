@@ -1,0 +1,58 @@
+﻿# Character scopes. Displayed dates follow the offset calendar.
+aq_can_form_chiefdom_union_trigger = {
+ custom_tooltip = {
+  text = aq030_chiefdom_union_requirement
+  OR = {
+   highest_held_title_tier >= tier_kingdom
+   culture = { has_innovation = innovation_aq_tribal_councils }
+  }
+ }
+}
+aq_can_form_kingdom_trigger = {
+ custom_tooltip = {
+  text = aq030_kingdom_requirement
+  OR = {
+   highest_held_title_tier >= tier_kingdom
+   AND = {
+    NOT = { government_has_flag = government_is_nomadic }
+    culture = { has_innovation = innovation_aq_tribal_councils }
+    prestige_level >= 3
+   }
+   AND = {
+    culture = { has_innovation = innovation_aq_confederate_administration }
+    prestige_level >= 4
+   }
+  }
+ }
+}
+aq_can_form_empire_trigger = {
+ custom_tooltip = {
+  text = aq030_empire_requirement
+  OR = {
+   highest_held_title_tier >= tier_empire
+   AND = {
+    culture = { has_innovation = innovation_aq_confederate_administration }
+    prestige_level >= 4
+   }
+  }
+ }
+}
+aq_confederation_room_trigger = {
+ custom_tooltip = {
+  text = aq030_confederation_limit
+  OR = {
+   aq030_confederation_members < 3
+   AND = {
+    culture = { has_innovation = innovation_aq_tribal_councils }
+    aq030_confederation_members < 6
+   }
+   culture = { has_innovation = innovation_aq_confederate_administration }
+  }
+ }
+}
+aq030_large_conquest_trigger = {
+ custom_tooltip = {
+  text = aq030_large_conquest_requirement
+  culture = { has_innovation = innovation_aq_confederate_administration }
+ }
+}

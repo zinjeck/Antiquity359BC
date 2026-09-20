@@ -1,4 +1,4 @@
-###DECISIONS LIST###
+﻿###DECISIONS LIST###
 
 #unite_the_western_slavs_decision
 #unite_the_southern_slavs_decision

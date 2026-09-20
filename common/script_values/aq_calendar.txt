@@ -1,4 +1,4 @@
-aq_calendar_year = {
+﻿aq_calendar_year = {
  value = current_year
  if = { limit = { current_year <= 1000 } value = 1001 subtract = current_year }
  else = { subtract = 1000 }

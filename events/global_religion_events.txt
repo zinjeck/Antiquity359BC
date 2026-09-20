@@ -1,4 +1,4 @@
-namespace = global_religion
+﻿namespace = global_religion
 
 
 #When a pagan (ai) domain is ready to feudalize, a reformed neighbor they're on good terms with should attempt to convert them, or they should have a chance to spontaneously convert

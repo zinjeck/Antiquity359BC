@@ -1,4 +1,4 @@
-
+﻿
 # Artifact Script Triggers
 artifact_value_trigger = {
 	trigger_if = {

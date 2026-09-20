@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "arabic_cultures": [
+    "aq_sabaean",
+    "bedouin",
+    "levantine"
+  ],
+  "egyptian_cultures": [
+    "egyptian"
+  ],
+  "egyptian_heritages": [
+    "heritage_egyptian"
+  ],
+  "active_cultures": 281,
+  "nomadic_counties": 323,
+  "independent_chiefdoms": 2858,
+  "remaining_independent_generic_duchies": 0,
+  "religion_files_unchanged": true,
+  "progression_routes_checked": 6,
+  "in_game_tested": false,
+  "county_holders_preserved": true,
+  "character_roster_and_parentage_preserved": true,
+  "backup": "C:\\antiquity_backups\\before_0.3.0_20260919_161254.zip",
+  "changed_files": 767
+}

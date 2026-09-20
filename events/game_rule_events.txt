@@ -1,4 +1,4 @@
-namespace = game_rule
+﻿namespace = game_rule
 
 # Generated families 	- 1001
 # Gender equality 		- 1010

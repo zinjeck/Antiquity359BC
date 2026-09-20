@@ -1,4 +1,4 @@
-##########
+﻿##########
 # Special 'claim' CB used by William the Bastard to invade England in 1066.
 # If victorious, Harold personally seizes all land in Northern England (ostensibly to distribute to good Norwegian vassals). Otherwise should be mostly-identical to a Claim CB.
 ##########

@@ -1,0 +1,15 @@
+{
+  "new_cultures": 61,
+  "active_cultures": 281,
+  "dissolved_independent_duchies": 739,
+  "nomadic_counties": 323,
+  "nomadic_rulers": 323,
+  "religion_definitions_sha256": {
+    "common/religion/holy_sites/aq020_holy_sites.txt": "868a52e0d67c400cbbbd6d9f08b5da8fb48e5cf9c90e6124b5a1279e571d94a7",
+    "common/religion/holy_sites/aq_holy_sites.txt": "b657aa41404db472e9ed660e79cf4d1268db9c9c6c2a2280900654b45da61126",
+    "common/religion/religion_types/aq_regional_rites.txt": "dd811c19a5de68d7b0a1e4b23acb25bc2ca5f7b1383e9c0b33029dab94a31dca"
+  },
+  "suebian_counties_before": 48,
+  "suebian_counties_after": 0,
+  "in_game_tested": false
+}

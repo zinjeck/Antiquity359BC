@@ -1,4 +1,4 @@
-fp1_01_achievement = {
+﻿fp1_01_achievement = {
 	possible = {
 		exists = global_var:started_far_from_home_achievement
 		

@@ -1,4 +1,4 @@
-# Coronation Related
+﻿# Coronation Related
 GetOath = { # This will get the first valid oath
 	type = character
 

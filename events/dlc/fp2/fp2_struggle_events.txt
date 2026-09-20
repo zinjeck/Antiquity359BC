@@ -1,4 +1,4 @@
-namespace = fp2_struggle
+﻿namespace = fp2_struggle
 
 ### SYSTEM EVENTS #################################################################
 ## # Parameter Events

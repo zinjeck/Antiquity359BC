@@ -1,4 +1,4 @@
-GetPrettyAdjective = {
+﻿GetPrettyAdjective = {
 	type = character
 	random_valid = yes
 

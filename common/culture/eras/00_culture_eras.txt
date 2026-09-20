@@ -1,4 +1,4 @@
-culture_era_aq_early = { year = 0 }
+﻿culture_era_aq_early = { year = 0 }
 culture_era_aq_middle = { year = 901 }
 culture_era_aq_late = { year = 1200 }
 

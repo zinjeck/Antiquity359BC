@@ -1,4 +1,4 @@
-namespace = fp1_scandinavian_adventurers
+﻿namespace = fp1_scandinavian_adventurers
 
 ##################################################
 # Scandinavian Adventurer Events

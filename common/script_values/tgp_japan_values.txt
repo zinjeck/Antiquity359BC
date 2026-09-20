@@ -1,4 +1,4 @@
-japan_demand_administrative_ai_score_value = {
+﻿japan_demand_administrative_ai_score_value = {
 	value = -15
 	scope:attacker = {
 		if = {

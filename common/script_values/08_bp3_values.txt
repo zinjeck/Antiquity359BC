@@ -1,4 +1,4 @@
-wayfarer_the_real_threat_value = {
+﻿wayfarer_the_real_threat_value = {
 	value = 1
 	if = {
 		limit = { is_landed = yes }

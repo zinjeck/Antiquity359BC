@@ -1,4 +1,4 @@
-should_be_naked_trigger = {
+﻿should_be_naked_trigger = {
 	# Character must be an adult.
 	exists = this
 	is_adult = yes

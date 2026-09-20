@@ -1,4 +1,4 @@
-namespace = tgp_dynastic_cycle
+﻿namespace = tgp_dynastic_cycle
 
 ### EVENT LIST ####################################################################
 ## 0001 - 0020	Internal Management Events

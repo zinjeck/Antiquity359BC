@@ -1,0 +1,15 @@
+﻿heritage_aq_anatolian = { type = heritage color = { 140 150 120 } ai_will_do = { value = 10 } }
+heritage_aq_palaeo_balkan = { type = heritage color = { 140 150 120 } ai_will_do = { value = 10 } }
+heritage_aq_hellenic = { type = heritage color = { 140 150 120 } ai_will_do = { value = 10 } }
+heritage_aq_continental_celtic = { type = heritage color = { 140 150 120 } ai_will_do = { value = 10 } }
+heritage_aq_tyrrhenian = { type = heritage color = { 140 150 120 } ai_will_do = { value = 10 } }
+heritage_aq_canaanite = { type = heritage color = { 140 150 120 } ai_will_do = { value = 10 } }
+
+heritage_aq_munda = { type = heritage color = { 140 150 120 } ai_will_do = { value = 10 } }
+heritage_aq_early_germanic = { type = heritage color = { 140 150 120 } ai_will_do = { value = 10 } }
+heritage_aq_paleo_sardinian = { type = heritage color = { 140 150 120 } ai_will_do = { value = 10 } }
+heritage_aq_ancient_iberian = { type = heritage color = { 140 150 120 } ai_will_do = { value = 10 } }
+language_aq_etruscan = { type = language color = { 140 150 120 } ai_will_do = { value = 10 } }
+language_aq_phoenician = { type = language color = { 140 150 120 } ai_will_do = { value = 10 } }
+
+language_aq_kirati = { type = language color = { 140 150 120 } ai_will_do = { value = 10 } }

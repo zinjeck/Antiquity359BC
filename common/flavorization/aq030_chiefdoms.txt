@@ -1,0 +1,50 @@
+﻿aq030_count_male = {
+ type = character
+ gender = male
+ special = holder
+ tier = county
+ priority = 1000
+ governments = { tribal_government nomad_government }
+ flavourization_rules = { top_liege = no }
+}
+aq030_count_female = {
+ type = character
+ gender = female
+ special = holder
+ tier = county
+ priority = 1000
+ governments = { tribal_government nomad_government }
+ flavourization_rules = { top_liege = no }
+}
+aq030_county = {
+ type = title
+ tier = county
+ priority = 1000
+ governments = { tribal_government nomad_government }
+ flavourization_rules = { top_liege = no }
+}
+aq030_duke_male = {
+ type = character
+ gender = male
+ special = holder
+ tier = duchy
+ priority = 1000
+ governments = { tribal_government nomad_government }
+ flavourization_rules = { top_liege = no }
+}
+aq030_duke_female = {
+ type = character
+ gender = female
+ special = holder
+ tier = duchy
+ priority = 1000
+ governments = { tribal_government nomad_government }
+ flavourization_rules = { top_liege = no }
+}
+aq030_duchy = {
+ type = title
+ tier = duchy
+ priority = 1000
+ governments = { tribal_government nomad_government }
+ flavourization_rules = { top_liege = no }
+}

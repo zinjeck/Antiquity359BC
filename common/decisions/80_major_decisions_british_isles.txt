@@ -1,4 +1,4 @@
-#The culture of the people both high and low is veering towards Celtic - embrace it?
+﻿#The culture of the people both high and low is veering towards Celtic - embrace it?
 ### Reclaim Britannia ###
 reclaim_britannia_decision = {
 	picture = {

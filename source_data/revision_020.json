@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "new_culture_definitions": 171,
+  "active_county_cultures": 221,
+  "counties_changed": 1048,
+  "new_language_definitions": 57,
+  "custom_faith_definitions": 46,
+  "active_county_faiths": 56,
+  "faith_culture_key_collisions": [],
+  "calendar_gate_examples": {
+    "901": "100 BC",
+    "1200": "200 AD",
+    "1700": "700 AD"
+  },
+  "in_game_tested": false,
+  "new_heritage_definitions": 11,
+  "custom_culture_definitions": 237
+}

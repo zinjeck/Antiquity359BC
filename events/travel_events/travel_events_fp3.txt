@@ -1,4 +1,4 @@
-namespace = travel_events_fp3
+﻿namespace = travel_events_fp3
 ############################
 # Dying Ember Event
 # by Lucas Ribeiro

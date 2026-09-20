@@ -1,0 +1,142 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "custom_culture_definitions": 237,
+  "custom_faith_definitions": 46,
+  "counties": 3476,
+  "active_cultures": 221,
+  "indian_population_counts": {
+    "aq_kadamba_early": 19,
+    "aq_atavi": 15,
+    "aq_andhra": 12,
+    "aq_saindhava": 10,
+    "aq_chola": 9,
+    "aq_pragjyotisha": 9,
+    "aq_kalinga": 9,
+    "aq_vanga": 8,
+    "aq_avanti": 8,
+    "aq_pundra": 7,
+    "aq_kosalan": 6,
+    "aq_madra": 6,
+    "aq_anarta": 6,
+    "aq_malava": 6,
+    "aq_matsya": 5,
+    "aq_chera": 5,
+    "aq_gandharan": 5,
+    "aq_kuru": 5,
+    "aq_asmaka": 5,
+    "aq_salva": 5,
+    "aq_vidarbha": 4,
+    "aq_saurashtra": 4,
+    "aq_pulinda": 4,
+    "aq_abhira": 4,
+    "aq_panchala": 4,
+    "aq_kasmira": 3,
+    "aq_anupa": 3,
+    "aq_vatsa": 3,
+    "aq_videha": 3,
+    "aq_sivi": 3,
+    "aq_kasi": 3,
+    "aq_lata": 3,
+    "aq_magadhan": 3,
+    "aq_kambojan": 3,
+    "aq_chedi": 3,
+    "aq_alupa": 3,
+    "aq_surasena": 3,
+    "aq_pandya": 3,
+    "aq_suhma": 3,
+    "aq_trigartan": 2,
+    "aq_malla": 1,
+    "aq_anga": 1
+  },
+  "sample_counties": {
+    "c_benevento": {
+      "county": "c_benevento",
+      "old_culture": "aq_italic",
+      "culture": "aq_samnite",
+      "faith": "aq_faith_mefitis",
+      "ruler": "aq_chief_533",
+      "ruler_culture": "aq_samnite"
+    },
+    "c_caria": {
+      "county": "c_caria",
+      "old_culture": "aq_anatolian",
+      "culture": "aq_carian",
+      "faith": "aq_faith_labraundos",
+      "ruler": "aq_chief_700",
+      "ruler_culture": "aq_carian"
+    },
+    "c_delhi": {
+      "county": "c_delhi",
+      "old_culture": "aq_indo_aryan",
+      "culture": "aq_kuru",
+      "faith": "aq_faith_krishna_yajurvedic",
+      "ruler": "aq_chief_879",
+      "ruler_culture": "aq_kuru"
+    },
+    "c_gaya": {
+      "county": "c_gaya",
+      "old_culture": "aq_magadhan",
+      "culture": "aq_magadhan",
+      "faith": "aq_faith_buddha",
+      "ruler": "aq_chief_1122",
+      "ruler_culture": "aq_magadhan"
+    },
+    "c_jharkand": {
+      "county": "c_jharkand",
+      "old_culture": "aq_magadhan",
+      "culture": "aq_atavi",
+      "faith": "aq_faith_forest_indian",
+      "ruler": "aq_chief_1448",
+      "ruler_culture": "aq_atavi"
+    },
+    "c_lycia": {
+      "county": "c_lycia",
+      "old_culture": "aq_anatolian",
+      "culture": "aq_lycian",
+      "faith": "aq_faith_leto",
+      "ruler": "aq_mausolus",
+      "ruler_culture": "aq_carian"
+    },
+    "c_lydia": {
+      "county": "c_lydia",
+      "old_culture": "aq_anatolian",
+      "culture": "aq_lydian",
+      "faith": "aq_faith_artimu",
+      "ruler": "aq_chief_1938",
+      "ruler_culture": "aq_lydian"
+    },
+    "c_magadha": {
+      "county": "c_magadha",
+      "old_culture": "aq_magadhan",
+      "culture": "aq_magadhan",
+      "faith": "aq_faith_ajivika",
+      "ruler": "aq_nanda",
+      "ruler_culture": "aq_magadhan"
+    },
+    "c_spoleto": {
+      "county": "c_spoleto",
+      "old_culture": "aq_italic",
+      "culture": "aq_umbrian",
+      "faith": "aq_faith_iguvine",
+      "ruler": "aq_chief_2812",
+      "ruler_culture": "aq_umbrian"
+    }
+  },
+  "calendar_arithmetic": {
+    "642": "359 BC",
+    "901": "100 BC",
+    "1000": "1 BC",
+    "1001": "1 AD",
+    "1200": "200 AD",
+    "1700": "700 AD",
+    "1900": "900 AD",
+    "2050": "1050 AD",
+    "2200": "1200 AD"
+  },
+  "generated_calendar_expressions_checked": true,
+  "in_game_tested": false,
+  "title_ownership_unchanged": true,
+  "province_count_unchanged": true,
+  "character_roster_and_parentage_unchanged": true
+}

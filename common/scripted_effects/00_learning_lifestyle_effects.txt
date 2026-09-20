@@ -1,4 +1,4 @@
-#Effects used in Lifestyle Focus events
+﻿#Effects used in Lifestyle Focus events
 
 
 #####################################################################

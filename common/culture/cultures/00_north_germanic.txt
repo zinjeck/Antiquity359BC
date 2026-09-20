@@ -1,4 +1,4 @@
-norse = {
+﻿norse = {
 	color = norse
 	# T_ 222 þ 254 Ð 208 T_ 240 E_
 	

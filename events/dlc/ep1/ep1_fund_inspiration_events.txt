@@ -1,4 +1,4 @@
-namespace = fund_inspiration
+﻿namespace = fund_inspiration
 
 
 #########################

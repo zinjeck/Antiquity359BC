@@ -1,4 +1,4 @@
-namespace = nomad_events
+﻿namespace = nomad_events
 
 ## Veronica Pazos
 ## Ill-Advised event chain - nomad_events.0001-0099

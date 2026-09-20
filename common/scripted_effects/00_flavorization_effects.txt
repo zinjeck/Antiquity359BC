@@ -1,4 +1,4 @@
-additional_flavor_check_effect = {
+﻿additional_flavor_check_effect = {
 	if = {
 		limit = {
 			is_alive = yes

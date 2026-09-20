@@ -1,4 +1,4 @@
-japan_establish_house_fief_effect = {
+﻿japan_establish_house_fief_effect = {
 	save_scope_as = house_fiefer
 	save_scope_as = new_head
 	# Dynasty

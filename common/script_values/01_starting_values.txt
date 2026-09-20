@@ -1,4 +1,4 @@
-starting_gold = {
+﻿starting_gold = {
 	value = 0
 	add = {
 		value = starting_gold_by_income

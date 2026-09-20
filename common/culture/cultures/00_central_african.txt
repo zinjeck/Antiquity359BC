@@ -1,4 +1,4 @@
-kanuri = {
+﻿kanuri = {
 	color = hsv{ 0.95 0.8 0.7 }
 
 	parents = { sao zaghawa }

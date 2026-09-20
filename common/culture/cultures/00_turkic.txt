@@ -1,4 +1,4 @@
-turkish = {		# Oghuz
+﻿turkish = {		# Oghuz
 	color = turkish
 	
 	ethos = ethos_bellicose

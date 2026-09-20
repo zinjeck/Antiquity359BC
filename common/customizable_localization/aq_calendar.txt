@@ -1,4 +1,4 @@
-aq_calendar_era = {
+﻿aq_calendar_era = {
  type = character
  text = { trigger = { current_year <= 1000 } localization_key = aq_bc }
  text = { trigger = { current_year > 1000 } localization_key = aq_ad }

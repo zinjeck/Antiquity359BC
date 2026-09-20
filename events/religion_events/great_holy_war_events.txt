@@ -1,4 +1,4 @@
-namespace = great_holy_war
+﻿namespace = great_holy_war
 
 ### Great Holy Wars Events
 # by Flavio Verna

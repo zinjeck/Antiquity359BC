@@ -1,4 +1,4 @@
-# This effect requires you to input which convert to convert to with GOVERNMENT_TO_ADOPT
+﻿# This effect requires you to input which convert to convert to with GOVERNMENT_TO_ADOPT
 # If you want it to be dynamic, simply use "flag:dynamic"
 # Otherwise, set the government you want to adopt
 convert_to_administrative_from_feudalism_effect = {

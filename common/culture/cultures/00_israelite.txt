@@ -1,4 +1,4 @@
-ashkenazi = {
+﻿ashkenazi = {
 	color = ashkenazi
 	
 	ethos = ethos_communal

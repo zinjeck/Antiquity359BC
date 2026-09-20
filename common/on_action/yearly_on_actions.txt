@@ -1,4 +1,4 @@
-# Called every Jan 1st
+﻿# Called every Jan 1st
 # Root does not exist
 yearly_global_pulse = {
 	effect = {
@@ -839,6 +839,8 @@ yearly_global_pulse = {
 # Root is the character
 yearly_playable_pulse = {
 	effect = {
+aq_early_nomad_balance_effect = yes
+
 		ai_budget_manipulation_effect = yes
 
 		#Mandala

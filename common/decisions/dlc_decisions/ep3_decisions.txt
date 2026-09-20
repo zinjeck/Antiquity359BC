@@ -1,4 +1,4 @@
-### Hold a Triumph ###
+﻿### Hold a Triumph ###
 hold_triumph_decision = {
 	picture = {
 		reference = "gfx/interface/illustrations/decisions/ep3_decision_hold_triumph.dds"

@@ -1,4 +1,4 @@
-aq_granary_01 = {
+﻿aq_granary_01 = {
  construction_time = 455
  is_enabled = { building_requirement_tribal = yes }
  can_construct_potential = { has_building_or_higher = tribe_01 }

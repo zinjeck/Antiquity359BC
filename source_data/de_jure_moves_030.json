@@ -1,0 +1,57 @@
+[
+  {
+    "kingdom": "k_aq_egypt",
+    "old_empire": "e_arabia",
+    "new_empire": "e_aq_nile"
+  },
+  {
+    "kingdom": "k_aq_kush",
+    "old_empire": "e_abyssinia",
+    "new_empire": "e_aq_nile"
+  },
+  {
+    "kingdom": "k_blemmyia",
+    "old_empire": "e_abyssinia",
+    "new_empire": "e_aq_nile"
+  },
+  {
+    "kingdom": "k_aq_carthage",
+    "old_empire": "e_maghreb",
+    "new_empire": "e_aq_punic"
+  },
+  {
+    "kingdom": "k_aq_illyria",
+    "old_empire": "e_byzantium",
+    "new_empire": "e_aq_balkan"
+  },
+  {
+    "kingdom": "k_aq_paeonia",
+    "old_empire": "e_byzantium",
+    "new_empire": "e_aq_balkan"
+  },
+  {
+    "kingdom": "k_aq_thrace",
+    "old_empire": "e_byzantium",
+    "new_empire": "e_aq_balkan"
+  },
+  {
+    "kingdom": "k_croatia",
+    "old_empire": "e_byzantium",
+    "new_empire": "e_aq_balkan"
+  },
+  {
+    "kingdom": "k_serbia",
+    "old_empire": "e_byzantium",
+    "new_empire": "e_aq_balkan"
+  },
+  {
+    "kingdom": "k_bulgaria",
+    "old_empire": "e_byzantium",
+    "new_empire": "e_aq_balkan"
+  },
+  {
+    "kingdom": "k_georgia",
+    "old_empire": "e_byzantium",
+    "new_empire": "e_aq_caucasian"
+  }
+]

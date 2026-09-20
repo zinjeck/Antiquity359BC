@@ -1,0 +1,2 @@
+﻿heritage_aq_early_slavic = { type = heritage color = { 112 161 83 } }
+heritage_aq_huaxia = { type = heritage color = { 196 153 65 } }

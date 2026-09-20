@@ -1,4 +1,4 @@
-
+﻿
 ##################################################
 # GOVERNMENT DECISIONS
 
@@ -1034,6 +1034,8 @@ found_kingdom_decision = {
 	}
 
 	is_valid = {
+aq_can_form_kingdom_trigger = yes
+
 		prestige_level >= 3
 		top_liege = this
 		OR = {
@@ -1176,6 +1178,8 @@ found_empire_decision = {
 	}
 
 	is_valid = {
+aq_can_form_empire_trigger = yes
+
 		prestige_level >= 4
 		trigger_if = {
 			limit = {
@@ -2561,6 +2565,8 @@ found_duchy_decision = {
 	}
 
 	is_valid = {
+aq_can_form_chiefdom_union_trigger = yes
+
 		is_independent_ruler = yes
 		trigger_if = {
 			limit = {

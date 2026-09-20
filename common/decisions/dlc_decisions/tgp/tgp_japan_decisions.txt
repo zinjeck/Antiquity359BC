@@ -1,4 +1,4 @@
-# Admin to Feudal
+﻿# Admin to Feudal
 ### Establish Sōryō Fief ###
 tgp_japan_establish_house_fief_decision = {
 	decision_group_type = major

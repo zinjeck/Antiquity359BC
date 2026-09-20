@@ -1,4 +1,4 @@
-#On actions related to religion
+﻿#On actions related to religion
 
 # Code on-action: character creates a faith
 # Root is the creator

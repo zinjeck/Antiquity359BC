@@ -1,4 +1,4 @@
-italian = {
+﻿italian = {
 	color = italian
 
 	parents = { roman }

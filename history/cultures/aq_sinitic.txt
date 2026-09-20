@@ -1,4 +1,4 @@
-641.1.1 = {
+﻿642.1.1 = {
  join_era = culture_era_aq_early
  discover_innovation = innovation_aq_iron_tools
  discover_innovation = innovation_aq_granaries

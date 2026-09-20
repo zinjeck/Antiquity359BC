@@ -1,4 +1,4 @@
-GetAdventureNameAnimals = {
+﻿GetAdventureNameAnimals = {
 	type = character
 
 	random_valid = yes

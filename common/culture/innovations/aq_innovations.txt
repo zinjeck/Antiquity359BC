@@ -1,4 +1,4 @@
-innovation_aq_iron_tools = {
+﻿innovation_aq_iron_tools = {
  culture_era = culture_era_aq_early
  group = culture_group_civic
  icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"

@@ -1,4 +1,4 @@
-#migration_cb
+﻿#migration_cb
 #mpo_nomad_invasion_cb
 #humiliation_cb
 #retaliation_cb
@@ -280,6 +280,8 @@ mpo_nomad_invasion_cb = {
 	attacker_score_from_occupation_scale = 150
 
 	allowed_for_character = {
+aq030_large_conquest_trigger = yes
+
 		is_independent_ruler = yes
 		government_has_flag = government_is_nomadic
 		trigger_if = {
@@ -4837,6 +4839,8 @@ mpo_gok_onslaught_cb = {
 
 	allow_hostages = no
 	allowed_for_character = {
+aq030_large_conquest_trigger = yes
+
 		any_owned_story = {
 			OR = {
 				story_type = story_greatest_of_khans

@@ -1,4 +1,4 @@
-MountedWarriorTerm = {
+﻿MountedWarriorTerm = {
 	type = character
 
 	#Faris for muslims

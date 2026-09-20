@@ -1,4 +1,4 @@
-name_list_aq_macedonian = {
+﻿name_list_aq_macedonian = {
  male_names = { Philip Amyntas Perdikkas Alexandros Antigonos Ptolemaios }
  female_names = { Eurydike Kleopatra Phila Kynane }
  dynasty_names = { aq_dyn_generic_macedonian }

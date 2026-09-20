@@ -1,4 +1,4 @@
-namespace = bp2_adult_education
+﻿namespace = bp2_adult_education
 
 # INVALIDATION - PRISON
 bp2_adult_education.0005 = {

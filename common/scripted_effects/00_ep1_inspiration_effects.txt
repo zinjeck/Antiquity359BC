@@ -1,4 +1,4 @@
-
+﻿
 fund_inspiration_effect = {
 	scope:recipient = {
 		if = {

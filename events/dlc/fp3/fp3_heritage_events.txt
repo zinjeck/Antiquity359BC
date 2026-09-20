@@ -1,4 +1,4 @@
-namespace = fp3_yearly
+﻿namespace = fp3_yearly
 
 ########EVENT INDEX############
 #fp3_yearly.8019 - Refuge of Light, by Ola Jentzsch 

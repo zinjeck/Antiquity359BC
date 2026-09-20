@@ -1,4 +1,4 @@
-@default_tile_multiplier = 0.009702
+﻿@default_tile_multiplier = 0.009702
 
 smallpox = {
 	trait = smallpox

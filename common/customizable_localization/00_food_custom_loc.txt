@@ -1,4 +1,4 @@
-#RegionalDrink
+﻿#RegionalDrink
 #RegionalAlcoholicDrink
 #get_region_root_vegetable & get_region_root_vegetable_plural
 #RegionalEdibleAnimal

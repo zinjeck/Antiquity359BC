@@ -1,4 +1,4 @@
-#Coronation End Effect
+﻿#Coronation End Effect
 # root is the current attending character
 # current scope is the host of the activity, also available as scope:activity.host
 

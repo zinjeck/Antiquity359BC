@@ -1,4 +1,4 @@
-mogyer = {
+﻿mogyer = {
 	color = { 0.3 0.4 0.1 }
 
 	ethos = ethos_bellicose

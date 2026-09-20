@@ -1,4 +1,4 @@
-namespace = coronation_events
+﻿namespace = coronation_events
 
 #####################################
 # Coronation - Systemic Events		#

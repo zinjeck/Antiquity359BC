@@ -1,4 +1,4 @@
-frankish = {
+﻿frankish = {
 	color = frankish
 	
 	ethos = ethos_bellicose

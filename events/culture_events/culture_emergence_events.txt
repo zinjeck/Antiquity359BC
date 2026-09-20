@@ -1,4 +1,4 @@
-namespace = culture_emergence_events
+﻿namespace = culture_emergence_events
 
 # Opportunity for your culture to hybridize with your capital culture
 culture_emergence_events.0001 = {

@@ -1,0 +1,12 @@
+﻿aq030_fragile_tribal_authority = {
+ icon = martial_negative
+ vassal_opinion = -10
+ title_creation_cost_mult = 1.0
+ ai_war_chance = -0.5
+}
+aq030_overextended_confederation = {
+ icon = martial_negative
+ vassal_opinion = -25
+ monthly_prestige = -0.5
+ men_at_arms_maintenance = 0.5
+}

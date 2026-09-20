@@ -1,0 +1,14 @@
+﻿innovation_aq_tribal_councils = {
+ culture_era = culture_era_aq_early
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ flag = global_regular
+ ai_weight_for_fascination = { value = 70 }
+}
+innovation_aq_confederate_administration = {
+ culture_era = culture_era_aq_middle
+ group = culture_group_civic
+ icon = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+ flag = global_regular
+ ai_weight_for_fascination = { value = 80 }
+}

@@ -1,4 +1,4 @@
-vlach = {
+﻿vlach = {
 	color = vlach
 
 	# Croatian = stand-in for South Slavic settlement of Balkans ~550

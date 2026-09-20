@@ -1,0 +1,9 @@
+﻿aq030_confederation_members = {
+ value = 0
+ confederation ?= {
+  every_confederation_member = {
+   limit = { highest_held_title_tier >= tier_county }
+   add = 1
+  }
+ }
+}

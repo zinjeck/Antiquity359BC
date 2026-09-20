@@ -1,4 +1,4 @@
-### Establish [ROOT.Char.GetFaith.GetAdherentNameNoTooltip] Stronghold ###
+﻿### Establish [ROOT.Char.GetFaith.GetAdherentNameNoTooltip] Stronghold ###
 restore_badd_fortress_decision = { #This allows a ruler with a Zandik or Chthonic Redoubts faith to restore the Badd fortress (it's in the barony Ahar, which you'll need to capture) and make it his capital.
 	title = restore_badd_fortress_decision
 	picture = {

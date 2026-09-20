@@ -1,4 +1,4 @@
-namespace = learning_theology
+﻿namespace = learning_theology
 
 namespace = learning_theology_special
 

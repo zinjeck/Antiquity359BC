@@ -1,4 +1,4 @@
-
+﻿
 intimidated_from_faction_modifier = {
 	modifier = {
 		desc = "FACTION_REASON_INTIMIDATED"

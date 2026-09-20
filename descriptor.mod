@@ -1,4 +1,4 @@
-version="0.1.0"
+version="0.3.0"
 tags={ "Total Conversion" "Bookmarks" }
 name="Antiquity 359 BC"
 supported_version="1.19.0.6"

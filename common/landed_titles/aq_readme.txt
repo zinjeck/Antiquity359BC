@@ -1,1 +1,1 @@
-# Intentionally replaced by the Antiquity scenario.
+﻿# Intentionally replaced by the Antiquity scenario.

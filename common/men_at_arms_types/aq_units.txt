@@ -1,4 +1,4 @@
-aq_spear_retinue = {
+﻿aq_spear_retinue = {
  type = pikemen
  damage = 20 toughness = 22 pursuit = 0 screen = 10
  

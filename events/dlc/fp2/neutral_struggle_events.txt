@@ -1,4 +1,4 @@
-namespace = neutral_struggle
+﻿namespace = neutral_struggle
 
 ##################################################
 # MAINTENANCE EVENTS

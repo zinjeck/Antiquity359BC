@@ -1,4 +1,4 @@
-namespace = easteregg_event
+﻿namespace = easteregg_event
 
 ##################################################
 # #Vanity Events

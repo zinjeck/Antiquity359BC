@@ -1,4 +1,4 @@
-namespace = iberia_north_africa
+﻿namespace = iberia_north_africa
 
 #decision_form_portugal events
 #0001	- Tell founder about portugal

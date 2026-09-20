@@ -1,4 +1,4 @@
-#grab_appropriate_chronicler_effect
+﻿#grab_appropriate_chronicler_effect
 #grab_appropriate_bard_feast_effect - this one doesn't check if they're available, so it can be used in activities
 #grab_appropriate_bard_effect - this one checks if they're available
 #grab_mythical_founder_effect
@@ -1358,7 +1358,7 @@ legend_ending_achievements_effect = {
 				is_ai = no
 				promoted_legend ?= {
 					has_legend_chronicle = ancient_people
-					legend_property:culture ?= culture:ancient_egyptian
+					legend_property:culture ?= culture:egyptian
 					legend_property:title ?= title:k_scotland
 					legend_property:original_region ?= geographical_region:ghw_region_egypt_et_al
 				}
@@ -1427,14 +1427,14 @@ get_appropriate_ancient_people = {
 					culture = culture:egyptian
 					culture = culture:scottish
 				}
-				NOT = { culture = culture:ancient_egyptian }
+				NOT = { culture = culture:egyptian }
 			}
 			set_variable = {
 				name = original_region
 				value = geographical_region:ghw_region_egypt_et_al
 				years = 1
 			}
-			culture:ancient_egyptian = { save_scope_as = ancient_culture }
+			culture:egyptian = { save_scope_as = ancient_culture }
 		}
 		999 = {
 			trigger = {
@@ -2729,7 +2729,7 @@ mark_historical_legend_as_done = {
 	}
 	else_if = {
 		limit = {
-			legend_property:culture ?= culture:ancient_egyptian
+			legend_property:culture ?= culture:egyptian
 			legend_property:title ?= title:k_scotland
 			legend_property:original_region ?= geographical_region:ghw_region_egypt_et_al
 		}

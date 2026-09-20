@@ -1,4 +1,4 @@
-# Historical Artifacts Creation #
+﻿# Historical Artifacts Creation #
 
 set_artifact_rarity_common = {
 	save_scope_value_as = {

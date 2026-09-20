@@ -1,4 +1,4 @@
-irish = {
+﻿irish = {
 	color = hsv { 0.43 0.86 0.61 }
 	
 	ethos = ethos_courtly

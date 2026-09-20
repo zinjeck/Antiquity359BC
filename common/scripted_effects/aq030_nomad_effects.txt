@@ -1,0 +1,18 @@
+﻿aq_early_nomad_balance_effect = {
+ if = {
+  limit = {
+   government_has_flag = government_is_nomadic
+   NOT = { culture = { has_innovation = innovation_aq_confederate_administration } }
+  }
+  add_character_modifier = { modifier = aq030_fragile_tribal_authority years = 2 }
+  if = {
+   limit = { sub_realm_size > 8 }
+   add_character_modifier = { modifier = aq030_overextended_confederation years = 2 }
+  }
+  else = { remove_character_modifier = aq030_overextended_confederation }
+ }
+ else = {
+  remove_character_modifier = aq030_fragile_tribal_authority
+  remove_character_modifier = aq030_overextended_confederation
+ }
+}

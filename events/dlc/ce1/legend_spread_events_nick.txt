@@ -1,4 +1,4 @@
-namespace = legend_spread_events
+﻿namespace = legend_spread_events
 
 ############################
 ## Legend Spread Events
