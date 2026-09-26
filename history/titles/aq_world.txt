@@ -1,4 +1,4 @@
-﻿k_aq_macedon = {
+k_aq_macedon = {
 610.1.1 = { holder = aq_amyntas_iii }
 631.1.1 = { holder = aq_perdiccas }
 642.4.1 = { holder = aq_amyntas_iv }
@@ -6,6 +6,8 @@
 holder = aq_macedon
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -14,6 +16,8 @@ d_thessalonika = {
 holder = aq_macedon
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -33,6 +37,8 @@ holder = aq_macedon
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -41,6 +47,8 @@ e_aq_persia = {
 holder = aq_persia
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -48,7 +56,7 @@ d_cyprus = {
 642.5.1 = {
 holder = aq_evagoras
  government = tribal_government
- liege = k_aq_persia_cyprus
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -57,7 +65,7 @@ c_nicosia = {
 642.5.1 = {
 holder = aq_evagoras
  government = tribal_government
- liege = k_aq_persia_cyprus
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -65,9 +73,9 @@ holder = aq_evagoras
 
 c_famagusta = {
 642.5.1 = {
-holder = aq_chief_1033
+holder = aq_evagoras
  government = tribal_government
- liege = d_cyprus
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -77,7 +85,7 @@ d_opsikion = {
 642.5.1 = {
 holder = aq_artabazos
  government = tribal_government
- liege = k_aq_persia_nikaea
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -86,7 +94,7 @@ c_nikaea = {
 642.5.1 = {
 holder = aq_artabazos
  government = tribal_government
- liege = k_aq_persia_nikaea
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -94,9 +102,9 @@ holder = aq_artabazos
 
 c_mysia = {
 642.5.1 = {
-holder = aq_chief_2146
+holder = aq_artabazos
  government = tribal_government
- liege = d_opsikion
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -114,9 +122,9 @@ holder = aq_chief_2423
 
 c_phrygia = {
 642.5.1 = {
-holder = aq_chief_2383
+holder = aq_chief_696
  government = tribal_government
- liege = d_opsikion
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -126,7 +134,7 @@ d_ephese = {
 642.5.1 = {
 holder = aq_chief_1393
  government = tribal_government
- liege = k_aq_persia_nikaea
+ liege = k_aq_persia_lydia
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -135,7 +143,7 @@ c_ionia = {
 642.5.1 = {
 holder = aq_chief_1393
  government = tribal_government
- liege = k_aq_persia_nikaea
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -155,7 +163,7 @@ d_thracesia = {
 642.5.1 = {
 holder = aq_chief_1938
  government = tribal_government
- liege = k_aq_persia_nikaea
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -164,7 +172,7 @@ c_lydia = {
 642.5.1 = {
 holder = aq_chief_1938
  government = tribal_government
- liege = k_aq_persia_nikaea
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -213,7 +221,7 @@ c_bithynia = {
 642.5.1 = {
 holder = aq_chief_579
  government = tribal_government
- liege = k_aq_persia_nikaea
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -233,7 +241,7 @@ d_bucellaria = {
 642.5.1 = {
 holder = aq_chief_1326
  government = tribal_government
- liege = k_aq_persia_nikaea
+ liege = k_aq_persia_anatolia
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -242,7 +250,7 @@ c_honorias = {
 642.5.1 = {
 holder = aq_chief_1326
  government = tribal_government
- liege = k_aq_persia_nikaea
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -272,7 +280,7 @@ d_cilicia = {
 642.5.1 = {
 holder = aq_mazaeus
  government = tribal_government
- liege = k_aq_persia_anatolia
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -281,7 +289,7 @@ c_cilicia = {
 642.5.1 = {
 holder = aq_mazaeus
  government = tribal_government
- liege = k_aq_persia_anatolia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -321,7 +329,7 @@ d_cibyrrhaeot = {
 642.5.1 = {
 holder = aq_mausolus
  government = tribal_government
- liege = k_aq_persia_anatolia
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -330,7 +338,7 @@ c_lycia = {
 642.5.1 = {
 holder = aq_mausolus
  government = tribal_government
- liege = k_aq_persia_anatolia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -338,9 +346,9 @@ holder = aq_mausolus
 
 c_caria = {
 642.5.1 = {
-holder = aq_chief_700
+holder = aq_mausolus
  government = tribal_government
- liege = d_cibyrrhaeot
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -350,7 +358,7 @@ c_pamphylia = {
 642.5.1 = {
 holder = aq_chief_2340
  government = tribal_government
- liege = d_cibyrrhaeot
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -369,7 +377,7 @@ c_lycaonia = {
 642.5.1 = {
 holder = aq_chief_1936
  government = tribal_government
- liege = k_aq_persia_anatolia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -437,18 +445,18 @@ holder = aq_chief_1399
 
 d_cappadocia = {
 642.5.1 = {
-holder = aq_chief_696
+holder = aq040_local_cappadocia
  government = tribal_government
- liege = e_aq_persia
+ liege = k_aq_persia_cappadocia
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
 c_cappadocia = {
 642.5.1 = {
-holder = aq_chief_696
+holder = aq040_local_cappadocia
  government = tribal_government
- liege = e_aq_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -468,7 +476,7 @@ d_charsianon = {
 642.5.1 = {
 holder = aq_chief_733
  government = tribal_government
- liege = k_aq_persia_anatolia
+ liege = k_aq_persia_cappadocia
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -477,7 +485,7 @@ c_charsianon = {
 642.5.1 = {
 holder = aq_chief_733
  government = tribal_government
- liege = k_aq_persia_anatolia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -487,7 +495,7 @@ c_kaisereia = {
 642.5.1 = {
 holder = aq_chief_1522
  government = tribal_government
- liege = d_charsianon
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -516,7 +524,7 @@ c_paphlagonia = {
 642.5.1 = {
 holder = aq_chief_2345
  government = tribal_government
- liege = k_aq_persia_pontus
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -545,7 +553,7 @@ c_helenopontus = {
 642.5.1 = {
 holder = aq_chief_1288
  government = tribal_government
- liege = k_aq_persia_pontus
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -553,9 +561,9 @@ holder = aq_chief_1288
 
 c_sinope = {
 642.5.1 = {
-holder = aq_chief_2756
+holder = aq_chief_228
  government = tribal_government
- liege = d_armeniac
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -585,7 +593,7 @@ d_sebasteia = {
 642.5.1 = {
 holder = aq_chief_2656
  government = tribal_government
- liege = k_aq_persia_pontus
+ liege = k_aq_persia_cappadocia
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -594,7 +602,7 @@ c_sebasteia = {
 642.5.1 = {
 holder = aq_chief_2656
  government = tribal_government
- liege = k_aq_persia_pontus
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -612,7 +620,7 @@ holder = aq_chief_427
 
 c_ablastha = {
 642.5.1 = {
-holder = aq_chief_228
+holder = aq040_local_ablastha
  government = tribal_government
  liege = d_sebasteia
  change_development_level = 5
@@ -633,7 +641,7 @@ c_trebizond = {
 642.5.1 = {
 holder = aq_chief_3047
  government = tribal_government
- liege = k_aq_persia_pontus
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -682,7 +690,7 @@ c_theodosiopolis = {
 642.5.1 = {
 holder = aq_chief_2979
  government = tribal_government
- liege = k_aq_persia_armenia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -712,7 +720,7 @@ d_vaspurakan = {
 642.5.1 = {
 holder = aq_orontes
  government = tribal_government
- liege = e_aq_persia
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -721,7 +729,7 @@ c_vaspurakan = {
 642.5.1 = {
 holder = aq_orontes
  government = tribal_government
- liege = e_aq_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -760,7 +768,7 @@ c_hayk = {
 642.5.1 = {
 holder = aq_chief_1282
  government = tribal_government
- liege = k_aq_persia_armenia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -829,7 +837,7 @@ c_bukhara = {
 642.5.1 = {
 holder = aq_chief_643
  government = tribal_government
- liege = k_aq_persia_transoxiana
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -887,9 +895,9 @@ holder = aq_chief_823
 
 c_samarkand = {
 642.5.1 = {
-holder = aq_chief_2601
+holder = aq_chief_432
  government = tribal_government
- liege = d_soghd
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -897,18 +905,18 @@ holder = aq_chief_2601
 
 d_badakhshan = {
 642.5.1 = {
-holder = aq_chief_432
+holder = aq040_local_badakhshan
  government = tribal_government
- liege = e_aq_persia
+ liege = k_aq_persia_bactria
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
 c_badakhshan = {
 642.5.1 = {
-holder = aq_chief_432
+holder = aq040_local_badakhshan
  government = tribal_government
- liege = e_aq_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -958,7 +966,7 @@ d_khuttal = {
 642.5.1 = {
 holder = aq_chief_1660
  government = tribal_government
- liege = k_aq_persia_transoxiana
+ liege = k_aq_persia_bactria
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -967,7 +975,7 @@ c_khuttal = {
 642.5.1 = {
 holder = aq_chief_1660
  government = tribal_government
- liege = k_aq_persia_transoxiana
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1016,7 +1024,7 @@ c_oshrusana = {
 642.5.1 = {
 holder = aq_chief_2310
  government = tribal_government
- liege = k_aq_persia_transoxiana
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1045,7 +1053,7 @@ c_isfahan = {
 642.5.1 = {
 holder = aq_chief_1402
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1085,7 +1093,7 @@ d_kirman = {
 642.5.1 = {
 holder = aq_chief_1674
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -1094,7 +1102,7 @@ c_kirman = {
 642.5.1 = {
 holder = aq_chief_1674
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1153,7 +1161,7 @@ c_yazd = {
 642.5.1 = {
 holder = aq_chief_3367
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1183,7 +1191,7 @@ d_rayy = {
 642.5.1 = {
 holder = aq_chief_2522
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = k_aq_persia_daylam
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -1192,7 +1200,7 @@ c_rayy = {
 642.5.1 = {
 holder = aq_chief_2522
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1220,18 +1228,18 @@ holder = aq_chief_2473
 
 d_hamadan = {
 642.5.1 = {
-holder = aq_chief_1258
+holder = aq_chief_355
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
 c_hamadan = {
 642.5.1 = {
-holder = aq_chief_1258
+holder = aq_chief_355
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1262,6 +1270,8 @@ d_fars = {
 holder = aq_persia
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -1311,6 +1321,8 @@ holder = aq_persia
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -1338,7 +1350,7 @@ d_hormuz = {
 642.5.1 = {
 holder = aq_chief_1329
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = k_aq_persia_carmania
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -1347,7 +1359,7 @@ c_hormuz = {
 642.5.1 = {
 holder = aq_chief_1329
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1376,7 +1388,7 @@ c_ahvaz = {
 642.5.1 = {
 holder = aq_chief_254
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1436,7 +1448,7 @@ d_kermanshah = {
 642.5.1 = {
 holder = aq_chief_1627
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = k_aq_persia_daylam
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -1445,7 +1457,7 @@ c_kermanshah = {
 642.5.1 = {
 holder = aq_chief_1627
  government = tribal_government
- liege = k_aq_persia_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1484,7 +1496,7 @@ c_nishapur = {
 642.5.1 = {
 holder = aq_chief_2233
  government = tribal_government
- liege = k_aq_persia_khorasan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1532,9 +1544,9 @@ holder = aq_chief_446
 
 c_damghan = {
 642.5.1 = {
-holder = aq_chief_840
+holder = aq_chief_226
  government = tribal_government
- liege = d_nishapur
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1544,7 +1556,7 @@ d_merv = {
 642.5.1 = {
 holder = aq_chief_2057
  government = tribal_government
- liege = k_aq_persia_khorasan
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -1553,7 +1565,7 @@ c_merv = {
 642.5.1 = {
 holder = aq_chief_2057
  government = tribal_government
- liege = k_aq_persia_khorasan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1623,7 +1635,7 @@ d_ghur = {
 642.5.1 = {
 holder = aq_chief_1143
  government = tribal_government
- liege = k_aq_persia_khorasan
+ liege = k_aq_persia_aria
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -1632,7 +1644,7 @@ c_ghur = {
 642.5.1 = {
 holder = aq_chief_1143
  government = tribal_government
- liege = k_aq_persia_khorasan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1662,7 +1674,7 @@ d_herat = {
 642.5.1 = {
 holder = aq_chief_1294
  government = tribal_government
- liege = k_aq_persia_khorasan
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -1671,7 +1683,7 @@ c_herat = {
 642.5.1 = {
 holder = aq_chief_1294
  government = tribal_government
- liege = k_aq_persia_khorasan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1721,7 +1733,7 @@ d_balkh = {
 642.5.1 = {
 holder = aq_chief_461
  government = tribal_government
- liege = k_aq_persia_khorasan
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -1730,7 +1742,7 @@ c_balkh = {
 642.5.1 = {
 holder = aq_chief_461
  government = tribal_government
- liege = k_aq_persia_khorasan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1760,7 +1772,7 @@ d_nasa = {
 642.5.1 = {
 holder = aq_chief_226
  government = tribal_government
- liege = e_aq_persia
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -1769,7 +1781,7 @@ c_abivard = {
 642.5.1 = {
 holder = aq_chief_226
  government = tribal_government
- liege = e_aq_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1798,7 +1810,7 @@ c_qain = {
 642.5.1 = {
 holder = aq_chief_2445
  government = tribal_government
- liege = k_aq_persia_khorasan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1827,7 +1839,7 @@ c_gilan = {
 642.5.1 = {
 holder = aq_chief_1145
  government = tribal_government
- liege = k_aq_persia_daylam
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1857,7 +1869,7 @@ d_tabaristan = {
 642.5.1 = {
 holder = aq_chief_2029
  government = tribal_government
- liege = k_aq_persia_daylam
+ liege = k_aq_persia_hyrcania
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -1866,7 +1878,7 @@ c_mazandaran = {
 642.5.1 = {
 holder = aq_chief_2029
  government = tribal_government
- liege = k_aq_persia_daylam
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1896,7 +1908,7 @@ d_gurgan = {
 642.5.1 = {
 holder = aq_chief_1216
  government = tribal_government
- liege = k_aq_persia_daylam
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -1905,7 +1917,7 @@ c_gurgan = {
 642.5.1 = {
 holder = aq_chief_1216
  government = tribal_government
- liege = k_aq_persia_daylam
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -1934,7 +1946,7 @@ c_tabriz = {
 642.5.1 = {
 holder = aq_chief_2883
  government = tribal_government
- liege = k_aq_persia_daylam
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2003,7 +2015,7 @@ c_shirvan = {
 642.5.1 = {
 holder = aq_chief_2718
  government = tribal_government
- liege = k_aq_persia_daylam
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2023,7 +2035,7 @@ c_aran = {
 642.5.1 = {
 holder = aq_chief_355
  government = tribal_government
- liege = d_shirvan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2041,18 +2053,18 @@ holder = aq_chief_2119
 
 d_makran = {
 642.5.1 = {
-holder = aq_chief_2343
+holder = aq_chief_468
  government = tribal_government
- liege = k_aq_persia_makran
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
 c_panjgur = {
 642.5.1 = {
-holder = aq_chief_2343
+holder = aq_chief_468
  government = tribal_government
- liege = k_aq_persia_makran
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2100,18 +2112,18 @@ holder = aq_chief_3079
 
 d_jabal_kufs = {
 642.5.1 = {
-holder = aq_chief_468
+holder = aq040_local_bampur
  government = tribal_government
- liege = e_aq_persia
+ liege = k_aq_persia_carmania
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
 c_bampur = {
 642.5.1 = {
-holder = aq_chief_468
+holder = aq040_local_bampur
  government = tribal_government
- liege = e_aq_persia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2141,7 +2153,7 @@ d_sistan = {
 642.5.1 = {
 holder = aq_chief_3428
  government = tribal_government
- liege = k_aq_persia_makran
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -2150,7 +2162,7 @@ c_zaranj = {
 642.5.1 = {
 holder = aq_chief_3428
  government = tribal_government
- liege = k_aq_persia_makran
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2209,7 +2221,7 @@ c_kabul = {
 642.5.1 = {
 holder = aq_chief_1505
  government = tribal_government
- liege = k_aq_persia_kabulistan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2219,7 +2231,7 @@ c_bamian = {
 642.5.1 = {
 holder = aq_chief_467
  government = tribal_government
- liege = d_kabul
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2248,7 +2260,7 @@ c_ghazna = {
 642.5.1 = {
 holder = aq_chief_1139
  government = tribal_government
- liege = k_aq_persia_kabulistan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2297,7 +2309,7 @@ c_samarra = {
 642.5.1 = {
 holder = aq_chief_2602
  government = tribal_government
- liege = k_aq_persia_mesopotamia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2346,7 +2358,7 @@ c_wasit = {
 642.5.1 = {
 holder = aq_chief_3260
  government = tribal_government
- liege = k_aq_persia_mesopotamia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2375,7 +2387,7 @@ c_kufa = {
 642.5.1 = {
 holder = aq_chief_1753
  government = tribal_government
- liege = k_aq_persia_mesopotamia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2415,7 +2427,7 @@ c_akhadid = {
 642.5.1 = {
 holder = aq_chief_265
  government = tribal_government
- liege = d_kufa
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2444,7 +2456,7 @@ c_basra = {
 642.5.1 = {
 holder = aq_chief_498
  government = tribal_government
- liege = k_aq_persia_mesopotamia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2472,18 +2484,18 @@ holder = aq_chief_2565
 
 d_baghdad = {
 642.5.1 = {
-holder = aq_chief_438
+holder = aq_chief_265
  government = tribal_government
- liege = k_aq_persia_mesopotamia
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
 c_baghdad = {
 642.5.1 = {
-holder = aq_chief_438
+holder = aq_chief_265
  government = tribal_government
- liege = k_aq_persia_mesopotamia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2531,18 +2543,18 @@ holder = aq_chief_433
 
 d_diyarrabia = {
 642.5.1 = {
-holder = aq_chief_2107
+holder = aq_chief_276
  government = tribal_government
- liege = k_aq_persia_jazira
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
 c_mosul = {
 642.5.1 = {
-holder = aq_chief_2107
+holder = aq_chief_276
  government = tribal_government
- liege = k_aq_persia_jazira
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2611,7 +2623,7 @@ c_raqqa = {
 642.5.1 = {
 holder = aq_chief_2511
  government = tribal_government
- liege = k_aq_persia_jazira
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2650,7 +2662,7 @@ c_amida = {
 642.5.1 = {
 holder = aq_chief_315
  government = tribal_government
- liege = k_aq_persia_jazira
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2709,7 +2721,7 @@ c_rahba = {
 642.5.1 = {
 holder = aq_chief_2496
  government = tribal_government
- liege = k_aq_persia_jazira
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2729,7 +2741,7 @@ c_al-haditha = {
 642.5.1 = {
 holder = aq_chief_276
  government = tribal_government
- liege = d_euphrates
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2748,7 +2760,7 @@ c_irbil = {
 642.5.1 = {
 holder = aq_chief_1397
  government = tribal_government
- liege = k_aq_persia_jazira
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2787,7 +2799,7 @@ c_kerak = {
 642.5.1 = {
 holder = aq_chief_1622
  government = tribal_government
- liege = k_aq_persia_jerusalem
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2805,18 +2817,18 @@ holder = aq_chief_2208
 
 d_palestine = {
 642.5.1 = {
-holder = aq_chief_1447
+holder = aq_chief_239
  government = tribal_government
- liege = k_aq_persia_jerusalem
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
 c_jerusalem = {
 642.5.1 = {
-holder = aq_chief_1447
+holder = aq_chief_239
  government = tribal_government
- liege = k_aq_persia_jerusalem
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2855,7 +2867,7 @@ c_tiberias = {
 642.5.1 = {
 holder = aq_chief_2990
  government = tribal_government
- liege = k_aq_persia_jerusalem
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2865,7 +2877,7 @@ c_acre = {
 642.5.1 = {
 holder = aq_chief_239
  government = tribal_government
- liege = d_urdunn
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2894,7 +2906,7 @@ c_aleppo = {
 642.5.1 = {
 holder = aq_chief_289
  government = tribal_government
- liege = k_aq_persia_syria
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2943,7 +2955,7 @@ c_edessa = {
 642.5.1 = {
 holder = aq_chief_971
  government = tribal_government
- liege = k_aq_persia_syria
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2973,7 +2985,7 @@ c_aintab = {
 642.5.1 = {
 holder = aq_chief_258
  government = tribal_government
- liege = d_edessa
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -2992,7 +3004,7 @@ c_homs = {
 642.5.1 = {
 holder = aq_chief_1322
  government = tribal_government
- liege = k_aq_persia_syria
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3031,7 +3043,7 @@ c_antiocheia = {
 642.5.1 = {
 holder = aq_chief_340
  government = tribal_government
- liege = k_aq_persia_syria
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3060,7 +3072,7 @@ c_beirut = {
 642.5.1 = {
 holder = aq_straton
  government = tribal_government
- liege = k_aq_persia_syria
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3078,18 +3090,18 @@ holder = aq_chief_3056
 
 d_damascus = {
 642.5.1 = {
-holder = aq_chief_839
+holder = aq_chief_258
  government = tribal_government
- liege = k_aq_persia_syria
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
 c_damascus = {
 642.5.1 = {
-holder = aq_chief_839
+holder = aq_chief_258
  government = tribal_government
- liege = k_aq_persia_syria
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3138,7 +3150,7 @@ c_palmyra = {
 642.5.1 = {
 holder = aq_chief_2338
  government = tribal_government
- liege = k_aq_persia_syria
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3177,7 +3189,7 @@ c_debul = {
 642.5.1 = {
 holder = aq_chief_876
  government = tribal_government
- liege = k_aq_persia_sindh
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3236,7 +3248,7 @@ c_bhakkar = {
 642.5.1 = {
 holder = aq_chief_556
  government = tribal_government
- liege = k_aq_persia_sindh
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3246,7 +3258,7 @@ c_aror = {
 642.5.1 = {
 holder = aq_chief_370
  government = tribal_government
- liege = d_bhakkar
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3295,7 +3307,7 @@ c_udabhanda = {
 642.5.1 = {
 holder = aq_chief_3100
  government = tribal_government
- liege = k_aq_persia_punjab
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3325,7 +3337,7 @@ c_bannu = {
 642.5.1 = {
 holder = aq_chief_474
  government = tribal_government
- liege = d_gandhara
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3346,6 +3358,8 @@ k_aq_egypt = {
 holder = aq_egypt
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -3353,7 +3367,7 @@ d_cyrenaica = {
 642.5.1 = {
 holder = aq_chief_493
  government = tribal_government
- liege = k_aq_egypt
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -3362,7 +3376,7 @@ c_barqa = {
 642.5.1 = {
 holder = aq_chief_493
  government = tribal_government
- liege = k_aq_egypt
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3411,7 +3425,7 @@ c_alexandria = {
 642.5.1 = {
 holder = aq_chief_291
  government = tribal_government
- liege = k_aq_egypt
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3450,7 +3464,7 @@ c_damietta = {
 642.5.1 = {
 holder = aq_chief_841
  government = tribal_government
- liege = k_aq_egypt
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3491,6 +3505,8 @@ d_cairo = {
 holder = aq_egypt
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -3500,6 +3516,8 @@ holder = aq_egypt
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -3536,7 +3554,7 @@ c_bahriya = {
 642.5.1 = {
 holder = aq_chief_442
  government = tribal_government
- liege = k_aq_egypt
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3585,7 +3603,7 @@ c_qus = {
 642.5.1 = {
 holder = aq_chief_2484
  government = tribal_government
- liege = k_aq_egypt
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3644,7 +3662,7 @@ c_qusayr = {
 642.5.1 = {
 holder = aq_chief_2485
  government = tribal_government
- liege = k_aq_egypt
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3673,7 +3691,7 @@ c_farama = {
 642.5.1 = {
 holder = aq_chief_1040
  government = tribal_government
- liege = k_aq_egypt
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3704,6 +3722,8 @@ k_aq_carthage = {
 holder = aq_carthage
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -3720,7 +3740,7 @@ c_palermo = {
 642.5.1 = {
 holder = aq_chief_2336
  government = tribal_government
- liege = k_aq_carthage
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3749,7 +3769,7 @@ c_cagliari = {
 642.5.1 = {
 holder = aq_chief_673
  government = tribal_government
- liege = k_aq_carthage
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3779,7 +3799,7 @@ c_logudoro = {
 642.5.1 = {
 holder = aq_chief_1889
  government = tribal_government
- liege = d_sardinia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3789,7 +3809,7 @@ c_tortoli = {
 642.5.1 = {
 holder = aq_chief_3032
  government = tribal_government
- liege = d_sardinia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3808,7 +3828,7 @@ c_kairwan = {
 642.5.1 = {
 holder = aq_chief_1521
  government = tribal_government
- liege = k_aq_carthage
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3839,6 +3859,8 @@ d_tunis = {
 holder = aq_carthage
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -3848,6 +3870,8 @@ holder = aq_carthage
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -3883,9 +3907,9 @@ holder = aq_chief_1962
 
 d_kroumerie = {
 642.5.1 = {
-holder = aq_chief_799
+holder = 0
  government = tribal_government
- liege = k_aq_carthage
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -3894,7 +3918,7 @@ c_constantine = {
 642.5.1 = {
 holder = aq_chief_799
  government = tribal_government
- liege = k_aq_carthage
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3904,7 +3928,7 @@ c_annaba = {
 642.5.1 = {
 holder = aq_chief_336
  government = tribal_government
- liege = d_kroumerie
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3923,7 +3947,7 @@ c_gabes = {
 642.5.1 = {
 holder = aq_chief_1094
  government = tribal_government
- liege = k_aq_carthage
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3952,7 +3976,7 @@ c_tripolitana = {
 642.5.1 = {
 holder = aq_chief_3057
  government = tribal_government
- liege = k_aq_carthage
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -3991,7 +4015,7 @@ c_syrte = {
 642.5.1 = {
 holder = aq_chief_2872
  government = tribal_government
- liege = k_aq_carthage
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4011,7 +4035,7 @@ c_waddan = {
 642.5.1 = {
 holder = aq_chief_3243
  government = tribal_government
- liege = d_syrte
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4022,6 +4046,8 @@ k_aq_rome = {
 holder = aq_rome
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4030,6 +4056,8 @@ d_latium = {
 holder = aq_rome
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4039,6 +4067,8 @@ holder = aq_rome
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4046,7 +4076,7 @@ c_tivoli = {
 642.5.1 = {
 holder = aq_chief_3005
  government = tribal_government
- liege = d_latium
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4057,6 +4087,8 @@ k_aq_etruria = {
 holder = aq_etruria
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4073,7 +4105,7 @@ c_pisa = {
 642.5.1 = {
 holder = aq_chief_2390
  government = tribal_government
- liege = k_aq_etruria
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4084,6 +4116,8 @@ d_toscana = {
 holder = aq_etruria
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4093,6 +4127,8 @@ holder = aq_etruria
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4149,7 +4185,7 @@ c_orvieto = {
 642.5.1 = {
 holder = aq_chief_2308
  government = tribal_government
- liege = k_aq_etruria
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4168,7 +4204,7 @@ c_viterbo = {
 642.5.1 = {
 holder = aq_chief_3218
  government = tribal_government
- liege = k_aq_etruria
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4179,6 +4215,8 @@ k_aq_syracuse = {
 holder = aq_syracuse
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4187,6 +4225,8 @@ d_sicily = {
 holder = aq_syracuse
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4206,6 +4246,8 @@ holder = aq_syracuse
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4224,6 +4266,8 @@ k_aq_epirus = {
 holder = aq_epirus
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4232,6 +4276,8 @@ d_epirus = {
 holder = aq_epirus
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4251,6 +4297,8 @@ holder = aq_epirus
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4258,7 +4306,7 @@ c_aetolia = {
 642.5.1 = {
 holder = aq_chief_244
  government = tribal_government
- liege = d_epirus
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4276,9 +4324,9 @@ holder = aq_chief_2064
 
 d_cephalonia = {
 642.5.1 = {
-holder = aq_chief_709
+holder = 0
  government = tribal_government
- liege = k_aq_epirus
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -4287,7 +4335,7 @@ c_cephalonia = {
 642.5.1 = {
 holder = aq_chief_709
  government = tribal_government
- liege = k_aq_epirus
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4297,7 +4345,7 @@ c_buthrotum = {
 642.5.1 = {
 holder = aq_chief_662
  government = tribal_government
- liege = d_cephalonia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4308,6 +4356,8 @@ k_aq_illyria = {
 holder = aq_illyria
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4316,6 +4366,8 @@ d_dyrrachion = {
 holder = aq_illyria
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4325,6 +4377,8 @@ holder = aq_illyria
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4381,7 +4435,7 @@ c_duklja = {
 642.5.1 = {
 holder = aq_chief_949
  government = tribal_government
- liege = k_aq_illyria
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4412,6 +4466,8 @@ k_aq_paeonia = {
 holder = aq_paeonia
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4420,6 +4476,8 @@ d_aq_paeonia_bulgaria = {
 holder = aq_paeonia
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4429,6 +4487,8 @@ holder = aq_paeonia
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4437,6 +4497,8 @@ k_aq_thrace = {
 holder = aq_thrace
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4444,7 +4506,7 @@ d_thrace = {
 642.5.1 = {
 holder = aq_chief_666
  government = tribal_government
- liege = k_aq_thrace
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -4453,7 +4515,7 @@ c_byzantion = {
 642.5.1 = {
 holder = aq_chief_666
  government = tribal_government
- liege = k_aq_thrace
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4463,7 +4525,7 @@ c_kalliopolis = {
 642.5.1 = {
 holder = aq_chief_1536
  government = tribal_government
- liege = d_thrace
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4473,7 +4535,7 @@ c_brysis = {
 642.5.1 = {
 holder = aq_chief_636
  government = tribal_government
- liege = d_thrace
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4483,7 +4545,7 @@ d_strymon = {
 642.5.1 = {
 holder = aq_berisades
  government = tribal_government
- liege = k_aq_thrace
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -4492,7 +4554,7 @@ c_mosynopolis = {
 642.5.1 = {
 holder = aq_berisades
  government = tribal_government
- liege = k_aq_thrace
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4502,7 +4564,7 @@ c_serres = {
 642.5.1 = {
 holder = aq_chief_2672
  government = tribal_government
- liege = d_strymon
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4513,14 +4575,16 @@ d_philippopolis = {
 holder = aq_thrace
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
 c_philippopolis = {
 642.5.1 = {
-holder = aq_chief_2380
+holder = aq040_central_thrace
  government = tribal_government
- liege = d_philippopolis
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4530,7 +4594,7 @@ c_kran = {
 642.5.1 = {
 holder = aq_chief_1742
  government = tribal_government
- liege = d_philippopolis
+ liege = d_aq040_aq040_central_thrace_philippopolis
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4562,6 +4626,8 @@ holder = aq_thrace
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4579,7 +4645,7 @@ c_rhodopes = {
 642.5.1 = {
 holder = aq_chief_2532
  government = tribal_government
- liege = d_philippopolis
+ liege = d_aq040_aq040_central_thrace_philippopolis
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4590,6 +4656,8 @@ k_aq_bosporus = {
 holder = aq_bosporus
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4598,6 +4666,8 @@ d_aq_bosporus_crimea = {
 holder = aq_bosporus
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4607,6 +4677,8 @@ holder = aq_bosporus
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4615,6 +4687,8 @@ k_aq_athens = {
 holder = aq_athens
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4623,6 +4697,8 @@ d_athens = {
 holder = aq_athens
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4632,6 +4708,8 @@ holder = aq_athens
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4650,6 +4728,8 @@ k_aq_thebes = {
 holder = aq_thebes
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4658,6 +4738,8 @@ d_aq_thebes_athens = {
 holder = aq_thebes
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4667,6 +4749,8 @@ holder = aq_thebes
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4675,6 +4759,8 @@ k_aq_sparta = {
 holder = aq_sparta
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4683,6 +4769,8 @@ d_achaia = {
 holder = aq_sparta
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4690,7 +4778,7 @@ c_messenia = {
 642.5.1 = {
 holder = aq_chief_2060
  government = tribal_government
- liege = d_achaia
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4702,6 +4790,8 @@ holder = aq_sparta
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4710,6 +4800,8 @@ k_aq_chalcidice = {
 holder = aq_chalcidice
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4718,6 +4810,8 @@ d_aq_chalcidice_thessalonika = {
 holder = aq_chalcidice
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4727,6 +4821,8 @@ holder = aq_chalcidice
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4735,6 +4831,8 @@ k_aq_kush = {
 holder = aq_kush
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4751,7 +4849,7 @@ c_qasr_ibrim = {
 642.5.1 = {
 holder = aq_chief_2452
  government = tribal_government
- liege = k_aq_kush
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4802,6 +4900,8 @@ d_makuria = {
 holder = aq_kush
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4831,6 +4931,8 @@ holder = aq_kush
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -4877,7 +4979,7 @@ c_shamir = {
 642.5.1 = {
 holder = aq_chief_2685
  government = tribal_government
- liege = k_aq_kush
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4916,7 +5018,7 @@ c_alodia = {
 642.5.1 = {
 holder = aq_chief_302
  government = tribal_government
- liege = k_aq_kush
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -4975,7 +5077,7 @@ c_sennar = {
 642.5.1 = {
 holder = aq_chief_2665
  government = tribal_government
- liege = k_aq_kush
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5016,6 +5118,8 @@ k_aq_saba = {
 holder = aq_saba
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -5024,6 +5128,8 @@ d_sanaa = {
 holder = aq_saba
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -5033,6 +5139,8 @@ holder = aq_saba
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -5070,7 +5178,7 @@ d_jawf-al-yamani = {
 642.5.1 = {
 holder = aq_chief_1441
  government = tribal_government
- liege = k_aq_saba
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5079,7 +5187,7 @@ c_jawf-al-yamani = {
 642.5.1 = {
 holder = aq_chief_1441
  government = tribal_government
- liege = k_aq_saba
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5099,7 +5207,7 @@ d_taizz = {
 642.5.1 = {
 holder = aq_chief_2900
  government = tribal_government
- liege = k_aq_saba
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5108,7 +5216,7 @@ c_taizz = {
 642.5.1 = {
 holder = aq_chief_2900
  government = tribal_government
- liege = k_aq_saba
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5139,6 +5247,8 @@ k_aq_nanda = {
 holder = aq_nanda
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -5146,7 +5256,7 @@ d_mathura = {
 642.5.1 = {
 holder = aq_chief_2024
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5155,7 +5265,7 @@ c_mathura = {
 642.5.1 = {
 holder = aq_chief_2024
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5185,7 +5295,7 @@ d_vodamayutja = {
 642.5.1 = {
 holder = aq_chief_3223
  government = tribal_government
- liege = k_aq_nanda
+ liege = k_aq_nanda_delhi
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5194,7 +5304,7 @@ c_vodamayutja = {
 642.5.1 = {
 holder = aq_chief_3223
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5224,7 +5334,7 @@ d_kanyakubja = {
 642.5.1 = {
 holder = aq_chief_1558
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5233,7 +5343,7 @@ c_kanyakubja = {
 642.5.1 = {
 holder = aq_chief_1558
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5293,7 +5403,7 @@ d_saryupara = {
 642.5.1 = {
 holder = aq_chief_420
  government = tribal_government
- liege = k_aq_nanda
+ liege = k_aq_nanda_kosala
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5302,7 +5412,7 @@ c_ayodhya = {
 642.5.1 = {
 holder = aq_chief_420
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5332,7 +5442,7 @@ d_jejakabhukti = {
 642.5.1 = {
 holder = aq_chief_1964
  government = tribal_government
- liege = k_aq_nanda
+ liege = k_aq_nanda_kosala
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5341,7 +5451,7 @@ c_mahoba = {
 642.5.1 = {
 holder = aq_chief_1964
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5381,7 +5491,7 @@ d_gauda = {
 642.5.1 = {
 holder = aq_chief_1809
  government = tribal_government
- liege = k_aq_nanda
+ liege = k_aq_nanda_bengal
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5390,7 +5500,7 @@ c_laksmanavati = {
 642.5.1 = {
 holder = aq_chief_1809
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5410,7 +5520,7 @@ c_gauda = {
 642.5.1 = {
 holder = aq_chief_1120
  government = tribal_government
- liege = d_gauda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5430,7 +5540,7 @@ d_varendra = {
 642.5.1 = {
 holder = aq_chief_2431
  government = tribal_government
- liege = k_aq_nanda
+ liege = k_aq_nanda_bengal
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5439,7 +5549,7 @@ c_pundravardhana = {
 642.5.1 = {
 holder = aq_chief_2431
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5469,7 +5579,7 @@ d_vanga = {
 642.5.1 = {
 holder = aq_chief_564
  government = tribal_government
- liege = k_aq_nanda
+ liege = k_aq_nanda_bengal
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5478,7 +5588,7 @@ c_bikrampur = {
 642.5.1 = {
 holder = aq_chief_564
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5528,7 +5638,7 @@ d_nadia = {
 642.5.1 = {
 holder = aq_chief_2147
  government = tribal_government
- liege = k_aq_nanda
+ liege = k_aq_nanda_bengal
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5537,7 +5647,7 @@ c_nabadwipa = {
 642.5.1 = {
 holder = aq_chief_2147
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5567,7 +5677,7 @@ d_suhma = {
 642.5.1 = {
 holder = aq_chief_1978
  government = tribal_government
- liege = k_aq_nanda
+ liege = k_aq_nanda_bengal
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5576,7 +5686,7 @@ c_mallabhum = {
 642.5.1 = {
 holder = aq_chief_1978
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5607,6 +5717,8 @@ d_magadha = {
 holder = aq_nanda
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -5616,6 +5728,8 @@ holder = aq_nanda
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -5662,7 +5776,7 @@ c_mithila = {
 642.5.1 = {
 holder = aq_chief_2081
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5711,7 +5825,7 @@ c_jaunpur = {
 642.5.1 = {
 holder = aq_chief_1440
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5750,7 +5864,7 @@ c_munda = {
 642.5.1 = {
 holder = aq_chief_2128
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5800,7 +5914,7 @@ d_dahala = {
 642.5.1 = {
 holder = aq_chief_3058
  government = tribal_government
- liege = k_aq_nanda
+ liege = k_aq_nanda_gondwana
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5809,7 +5923,7 @@ c_tripuri = {
 642.5.1 = {
 holder = aq_chief_3058
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5829,7 +5943,7 @@ d_ratanpur = {
 642.5.1 = {
 holder = aq_chief_2517
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -5838,7 +5952,7 @@ c_ratanpur = {
 642.5.1 = {
 holder = aq_chief_2517
  government = tribal_government
- liege = k_aq_nanda
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5869,6 +5983,8 @@ k_aq_lanka = {
 holder = aq_lanka
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -5885,7 +6001,7 @@ c_dakhina_desa = {
 642.5.1 = {
 holder = aq_chief_831
  government = tribal_government
- liege = k_aq_lanka
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5914,7 +6030,7 @@ c_rohana = {
 642.5.1 = {
 holder = aq_chief_2541
  government = tribal_government
- liege = k_aq_lanka
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -5935,6 +6051,8 @@ d_sinhala = {
 holder = aq_lanka
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -5944,6 +6062,8 @@ holder = aq_lanka
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -5982,6 +6102,8 @@ k_aq_qin = {
 holder = aq_qin
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -5990,6 +6112,8 @@ d_yongxing = {
 holder = aq_qin
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -5999,6 +6123,8 @@ holder = aq_qin
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -6045,7 +6171,7 @@ c_fengxiang = {
 642.5.1 = {
 holder = aq_chief_1049
  government = tribal_government
- liege = k_aq_qin
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6074,7 +6200,7 @@ c_jinzhou_1 = {
 642.5.1 = {
 holder = aq_chief_1477
  government = tribal_government
- liege = k_aq_qin
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6103,7 +6229,7 @@ c_binzhou = {
 642.5.1 = {
 holder = aq_chief_572
  government = tribal_government
- liege = k_aq_qin
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6141,9 +6267,9 @@ holder = aq_chief_1341
 
 d_fufang = {
 642.5.1 = {
-holder = aq_chief_1091
+holder = 0
  government = tribal_government
- liege = k_aq_qin
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -6152,7 +6278,7 @@ c_fuzhou_5 = {
 642.5.1 = {
 holder = aq_chief_1091
  government = tribal_government
- liege = k_aq_qin
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6162,7 +6288,7 @@ c_yan_an = {
 642.5.1 = {
 holder = aq_chief_3345
  government = tribal_government
- liege = d_fufang
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6172,7 +6298,7 @@ c_danzhou = {
 642.5.1 = {
 holder = aq_chief_851
  government = tribal_government
- liege = d_fufang
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6182,7 +6308,7 @@ c_fangzhou = {
 642.5.1 = {
 holder = aq_chief_1034
  government = tribal_government
- liege = d_fufang
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6201,7 +6327,7 @@ c_jingzhou = {
 642.5.1 = {
 holder = aq_chief_1472
  government = tribal_government
- liege = k_aq_qin
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6240,7 +6366,7 @@ c_qinzhou_1 = {
 642.5.1 = {
 holder = aq_chief_2467
  government = tribal_government
- liege = k_aq_qin
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6288,9 +6414,9 @@ holder = aq_chief_1461
 
 d_xingfeng = {
 642.5.1 = {
-holder = aq_chief_3321
+holder = 0
  government = tribal_government
- liege = k_aq_qin
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -6299,7 +6425,7 @@ c_fengzhou = {
 642.5.1 = {
 holder = aq_chief_1050
  government = tribal_government
- liege = d_xingfeng
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6309,7 +6435,7 @@ c_xingqing = {
 642.5.1 = {
 holder = aq_chief_3321
  government = tribal_government
- liege = k_aq_qin
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6320,6 +6446,8 @@ k_aq_zhao = {
 holder = aq_zhao
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -6327,7 +6455,7 @@ d_weibo = {
 642.5.1 = {
 holder = aq_chief_3264
  government = tribal_government
- liege = k_aq_zhao
+ liege = k_aq_wei
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -6336,7 +6464,7 @@ c_weizhou = {
 642.5.1 = {
 holder = aq_chief_3264
  government = tribal_government
- liege = k_aq_zhao
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6346,7 +6474,7 @@ c_bozhou_1 = {
 642.5.1 = {
 holder = aq_chief_614
  government = tribal_government
- liege = d_weibo
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6356,7 +6484,7 @@ c_beizhou = {
 642.5.1 = {
 holder = aq_chief_520
  government = tribal_government
- liege = d_weibo
+ liege = d_aq040_aq_zhao_weibo
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6367,6 +6495,8 @@ d_xingming = {
 holder = aq_zhao
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -6376,14 +6506,16 @@ holder = aq_zhao
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
 c_mingzhou = {
 642.5.1 = {
-holder = aq_chief_2076
+holder = aq_zhao
  government = tribal_government
- liege = d_xingming
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6393,7 +6525,7 @@ c_xiangzhou = {
 642.5.1 = {
 holder = aq_chief_3312
  government = tribal_government
- liege = d_xingming
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6403,7 +6535,7 @@ d_chengde = {
 642.5.1 = {
 holder = aq_chief_3453
  government = tribal_government
- liege = k_aq_zhao
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -6412,7 +6544,7 @@ c_zhenzhou = {
 642.5.1 = {
 holder = aq_chief_3453
  government = tribal_government
- liege = k_aq_zhao
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6422,7 +6554,7 @@ c_zhaozhou = {
 642.5.1 = {
 holder = aq_chief_3447
  government = tribal_government
- liege = d_chengde
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6432,7 +6564,7 @@ c_jizhou = {
 642.5.1 = {
 holder = aq_chief_1483
  government = tribal_government
- liege = d_chengde
+ liege = d_aq040_aq_zhao_chengde
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6442,7 +6574,7 @@ c_shenzhou_1 = {
 642.5.1 = {
 holder = aq_chief_2708
  government = tribal_government
- liege = d_chengde
+ liege = d_aq040_aq_zhao_chengde
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6452,7 +6584,7 @@ d_cangjing = {
 642.5.1 = {
 holder = aq_chief_694
  government = tribal_government
- liege = k_aq_zhao
+ liege = k_aq_yan
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -6461,7 +6593,7 @@ c_cangzhou = {
 642.5.1 = {
 holder = aq_chief_694
  government = tribal_government
- liege = k_aq_zhao
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6471,7 +6603,7 @@ c_dezhou = {
 642.5.1 = {
 holder = aq_chief_899
  government = tribal_government
- liege = d_cangjing
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6481,7 +6613,7 @@ c_dizhou = {
 642.5.1 = {
 holder = aq_chief_917
  government = tribal_government
- liege = d_cangjing
+ liege = d_aq040_aq_qi_cangjing
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6491,7 +6623,7 @@ d_heyang = {
 642.5.1 = {
 holder = aq_chief_1338
  government = tribal_government
- liege = k_aq_zhao
+ liege = k_aq_han
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -6500,7 +6632,7 @@ c_huaizhou = {
 642.5.1 = {
 holder = aq_chief_1338
  government = tribal_government
- liege = k_aq_zhao
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6529,7 +6661,7 @@ c_daizhou = {
 642.5.1 = {
 holder = aq_chief_829
  government = tribal_government
- liege = k_aq_zhao
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6558,7 +6690,7 @@ c_datong_2 = {
 642.5.1 = {
 holder = aq_chief_869
  government = tribal_government
- liege = k_aq_zhao
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6617,7 +6749,7 @@ c_yongxing = {
 642.5.1 = {
 holder = aq_chief_3391
  government = tribal_government
- liege = k_aq_zhao
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6655,9 +6787,9 @@ holder = aq_chief_1334
 
 d_xinan = {
 642.5.1 = {
-holder = aq_chief_1933
+holder = 0
  government = tribal_government
- liege = k_aq_zhao
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -6666,7 +6798,7 @@ c_lxj_yunneizhou = {
 642.5.1 = {
 holder = aq_chief_1933
  government = tribal_government
- liege = k_aq_zhao
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6676,7 +6808,7 @@ c_qingshan = {
 642.5.1 = {
 holder = aq_chief_2462
  government = tribal_government
- liege = d_xinan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6686,7 +6818,7 @@ c_shengzhou = {
 642.5.1 = {
 holder = aq_chief_2705
  government = tribal_government
- liege = d_xinan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6696,7 +6828,7 @@ c_linzhou = {
 642.5.1 = {
 holder = aq_chief_1870
  government = tribal_government
- liege = d_xinan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6706,7 +6838,7 @@ c_fuzhou = {
 642.5.1 = {
 holder = aq_chief_1086
  government = tribal_government
- liege = d_xinan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6717,6 +6849,8 @@ k_aq_wei = {
 holder = aq_wei
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -6725,6 +6859,8 @@ d_aq_wei_biansong = {
 holder = aq_wei
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -6734,6 +6870,8 @@ holder = aq_wei
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -6760,7 +6898,7 @@ c_huazhou = {
 642.5.1 = {
 holder = aq_chief_1343
  government = tribal_government
- liege = k_aq_wei
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6770,7 +6908,7 @@ d_hedong = {
 642.5.1 = {
 holder = aq_chief_2897
  government = tribal_government
- liege = k_aq_wei
+ liege = k_aq_zhao
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -6779,7 +6917,7 @@ c_taiyuan = {
 642.5.1 = {
 holder = aq_chief_2897
  government = tribal_government
- liege = k_aq_wei
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6838,7 +6976,7 @@ c_hezhong = {
 642.5.1 = {
 holder = aq_chief_1299
  government = tribal_government
- liege = k_aq_wei
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6888,7 +7026,7 @@ d_zelu = {
 642.5.1 = {
 holder = aq_chief_1894
  government = tribal_government
- liege = k_aq_wei
+ liege = k_aq_han
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -6897,7 +7035,7 @@ c_longde = {
 642.5.1 = {
 holder = aq_chief_1894
  government = tribal_government
- liege = k_aq_wei
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6928,6 +7066,8 @@ k_aq_han = {
 holder = aq_han
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -6936,6 +7076,8 @@ d_zhenghua = {
 holder = aq_han
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -6945,6 +7087,8 @@ holder = aq_han
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -6961,7 +7105,7 @@ c_shanzhou_2 = {
 642.5.1 = {
 holder = aq_chief_2690
  government = tribal_government
- liege = k_aq_han
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -6990,7 +7134,7 @@ c_yingchuan = {
 642.5.1 = {
 holder = aq_chief_3378
  government = tribal_government
- liege = k_aq_han
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7000,7 +7144,7 @@ c_huaining = {
 642.5.1 = {
 holder = aq_chief_1335
  government = tribal_government
- liege = d_chenxu
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7010,7 +7154,7 @@ c_caizhou = {
 642.5.1 = {
 holder = aq_chief_676
  government = tribal_government
- liege = d_chenxu
+ liege = d_aq040_aq_chu_chenxu
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7020,7 +7164,7 @@ c_shenzhou = {
 642.5.1 = {
 holder = aq_chief_2707
  government = tribal_government
- liege = d_chenxu
+ liege = d_aq040_aq_chu_chenxu
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7031,6 +7175,8 @@ k_aq_qi = {
 holder = aq_qi
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7039,6 +7185,8 @@ d_ziqing = {
 holder = aq_qi
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7048,6 +7196,8 @@ holder = aq_qi
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7095,7 +7245,7 @@ d_yanhai = {
 642.5.1 = {
 holder = aq_chief_3356
  government = tribal_government
- liege = k_aq_qi
+ liege = 0
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -7104,7 +7254,7 @@ c_yanzhou = {
 642.5.1 = {
 holder = aq_chief_3356
  government = tribal_government
- liege = k_aq_qi
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7114,7 +7264,7 @@ c_langya = {
 642.5.1 = {
 holder = aq_chief_1819
  government = tribal_government
- liege = d_yanhai
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7124,7 +7274,7 @@ c_mizhou = {
 642.5.1 = {
 holder = aq_chief_2082
  government = tribal_government
- liege = d_yanhai
+ liege = d_aq040_aq_qi_yanhai
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7134,7 +7284,7 @@ c_haizhou = {
 642.5.1 = {
 holder = aq_chief_1249
  government = tribal_government
- liege = d_yanhai
+ liege = d_aq040_aq_qi_yanhai
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7145,6 +7295,8 @@ k_aq_yan = {
 holder = aq_yan
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7153,6 +7305,8 @@ d_youzhou = {
 holder = aq_yan
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7162,6 +7316,8 @@ holder = aq_yan
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7219,7 +7375,7 @@ d_yideng = {
 642.5.1 = {
 holder = aq_chief_912
  government = tribal_government
- liege = k_aq_yan
+ liege = k_aq040_zhongshan
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -7228,7 +7384,7 @@ c_dingzhou = {
 642.5.1 = {
 holder = aq_chief_912
  government = tribal_government
- liege = k_aq_yan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7238,7 +7394,7 @@ c_yizhou_1 = {
 642.5.1 = {
 holder = aq_chief_3387
  government = tribal_government
- liege = d_yideng
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7257,7 +7413,7 @@ c_hejian = {
 642.5.1 = {
 holder = aq_chief_1287
  government = tribal_government
- liege = k_aq_yan
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7278,6 +7434,8 @@ k_aq_chu = {
 holder = aq_chu
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7294,7 +7452,7 @@ c_yangzhou = {
 642.5.1 = {
 holder = aq_chief_3353
  government = tribal_government
- liege = k_aq_chu
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7343,7 +7501,7 @@ c_shouzhou = {
 642.5.1 = {
 holder = aq_chief_2726
  government = tribal_government
- liege = k_aq_chu
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7412,7 +7570,7 @@ c_hongzhou = {
 642.5.1 = {
 holder = aq_chief_1324
  government = tribal_government
- liege = k_aq_chu
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7491,7 +7649,7 @@ c_yunyang = {
 642.5.1 = {
 holder = aq_chief_3404
  government = tribal_government
- liege = k_aq_chu
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7540,7 +7698,7 @@ c_qianzhou = {
 642.5.1 = {
 holder = aq_chief_2457
  government = tribal_government
- liege = k_aq_chu
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7579,7 +7737,7 @@ c_xiangyang = {
 642.5.1 = {
 holder = aq_chief_3311
  government = tribal_government
- liege = k_aq_chu
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7650,6 +7808,8 @@ d_jingnan = {
 holder = aq_chu
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7659,6 +7819,8 @@ holder = aq_chu
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7735,7 +7897,7 @@ c_ezhou = {
 642.5.1 = {
 holder = aq_chief_1028
  government = tribal_government
- liege = k_aq_chu
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7794,7 +7956,7 @@ c_tanzhou = {
 642.5.1 = {
 holder = aq_chief_2925
  government = tribal_government
- liege = k_aq_chu
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7853,7 +8015,7 @@ c_yongzhou = {
 642.5.1 = {
 holder = aq_chief_3392
  government = tribal_government
- liege = k_aq_chu
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7894,6 +8056,8 @@ k_aq_song = {
 holder = aq_song
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7902,6 +8066,8 @@ d_biansong = {
 holder = aq_song
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7911,6 +8077,8 @@ holder = aq_song
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -7928,7 +8096,7 @@ c_yingzhou = {
 642.5.1 = {
 holder = aq_chief_3380
  government = tribal_government
- liege = d_biansong
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7947,7 +8115,7 @@ c_xuzhou_1 = {
 642.5.1 = {
 holder = aq_chief_3335
  government = tribal_government
- liege = k_aq_song
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -7987,7 +8155,7 @@ d_yuncao = {
 642.5.1 = {
 holder = aq_chief_3405
  government = tribal_government
- liege = k_aq_song
+ liege = k_aq_qi
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
@@ -7996,7 +8164,7 @@ c_yunzhou = {
 642.5.1 = {
 holder = aq_chief_3405
  government = tribal_government
- liege = k_aq_song
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -8016,7 +8184,7 @@ c_puzhou_2 = {
 642.5.1 = {
 holder = aq_chief_2442
  government = tribal_government
- liege = d_yuncao
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -8026,7 +8194,7 @@ c_caozhou = {
 642.5.1 = {
 holder = aq_chief_695
  government = tribal_government
- liege = d_yuncao
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -8037,6 +8205,8 @@ k_aq_zhou = {
 holder = aq_zhou
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -8045,6 +8215,8 @@ d_dongji = {
 holder = aq_zhou
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -8054,6 +8226,8 @@ holder = aq_zhou
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -8072,6 +8246,8 @@ k_aq_yue = {
 holder = aq_yue
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -8088,7 +8264,7 @@ c_jiangning = {
 642.5.1 = {
 holder = aq_chief_1454
  government = tribal_government
- liege = k_aq_yue
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -8137,7 +8313,7 @@ c_xuanzhou = {
 642.5.1 = {
 holder = aq_chief_3332
  government = tribal_government
- liege = k_aq_yue
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -8186,7 +8362,7 @@ c_hangzhou = {
 642.5.1 = {
 holder = aq_chief_1262
  government = tribal_government
- liege = k_aq_yue
+ liege = 0
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -8227,6 +8403,8 @@ d_zhedong = {
 holder = aq_yue
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -8236,6 +8414,8 @@ holder = aq_yue
  government = tribal_government
  change_development_level = 5
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -10768,6 +10948,7 @@ holder = aq_chief_2202
 
 c_abydos = {
 642.5.1 = {
+ liege = 0
 holder = aq_chief_234
  government = tribal_government
  change_development_level = 2
@@ -11453,7 +11634,9 @@ holder = aq_chief_1219
 }
 }
 
-d_georgia = { 642.5.1 = { holder = 0 liege = 0 } }
+d_georgia = { 642.5.1 = { holder = aq_chief_1296 liege = k_aq_persia_iberia 
+ government = tribal_government
+} }
 
 c_tbilisi = {
 642.5.1 = {
@@ -11469,7 +11652,7 @@ c_lori = {
 642.5.1 = {
 holder = aq_chief_1898
  government = tribal_government
- liege = 0
+ liege = d_georgia
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -11479,7 +11662,7 @@ c_kakheti = {
 642.5.1 = {
 holder = aq_chief_1525
  government = tribal_government
- liege = 0
+ liege = d_georgia
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -11491,6 +11674,8 @@ holder = aq_chief_1296
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -15509,7 +15694,7 @@ d_azov = { 642.5.1 = { holder = 0 liege = 0 } }
 c_tmutarakan = {
 642.5.1 = {
 holder = aq_chief_3007
- government = nomad_government
+ government = tribal_government
  liege = 0
  change_development_level = 2
  
@@ -22344,7 +22529,9 @@ holder = aq_chief_295
 }
 }
 
-d_mallorca = { 642.5.1 = { holder = 0 liege = 0 } }
+d_mallorca = { 642.5.1 = { holder = aq_chief_1413 liege = k_aq_carthage 
+ government = tribal_government
+} }
 
 c_mallorca = {
 642.5.1 = {
@@ -22372,6 +22559,8 @@ holder = aq_chief_1413
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -23651,7 +23840,9 @@ holder = aq_chief_2760
 }
 }
 
-d_amman = { 642.5.1 = { holder = 0 liege = 0 } }
+d_amman = { 642.5.1 = { holder = aq_chief_463 liege = k_aq_persia_jerusalem 
+ government = tribal_government
+} }
 
 c_balqa = {
 642.5.1 = {
@@ -23659,6 +23850,8 @@ holder = aq_chief_463
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -23666,7 +23859,7 @@ c_maab = {
 642.5.1 = {
 holder = aq_chief_1945
  government = tribal_government
- liege = 0
+ liege = d_amman
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -23676,7 +23869,7 @@ c_jilat = {
 642.5.1 = {
 holder = aq_chief_1465
  government = tribal_government
- liege = 0
+ liege = d_amman
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -24061,7 +24254,9 @@ holder = aq_chief_952
 }
 }
 
-d_hadramawt = { 642.5.1 = { holder = 0 liege = 0 } }
+d_hadramawt = { 642.5.1 = { holder = aq_chief_253 liege = k_aq040_hadramaut 
+ government = tribal_government
+} }
 
 c_hadramawt = {
 642.5.1 = {
@@ -24079,6 +24274,8 @@ holder = aq_chief_253
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -24086,7 +24283,7 @@ c_kinda_sakun = {
 642.5.1 = {
 holder = aq_chief_1667
  government = tribal_government
- liege = 0
+ liege = d_hadramawt
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -27507,7 +27704,9 @@ holder = aq_chief_1220
 }
 }
 
-d_kuru = { 642.5.1 = { holder = 0 liege = 0 } }
+d_kuru = { 642.5.1 = { holder = aq_chief_879 liege = k_aq_nanda_delhi 
+ government = tribal_government
+} }
 
 c_delhi = {
 642.5.1 = {
@@ -27515,6 +27714,8 @@ holder = aq_chief_879
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -27522,7 +27723,7 @@ c_hastinapura = {
 642.5.1 = {
 holder = aq_chief_1279
  government = tribal_government
- liege = 0
+ liege = d_kuru
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -27532,7 +27733,7 @@ c_sthanisvara = {
 642.5.1 = {
 holder = aq_chief_2829
  government = tribal_government
- liege = 0
+ liege = d_kuru
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -28320,7 +28521,9 @@ holder = aq_chief_1995
 }
 }
 
-d_tosali = { 642.5.1 = { holder = 0 liege = 0 } }
+d_tosali = { 642.5.1 = { holder = aq_chief_1600 liege = 0 
+ government = tribal_government
+} }
 
 c_kataka = {
 642.5.1 = {
@@ -28328,6 +28531,8 @@ holder = aq_chief_1600
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -28335,7 +28540,7 @@ c_viraja = {
 642.5.1 = {
 holder = aq_chief_3213
  government = tribal_government
- liege = 0
+ liege = d_tosali
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -28345,7 +28550,7 @@ c_khinjali_mandala = {
 642.5.1 = {
 holder = aq_chief_1647
  government = tribal_government
- liege = 0
+ liege = d_tosali
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -28355,7 +28560,7 @@ c_kodalaka_mandala = {
 642.5.1 = {
 holder = aq_chief_1690
  government = tribal_government
- liege = 0
+ liege = d_tosali
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -28365,19 +28570,21 @@ c_khijjingakota = {
 642.5.1 = {
 holder = aq_chief_1646
  government = tribal_government
- liege = 0
+ liege = d_tosali
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
-d_daksina_kosala = { 642.5.1 = { holder = 0 liege = 0 } }
+d_daksina_kosala = { 642.5.1 = { holder = aq_chief_1670 liege = k_aq_nanda_orissa 
+ government = tribal_government
+} }
 
 c_rayapura = {
 642.5.1 = {
 holder = aq_chief_2521
  government = tribal_government
- liege = 0
+ liege = d_daksina_kosala
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -28387,7 +28594,7 @@ c_sripuri = {
 642.5.1 = {
 holder = aq_chief_2821
  government = tribal_government
- liege = 0
+ liege = d_daksina_kosala
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -28397,7 +28604,7 @@ c_suvarnapura = {
 642.5.1 = {
 holder = aq_chief_2864
  government = tribal_government
- liege = 0
+ liege = d_daksina_kosala
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -28407,7 +28614,7 @@ c_sambalpur = {
 642.5.1 = {
 holder = aq_chief_2604
  government = tribal_government
- liege = 0
+ liege = d_daksina_kosala
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -28419,10 +28626,14 @@ holder = aq_chief_1670
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
-d_kalinga = { 642.5.1 = { holder = 0 liege = 0 } }
+d_kalinga = { 642.5.1 = { holder = aq_chief_1534 liege = k_aq_nanda_orissa 
+ government = tribal_government
+} }
 
 c_kalinganagar = {
 642.5.1 = {
@@ -28430,6 +28641,8 @@ holder = aq_chief_1534
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -28437,7 +28650,7 @@ c_puri = {
 642.5.1 = {
 holder = aq_chief_2434
  government = tribal_government
- liege = 0
+ liege = d_kalinga
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -28447,7 +28660,7 @@ c_swetaka_mandala = {
 642.5.1 = {
 holder = aq_chief_2870
  government = tribal_government
- liege = 0
+ liege = d_kalinga
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -28457,7 +28670,7 @@ c_vizagipatam = {
 642.5.1 = {
 holder = aq_chief_3221
  government = tribal_government
- liege = 0
+ liege = d_kalinga
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33696,7 +33909,9 @@ holder = aq_chief_3000
 }
 }
 
-d_xichuan = { 642.5.1 = { holder = 0 liege = 0 } }
+d_xichuan = { 642.5.1 = { holder = aq_chief_738 liege = 0 
+ government = tribal_government
+} }
 
 c_chengdu = {
 642.5.1 = {
@@ -33704,6 +33919,8 @@ holder = aq_chief_738
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -33711,7 +33928,7 @@ c_pengzhou = {
 642.5.1 = {
 holder = aq_chief_2365
  government = tribal_government
- liege = 0
+ liege = d_xichuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33721,7 +33938,7 @@ c_hanzhou = {
 642.5.1 = {
 holder = aq_chief_1267
  government = tribal_government
- liege = 0
+ liege = d_xichuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33731,7 +33948,7 @@ c_jianyang = {
 642.5.1 = {
 holder = aq_chief_1457
  government = tribal_government
- liege = 0
+ liege = d_xichuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33741,7 +33958,7 @@ c_lingzhou_1 = {
 642.5.1 = {
 holder = aq_chief_1866
  government = tribal_government
- liege = 0
+ liege = d_xichuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33751,19 +33968,21 @@ c_maozhou = {
 642.5.1 = {
 holder = aq_chief_2001
  government = tribal_government
- liege = 0
+ liege = d_xichuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
-d_qiongnan = { 642.5.1 = { holder = 0 liege = 0 } }
+d_qiongnan = { 642.5.1 = { holder = aq_chief_1266 liege = k_aq040_shu 
+ government = tribal_government
+} }
 
 c_qiongzhou = {
 642.5.1 = {
 holder = aq_chief_2470
  government = tribal_government
- liege = 0
+ liege = d_qiongnan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33773,7 +33992,7 @@ c_yazhou_2 = {
 642.5.1 = {
 holder = aq_chief_3370
  government = tribal_government
- liege = 0
+ liege = d_qiongnan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33783,7 +34002,7 @@ c_meizhou = {
 642.5.1 = {
 holder = aq_chief_2042
  government = tribal_government
- liege = 0
+ liege = d_qiongnan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33793,7 +34012,7 @@ c_jiazhou = {
 642.5.1 = {
 holder = aq_chief_1459
  government = tribal_government
- liege = 0
+ liege = d_qiongnan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33805,6 +34024,8 @@ holder = aq_chief_1266
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -33812,19 +34033,21 @@ c_qiongbu = {
 642.5.1 = {
 holder = aq_chief_2469
  government = tribal_government
- liege = 0
+ liege = d_qiongnan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
-d_xingyuan = { 642.5.1 = { holder = 0 liege = 0 } }
+d_xingyuan = { 642.5.1 = { holder = aq_chief_583 liege = k_aq040_shu 
+ government = tribal_government
+} }
 
 c_xingyuan = {
 642.5.1 = {
 holder = aq_chief_3322
  government = tribal_government
- liege = 0
+ liege = d_xingyuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33834,7 +34057,7 @@ c_yangzhou_1 = {
 642.5.1 = {
 holder = aq_chief_3354
  government = tribal_government
- liege = 0
+ liege = d_xingyuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33846,6 +34069,8 @@ holder = aq_chief_583
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -33853,7 +34078,7 @@ c_jizhou_2 = {
 642.5.1 = {
 holder = aq_chief_1485
  government = tribal_government
- liege = 0
+ liege = d_xingyuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33910,7 +34135,9 @@ holder = aq_chief_2366
 }
 }
 
-d_baqu = { 642.5.1 = { holder = 0 liege = 0 } }
+d_baqu = { 642.5.1 = { holder = aq_chief_511 liege = k_aq040_ba 
+ government = tribal_government
+} }
 
 c_bazhou = {
 642.5.1 = {
@@ -33918,6 +34145,8 @@ holder = aq_chief_511
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -33925,7 +34154,7 @@ c_quzhou = {
 642.5.1 = {
 holder = aq_chief_2487
  government = tribal_government
- liege = 0
+ liege = d_baqu
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33935,7 +34164,7 @@ c_tongzhou_1 = {
 642.5.1 = {
 holder = aq_chief_3024
  government = tribal_government
- liege = 0
+ liege = d_baqu
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33945,19 +34174,21 @@ c_kaizhou = {
 642.5.1 = {
 holder = aq_chief_1524
  government = tribal_government
- liege = 0
+ liege = d_baqu
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
-d_dongchuan = { 642.5.1 = { holder = 0 liege = 0 } }
+d_dongchuan = { 642.5.1 = { holder = aq_chief_1458 liege = k_aq040_shu 
+ government = tribal_government
+} }
 
 c_tongchuan = {
 642.5.1 = {
 holder = aq_chief_3021
  government = tribal_government
- liege = 0
+ liege = d_dongchuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33967,7 +34198,7 @@ c_mianzhou = {
 642.5.1 = {
 holder = aq_chief_2065
  government = tribal_government
- liege = 0
+ liege = d_dongchuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33977,7 +34208,7 @@ c_longzhou = {
 642.5.1 = {
 holder = aq_chief_1895
  government = tribal_government
- liege = 0
+ liege = d_dongchuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -33989,6 +34220,8 @@ holder = aq_chief_1458
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -33996,7 +34229,7 @@ c_puzhou = {
 642.5.1 = {
 holder = aq_chief_2441
  government = tribal_government
- liege = 0
+ liege = d_dongchuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -34006,19 +34239,21 @@ c_zizhou_2 = {
 642.5.1 = {
 holder = aq_chief_3465
  government = tribal_government
- liege = 0
+ liege = d_dongchuan
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
-d_wuxin = { 642.5.1 = { holder = 0 liege = 0 } }
+d_wuxin = { 642.5.1 = { holder = aq_chief_728 liege = k_aq040_ba 
+ government = tribal_government
+} }
 
 c_suining = {
 642.5.1 = {
 holder = aq_chief_2842
  government = tribal_government
- liege = 0
+ liege = d_wuxin
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -34030,6 +34265,8 @@ holder = aq_chief_728
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -34047,7 +34284,7 @@ c_rongzhou = {
 642.5.1 = {
 holder = aq_chief_2546
  government = tribal_government
- liege = 0
+ liege = d_wuxin
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -34057,7 +34294,7 @@ c_luzhou_2 = {
 642.5.1 = {
 holder = aq_chief_1928
  government = tribal_government
- liege = 0
+ liege = d_wuxin
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -34067,19 +34304,21 @@ c_nanxi = {
 642.5.1 = {
 holder = aq_chief_2184
  government = tribal_government
- liege = 0
+ liege = d_wuxin
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
 }
 
-d_kuizhong = { 642.5.1 = { holder = 0 liege = 0 } }
+d_kuizhong = { 642.5.1 = { holder = aq_chief_1090 liege = k_aq040_ba 
+ government = tribal_government
+} }
 
 c_kuizhou = {
 642.5.1 = {
 holder = aq_chief_1755
  government = tribal_government
- liege = 0
+ liege = d_kuizhong
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -34089,7 +34328,7 @@ c_zhongzhou = {
 642.5.1 = {
 holder = aq_chief_3457
  government = tribal_government
- liege = 0
+ liege = d_kuizhong
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -34099,7 +34338,7 @@ c_wanzhou = {
 642.5.1 = {
 holder = aq_chief_3256
  government = tribal_government
- liege = 0
+ liege = d_kuizhong
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
 }
@@ -34111,6 +34350,8 @@ holder = aq_chief_1090
  government = tribal_government
  change_development_level = 2
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -37320,7 +37561,7 @@ holder = aq_chief_310
 
 k_aq_persia_cyprus = {
 642.5.1 = {
-holder = aq_chief_1033
+holder = aq_evagoras
  government = tribal_government
  liege = e_aq_persia
  succession_laws = { partition_succession_law male_preference_law }
@@ -37329,7 +37570,7 @@ holder = aq_chief_1033
 
 k_aq_persia_nikaea = {
 642.5.1 = {
-holder = aq_chief_243
+holder = aq_artabazos
  government = tribal_government
  liege = e_aq_persia
  succession_laws = { partition_succession_law male_preference_law }
@@ -37377,6 +37618,8 @@ k_aq_persia_persia = {
 holder = aq_persia
  government = tribal_government
  succession_laws = { partition_succession_law male_preference_law }
+
+ liege = 0
 }
 }
 
@@ -37468,4 +37711,636 @@ holder = aq_chief_474
  liege = e_aq_persia
  succession_laws = { partition_succession_law male_preference_law }
 }
+}
+
+d_saint_addai = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_chosen_perkunas = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_sons_kaleva = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_knights_calatrava = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_knights_santiago = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_zealots = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_warriors_perun = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_sky_lords = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_hashshashin = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_followers_arjuna = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+k_hansa = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_ashokas_chosen = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+e_france = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+k_fashion = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_holy_sepulchre = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_haruriyyah = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_knights_templar = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+k_aquitaine = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_spirit_guardians = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_jomsvikings = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_zun_warriors = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_bulls_rishabha = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+k_brittany = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_bektashi = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_knights_hospitaler = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_huitzilopochtli = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_teutonic_order = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_saint_anthony = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_aq040_aq_carthage_sevilla = {
+ 642.5.1 = {
+  holder = aq_chief_671
+  liege = k_aq_carthage
+  government = tribal_government
+ }
+}
+
+d_aq040_africa_syrte = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_aq040_aq_song_yuncao = {
+ 642.5.1 = {
+  holder = aq_chief_695
+  liege = k_aq_song
+  government = tribal_government
+ }
+}
+
+d_aq040_aq_qi_cangjing = {
+ 642.5.1 = {
+  holder = aq_chief_899
+  liege = k_aq_qi
+  government = tribal_government
+ }
+}
+
+d_aq040_aq_yan_yideng = {
+ 642.5.1 = {
+  holder = aq_chief_3387
+  liege = k_aq_yan
+  government = tribal_government
+ }
+}
+
+d_aq040_aq_zhao_chengde = {
+ 642.5.1 = {
+  holder = aq_chief_3447
+  liege = k_aq_zhao
+  government = tribal_government
+ }
+}
+
+d_aq040_aq_wei_xingming = {
+ 642.5.1 = {
+  holder = aq_chief_3312
+  liege = k_aq_wei
+  government = tribal_government
+ }
+}
+
+d_aq040_sardinia_sardinia = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_aq040_thessalonika_thrace = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_aq040_romagna_latium = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_aq040_aq_thrace_thrace = {
+ 642.5.1 = {
+  holder = aq_chief_636
+  liege = k_aq_thrace
+  government = tribal_government
+ }
+}
+
+d_aq040_aq_carthage_kroumerie = {
+ 642.5.1 = {
+  holder = aq_chief_336
+  liege = k_aq_carthage
+  government = tribal_government
+ }
+}
+
+d_aq040_aq_chu_biansong = {
+ 642.5.1 = {
+  holder = aq_chief_3380
+  liege = k_aq_chu
+  government = tribal_government
+ }
+}
+
+d_aq040_aq_zhao_weibo = {
+ 642.5.1 = {
+  holder = aq_chief_614
+  liege = k_aq_zhao
+  government = tribal_government
+ }
+}
+
+d_aq040_aq_chu_chenxu = {
+ 642.5.1 = {
+  holder = aq_chief_1335
+  liege = k_aq_chu
+  government = tribal_government
+ }
+}
+
+d_aq040_aq_bosporus_azov = {
+ 642.5.1 = {
+  holder = aq_chief_3007
+  liege = k_aq_bosporus
+  government = tribal_government
+ }
+}
+
+d_aq040_aq_persia_anatolia_opsikion = {
+ 642.5.1 = {
+  holder = aq_chief_696
+  liege = 0
+  government = tribal_government
+ }
+}
+
+d_aq040_aq040_messenia_achaia = {
+ 642.5.1 = {
+  holder = aq_chief_2060
+  liege = 0
+  government = tribal_government
+ }
+}
+
+d_aq040_aq040_central_thrace_philippopolis = {
+ 642.5.1 = {
+  holder = aq040_central_thrace
+  liege = 0
+  government = tribal_government
+ }
+}
+
+d_aq040_aq040_wey_yuncao = {
+ 642.5.1 = {
+  holder = aq_chief_2442
+  liege = 0
+  government = tribal_government
+ }
+}
+
+d_aq040_aq_persia_cilicia_cibyrrhaeot = {
+ 642.5.1 = {
+  holder = aq_chief_2340
+  liege = k_aq_persia_cilicia
+  government = tribal_government
+ }
+}
+
+d_aq040_thessalonika_strymon = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+d_aq040_aq_qi_yanhai = {
+ 642.5.1 = {
+  holder = aq_chief_1819
+  liege = k_aq_qi
+  government = tribal_government
+ }
+}
+
+d_aq040_epirus_epirus = {
+ 642.5.1 = {
+  holder = 0
+  liege = 0
+ }
+}
+
+e_aq_nanda = {
+ 642.5.1 = {
+  holder = aq_nanda
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_hadramaut = {
+ 642.5.1 = {
+  holder = aq_chief_1241
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_qataban = {
+ 642.5.1 = {
+  holder = aq_chief_2900
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_main = {
+ 642.5.1 = {
+  holder = aq_chief_1441
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_ba = {
+ 642.5.1 = {
+  holder = aq_chief_3408
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_shu = {
+ 642.5.1 = {
+  holder = aq_chief_738
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_wey = {
+ 642.5.1 = {
+  holder = aq_chief_2442
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_lu = {
+ 642.5.1 = {
+  holder = aq_chief_3356
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_zhongshan = {
+ 642.5.1 = {
+  holder = aq_chief_3453
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq_nanda_orissa = {
+ 642.5.1 = {
+  holder = aq_chief_1600
+  liege = e_aq_nanda
+  government = tribal_government
+ }
+}
+
+k_aq_nanda_kosala = {
+ 642.5.1 = {
+  holder = aq_chief_1558
+  liege = e_aq_nanda
+  government = tribal_government
+ }
+}
+
+k_aq_nanda_gondwana = {
+ 642.5.1 = {
+  holder = aq_chief_2517
+  liege = e_aq_nanda
+  government = tribal_government
+ }
+}
+
+k_aq_nanda_delhi = {
+ 642.5.1 = {
+  holder = aq_chief_2024
+  liege = e_aq_nanda
+  government = tribal_government
+ }
+}
+
+k_aq_nanda_bengal = {
+ 642.5.1 = {
+  holder = aq_chief_1120
+  liege = e_aq_nanda
+  government = tribal_government
+ }
+}
+
+k_aq040_central_thrace = {
+ 642.5.1 = {
+  holder = aq040_central_thrace
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_west_thrace = {
+ 642.5.1 = {
+  holder = aq_berisades
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_byzantion = {
+ 642.5.1 = {
+  holder = aq_chief_666
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_messenia = {
+ 642.5.1 = {
+  holder = aq_chief_2060
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq040_kyrene = {
+ 642.5.1 = {
+  holder = aq_chief_493
+  liege = 0
+  government = tribal_government
+ }
+}
+
+k_aq_persia_iberia = {
+ 642.5.1 = {
+  holder = aq_chief_2947
+  liege = e_aq_persia
+  government = tribal_government
+ }
+}
+
+k_aq_persia_drangiana = {
+ 642.5.1 = {
+  holder = aq_chief_3428
+  liege = e_aq_persia
+  government = tribal_government
+ }
+}
+
+k_aq_persia_aria = {
+ 642.5.1 = {
+  holder = aq_chief_1294
+  liege = e_aq_persia
+  government = tribal_government
+ }
+}
+
+k_aq_persia_margiana = {
+ 642.5.1 = {
+  holder = aq_chief_2057
+  liege = e_aq_persia
+  government = tribal_government
+ }
+}
+
+k_aq_persia_bactria = {
+ 642.5.1 = {
+  holder = aq_chief_461
+  liege = e_aq_persia
+  government = tribal_government
+ }
+}
+
+k_aq_persia_carmania = {
+ 642.5.1 = {
+  holder = aq_chief_1674
+  liege = e_aq_persia
+  government = tribal_government
+ }
+}
+
+k_aq_persia_hyrcania = {
+ 642.5.1 = {
+  holder = aq_chief_1216
+  liege = e_aq_persia
+  government = tribal_government
+ }
+}
+
+k_aq_persia_cilicia = {
+ 642.5.1 = {
+  holder = aq_mazaeus
+  liege = e_aq_persia
+  government = tribal_government
+ }
+}
+
+k_aq_persia_cappadocia = {
+ 642.5.1 = {
+  holder = aq_chief_1522
+  liege = e_aq_persia
+  government = tribal_government
+ }
+}
+
+k_aq_persia_caria = {
+ 642.5.1 = {
+  holder = aq_mausolus
+  liege = e_aq_persia
+  government = tribal_government
+ }
+}
+
+k_aq_persia_lydia = {
+ 642.5.1 = {
+  holder = aq_chief_1938
+  liege = e_aq_persia
+  government = tribal_government
+ }
+}
+
+# Asian Hellespont: Persian territory, not part of a medieval island league.
+d_aq040_hellespont = {
+ 642.5.1 = {
+ holder = aq_chief_234
+ liege = k_aq_persia_nikaea
+ government = tribal_government
+ succession_laws = { partition_succession_law male_preference_law }
+ }
 }

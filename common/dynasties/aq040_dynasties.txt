@@ -1,0 +1,5 @@
+aq040_dyn_central_thrace = { name = aq040_dyn_central_thrace culture = aq_odrysian }
+aq040_dyn_local_cappadocia = { name = aq040_dyn_local_cappadocia culture = aq_cappadocian }
+aq040_dyn_local_ablastha = { name = aq040_dyn_local_ablastha culture = aq_cappadocian }
+aq040_dyn_local_bampur = { name = aq040_dyn_local_bampur culture = persian }
+aq040_dyn_local_badakhshan = { name = aq040_dyn_local_badakhshan culture = aq_sogdian }

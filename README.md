@@ -1,3 +1,9 @@
+# Current revision: 0.4.0
+
+The existing launcher entry now loads `C:\antiquity_359_bc` directly. The older Documents mod folder is retained untouched. Start a new 359 BC campaign; no in-game launch was performed.
+
+Title names and the 359 BC political map have been rebuilt from the supplied naming inventory and scenario image. Read RELEASE_NOTES_040.md for implementation details, historical conventions and the static-only verification status. The earlier 0.3 documentation below describes the preserved underlying systems.
+
 # Antiquity 359 BC — 0.3.0
 
 For CK3 1.19.0.6. Restart CK3 and start a **new campaign** at 359 BC. Existing 0.2 saves are not migrated: culture IDs, governments, title holders and de jure regions changed.

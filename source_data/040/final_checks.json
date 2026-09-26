@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "counties": 3476,
+  "source_title_rows": 4760,
+  "persian_counties": 274,
+  "nanda_counties": 75,
+  "nomadic_counties": 322,
+  "localization_languages": 9,
+  "duplicate_keys_removed": 0,
+  "unchanged_barony_province_ids": 11297,
+  "launcher": {
+    "descriptor": "C:\\Users\\Super\\Documents\\Paradox Interactive\\Crusader Kings III\\mod\\antiquity_359_bc.mod",
+    "active_path": "C:\\antiquity_359_bc",
+    "old_documents_mod_left_untouched": true,
+    "game_launched": false
+  },
+  "in_game_tested": false
+}

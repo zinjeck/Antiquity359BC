@@ -1,4 +1,4 @@
-﻿11905 = { # b_EMan_Anzhou, c_BAL_anbyeon
+11905 = { # b_EMan_Anzhou, c_BAL_anbyeon
  culture = aq_tungusic
  religion = tengri_pagan
  holding = tribal_holding
@@ -58679,9 +58679,9 @@
 }
 
 598 = { # b_tmutarakan, c_tmutarakan
- culture = aq_sarmatian
- religion = aq_faith_steppe
- holding = nomad_holding
+ culture = aq_hellenic
+ religion = hellenic_pagan
+ holding = tribal_holding
 }
 
 5289 = { # b_papagia, c_tmutarakan

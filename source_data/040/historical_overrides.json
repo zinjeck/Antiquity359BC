@@ -1,0 +1,47 @@
+[
+ {
+  "title": "d_jawf",
+  "source_name": "Ma'in",
+  "implemented": "Dumat al-Jandal",
+  "reason": "The source confuses northern al-Jawf with the southern Arabian Ma'in kingdom."
+ },
+ {
+  "title": "c_al_jawf",
+  "source_name": "Ma'in",
+  "implemented": "Dumat al-Jandal",
+  "reason": "Northern Arabian oasis, not the Minaean capital in Yemen."
+ },
+ {
+  "title": "d_bucellaria",
+  "source_name": "Galatia",
+  "implemented": "Northern Phrygia",
+  "reason": "Galatian settlement postdates 359 BC; retain the pre-Galatian regional name."
+ },
+ {
+  "title": "c_hadrianopolis",
+  "source_name": "Galatia",
+  "implemented": "Paphlagonian Interior",
+  "reason": "Avoid a Roman imperial foundation name and the source's later Galatia fallback."
+ },
+ {
+  "title": "k_galicia-volhynia",
+  "source_name": "Galicia- Volhynia",
+  "implemented": "Upper Dniester Lands",
+  "reason": "Medieval Galicia-Volhynia was inadvertently retained in the supplied list."
+ },
+ {
+  "title": "c_cadiz",
+  "implemented": "Punic sphere under Carthage",
+  "reason": "Map-driven coastal affiliation. This is not a claim of a securely dated Carthaginian annexation."
+ },
+ {
+  "title": "c_kerch",
+  "implemented": "Pantikapaion",
+  "reason": "Attested Greek settlement replaces a broad regional fallback. Coastal capital is Hellenic; surrounding rural baronies are not homogenized."
+ },
+ {
+  "title": "c_tmutarakan",
+  "implemented": "Hermonassa",
+  "reason": "Attested Greek settlement replaces a broad regional fallback. Coastal capital is Hellenic; surrounding rural baronies are not homogenized."
+ }
+]

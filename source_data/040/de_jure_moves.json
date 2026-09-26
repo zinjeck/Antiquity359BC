@@ -1,0 +1,917 @@
+[
+ {
+  "title": "d_gascogne",
+  "from": "k_aquitaine",
+  "to": "k_france"
+ },
+ {
+  "title": "d_aquitaine",
+  "from": "k_aquitaine",
+  "to": "k_france"
+ },
+ {
+  "title": "d_toulouse",
+  "from": "k_aquitaine",
+  "to": "k_france"
+ },
+ {
+  "title": "d_languedoc",
+  "from": "k_aquitaine",
+  "to": "k_france"
+ },
+ {
+  "title": "d_armagnac",
+  "from": "k_aquitaine",
+  "to": "k_france"
+ },
+ {
+  "title": "d_poitou",
+  "from": "k_aquitaine",
+  "to": "k_france"
+ },
+ {
+  "title": "d_auvergne",
+  "from": "k_aquitaine",
+  "to": "k_france"
+ },
+ {
+  "title": "d_bourbon",
+  "from": "k_aquitaine",
+  "to": "k_france"
+ },
+ {
+  "title": "d_brittany",
+  "from": "k_brittany",
+  "to": "k_france"
+ },
+ {
+  "title": "k_aq_persia_lydia",
+  "from": null,
+  "to": "e_aq_persia"
+ },
+ {
+  "title": "k_aq_persia_caria",
+  "from": null,
+  "to": "e_aq_persia"
+ },
+ {
+  "title": "k_aq_persia_cappadocia",
+  "from": null,
+  "to": "e_aq_persia"
+ },
+ {
+  "title": "k_aq_persia_cilicia",
+  "from": null,
+  "to": "e_aq_persia"
+ },
+ {
+  "title": "k_aq_persia_hyrcania",
+  "from": null,
+  "to": "e_aq_persia"
+ },
+ {
+  "title": "k_aq_persia_carmania",
+  "from": null,
+  "to": "e_aq_persia"
+ },
+ {
+  "title": "k_aq_persia_bactria",
+  "from": null,
+  "to": "e_aq_persia"
+ },
+ {
+  "title": "k_aq_persia_margiana",
+  "from": null,
+  "to": "e_aq_persia"
+ },
+ {
+  "title": "k_aq_persia_aria",
+  "from": null,
+  "to": "e_aq_persia"
+ },
+ {
+  "title": "k_aq_persia_drangiana",
+  "from": null,
+  "to": "e_aq_persia"
+ },
+ {
+  "title": "k_aq_persia_iberia",
+  "from": null,
+  "to": "e_aq_persia"
+ },
+ {
+  "title": "k_aq040_kyrene",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_kyrene",
+  "from": "e_byzantium",
+  "to": "e_aq_nile"
+ },
+ {
+  "title": "k_aq040_messenia",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_byzantion",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_west_thrace",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_central_thrace",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_west_thrace",
+  "from": "e_byzantium",
+  "to": "e_aq_balkan"
+ },
+ {
+  "title": "k_aq040_central_thrace",
+  "from": "e_byzantium",
+  "to": "e_aq_balkan"
+ },
+ {
+  "title": "k_aq_nanda",
+  "from": "e_bengal",
+  "to": "e_aq_nanda"
+ },
+ {
+  "title": "k_aq_nanda_bengal",
+  "from": null,
+  "to": "e_aq_nanda"
+ },
+ {
+  "title": "k_aq_nanda_delhi",
+  "from": null,
+  "to": "e_aq_nanda"
+ },
+ {
+  "title": "k_aq_nanda_gondwana",
+  "from": null,
+  "to": "e_aq_nanda"
+ },
+ {
+  "title": "k_aq_nanda_kosala",
+  "from": null,
+  "to": "e_aq_nanda"
+ },
+ {
+  "title": "k_aq_nanda_orissa",
+  "from": null,
+  "to": "e_aq_nanda"
+ },
+ {
+  "title": "k_aq040_zhongshan",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_lu",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_wey",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_zhongshan",
+  "from": "e_byzantium",
+  "to": "e_zhongyuan"
+ },
+ {
+  "title": "k_aq040_lu",
+  "from": "e_byzantium",
+  "to": "e_zhongyuan"
+ },
+ {
+  "title": "k_aq040_wey",
+  "from": "e_byzantium",
+  "to": "e_zhongyuan"
+ },
+ {
+  "title": "k_aq040_shu",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_ba",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_shu",
+  "from": "e_byzantium",
+  "to": "e_liangyi"
+ },
+ {
+  "title": "k_aq040_ba",
+  "from": "e_byzantium",
+  "to": "e_liangyi"
+ },
+ {
+  "title": "k_aq040_main",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_qataban",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_hadramaut",
+  "from": null,
+  "to": "e_byzantium"
+ },
+ {
+  "title": "k_aq040_main",
+  "from": "e_byzantium",
+  "to": "e_arabia"
+ },
+ {
+  "title": "k_aq040_qataban",
+  "from": "e_byzantium",
+  "to": "e_arabia"
+ },
+ {
+  "title": "k_aq040_hadramaut",
+  "from": "e_byzantium",
+  "to": "e_arabia"
+ },
+ {
+  "title": "d_aq040_epirus_epirus",
+  "from": null,
+  "to": "k_epirus"
+ },
+ {
+  "title": "c_aetolia",
+  "from": "d_epirus",
+  "to": "d_aq040_epirus_epirus"
+ },
+ {
+  "title": "d_cephalonia",
+  "from": "k_aq_epirus",
+  "to": "k_epirus"
+ },
+ {
+  "title": "d_aq040_aq040_messenia_achaia",
+  "from": null,
+  "to": "k_aq040_messenia"
+ },
+ {
+  "title": "c_messenia",
+  "from": "d_achaia",
+  "to": "d_aq040_aq040_messenia_achaia"
+ },
+ {
+  "title": "d_aq040_aq_persia_anatolia_opsikion",
+  "from": null,
+  "to": "k_aq_persia_anatolia"
+ },
+ {
+  "title": "c_phrygia",
+  "from": "d_opsikion",
+  "to": "d_aq040_aq_persia_anatolia_opsikion"
+ },
+ {
+  "title": "d_ephese",
+  "from": "k_aq_persia_nikaea",
+  "to": "k_aq_persia_lydia"
+ },
+ {
+  "title": "d_thracesia",
+  "from": "k_aq_persia_nikaea",
+  "to": "k_aq_persia_lydia"
+ },
+ {
+  "title": "d_bucellaria",
+  "from": "k_aq_persia_nikaea",
+  "to": "k_aq_persia_anatolia"
+ },
+ {
+  "title": "d_cilicia",
+  "from": "k_aq_persia_anatolia",
+  "to": "k_aq_persia_cilicia"
+ },
+ {
+  "title": "d_cibyrrhaeot",
+  "from": "k_aq_persia_anatolia",
+  "to": "k_aq_persia_caria"
+ },
+ {
+  "title": "d_aq040_aq_persia_cilicia_cibyrrhaeot",
+  "from": null,
+  "to": "k_aq_persia_cilicia"
+ },
+ {
+  "title": "c_pamphylia",
+  "from": "d_cibyrrhaeot",
+  "to": "d_aq040_aq_persia_cilicia_cibyrrhaeot"
+ },
+ {
+  "title": "d_cappadocia",
+  "from": "k_aq_persia_anatolia",
+  "to": "k_aq_persia_cappadocia"
+ },
+ {
+  "title": "d_charsianon",
+  "from": "k_aq_persia_anatolia",
+  "to": "k_aq_persia_cappadocia"
+ },
+ {
+  "title": "d_sebasteia",
+  "from": "k_aq_persia_pontus",
+  "to": "k_aq_persia_cappadocia"
+ },
+ {
+  "title": "d_badakhshan",
+  "from": "k_aq_persia_transoxiana",
+  "to": "k_aq_persia_bactria"
+ },
+ {
+  "title": "d_khuttal",
+  "from": "k_aq_persia_transoxiana",
+  "to": "k_aq_persia_bactria"
+ },
+ {
+  "title": "d_kirman",
+  "from": "k_aq_persia_persia",
+  "to": "k_aq_persia_carmania"
+ },
+ {
+  "title": "d_rayy",
+  "from": "k_aq_persia_persia",
+  "to": "k_aq_persia_daylam"
+ },
+ {
+  "title": "d_hamadan",
+  "from": "k_aq_persia_persia",
+  "to": "k_aq_persia_daylam"
+ },
+ {
+  "title": "d_hormuz",
+  "from": "k_aq_persia_persia",
+  "to": "k_aq_persia_carmania"
+ },
+ {
+  "title": "d_kermanshah",
+  "from": "k_aq_persia_persia",
+  "to": "k_aq_persia_daylam"
+ },
+ {
+  "title": "d_merv",
+  "from": "k_aq_persia_khorasan",
+  "to": "k_aq_persia_margiana"
+ },
+ {
+  "title": "d_ghur",
+  "from": "k_aq_persia_khorasan",
+  "to": "k_aq_persia_aria"
+ },
+ {
+  "title": "d_herat",
+  "from": "k_aq_persia_khorasan",
+  "to": "k_aq_persia_aria"
+ },
+ {
+  "title": "d_balkh",
+  "from": "k_aq_persia_khorasan",
+  "to": "k_aq_persia_bactria"
+ },
+ {
+  "title": "d_tabaristan",
+  "from": "k_aq_persia_daylam",
+  "to": "k_aq_persia_hyrcania"
+ },
+ {
+  "title": "d_gurgan",
+  "from": "k_aq_persia_daylam",
+  "to": "k_aq_persia_hyrcania"
+ },
+ {
+  "title": "d_jabal_kufs",
+  "from": "k_aq_persia_makran",
+  "to": "k_aq_persia_carmania"
+ },
+ {
+  "title": "d_sistan",
+  "from": "k_aq_persia_makran",
+  "to": "k_aq_persia_drangiana"
+ },
+ {
+  "title": "d_jawf-al-yamani",
+  "from": "k_aq_saba",
+  "to": "k_aq040_main"
+ },
+ {
+  "title": "d_taizz",
+  "from": "k_aq_saba",
+  "to": "k_aq040_qataban"
+ },
+ {
+  "title": "d_amman",
+  "from": "k_arabia",
+  "to": "k_aq_persia_jerusalem"
+ },
+ {
+  "title": "d_hadramawt",
+  "from": "k_yemen",
+  "to": "k_aq040_hadramaut"
+ },
+ {
+  "title": "d_aq040_romagna_latium",
+  "from": null,
+  "to": "k_romagna"
+ },
+ {
+  "title": "c_tivoli",
+  "from": "d_latium",
+  "to": "d_aq040_romagna_latium"
+ },
+ {
+  "title": "d_aq040_aq_bosporus_azov",
+  "from": null,
+  "to": "k_aq_bosporus"
+ },
+ {
+  "title": "c_tmutarakan",
+  "from": "d_azov",
+  "to": "d_aq040_aq_bosporus_azov"
+ },
+ {
+  "title": "d_mathura",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_delhi"
+ },
+ {
+  "title": "d_vodamayutja",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_delhi"
+ },
+ {
+  "title": "d_kanyakubja",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_kosala"
+ },
+ {
+  "title": "d_saryupara",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_kosala"
+ },
+ {
+  "title": "d_jejakabhukti",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_kosala"
+ },
+ {
+  "title": "d_gauda",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_bengal"
+ },
+ {
+  "title": "d_varendra",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_bengal"
+ },
+ {
+  "title": "d_vanga",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_bengal"
+ },
+ {
+  "title": "d_nadia",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_bengal"
+ },
+ {
+  "title": "d_suhma",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_bengal"
+ },
+ {
+  "title": "d_dahala",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_gondwana"
+ },
+ {
+  "title": "d_ratanpur",
+  "from": "k_aq_nanda",
+  "to": "k_aq_nanda_gondwana"
+ },
+ {
+  "title": "d_tosali",
+  "from": "k_orissa",
+  "to": "k_aq_nanda_orissa"
+ },
+ {
+  "title": "d_daksina_kosala",
+  "from": "k_orissa",
+  "to": "k_aq_nanda_orissa"
+ },
+ {
+  "title": "d_kalinga",
+  "from": "k_orissa",
+  "to": "k_aq_nanda_orissa"
+ },
+ {
+  "title": "d_fufang",
+  "from": "k_aq_qin",
+  "to": "k_guannei"
+ },
+ {
+  "title": "d_xingfeng",
+  "from": "k_aq_qin",
+  "to": "k_guannei"
+ },
+ {
+  "title": "d_weibo",
+  "from": "k_aq_zhao",
+  "to": "k_aq_wei"
+ },
+ {
+  "title": "d_aq040_aq_zhao_weibo",
+  "from": null,
+  "to": "k_aq_zhao"
+ },
+ {
+  "title": "c_bozhou_1",
+  "from": "d_weibo",
+  "to": "d_aq040_aq_zhao_weibo"
+ },
+ {
+  "title": "c_beizhou",
+  "from": "d_weibo",
+  "to": "d_aq040_aq_zhao_weibo"
+ },
+ {
+  "title": "d_aq040_aq_wei_xingming",
+  "from": null,
+  "to": "k_aq_wei"
+ },
+ {
+  "title": "c_xiangzhou",
+  "from": "d_xingming",
+  "to": "d_aq040_aq_wei_xingming"
+ },
+ {
+  "title": "d_chengde",
+  "from": "k_aq_zhao",
+  "to": "k_aq040_zhongshan"
+ },
+ {
+  "title": "d_aq040_aq_zhao_chengde",
+  "from": null,
+  "to": "k_aq_zhao"
+ },
+ {
+  "title": "c_zhaozhou",
+  "from": "d_chengde",
+  "to": "d_aq040_aq_zhao_chengde"
+ },
+ {
+  "title": "c_jizhou",
+  "from": "d_chengde",
+  "to": "d_aq040_aq_zhao_chengde"
+ },
+ {
+  "title": "c_shenzhou_1",
+  "from": "d_chengde",
+  "to": "d_aq040_aq_zhao_chengde"
+ },
+ {
+  "title": "d_cangjing",
+  "from": "k_aq_zhao",
+  "to": "k_aq_yan"
+ },
+ {
+  "title": "d_aq040_aq_qi_cangjing",
+  "from": null,
+  "to": "k_aq_qi"
+ },
+ {
+  "title": "c_dezhou",
+  "from": "d_cangjing",
+  "to": "d_aq040_aq_qi_cangjing"
+ },
+ {
+  "title": "c_dizhou",
+  "from": "d_cangjing",
+  "to": "d_aq040_aq_qi_cangjing"
+ },
+ {
+  "title": "d_heyang",
+  "from": "k_aq_zhao",
+  "to": "k_aq_han"
+ },
+ {
+  "title": "d_xinan",
+  "from": "k_aq_zhao",
+  "to": "k_daibei"
+ },
+ {
+  "title": "d_hedong",
+  "from": "k_aq_wei",
+  "to": "k_aq_zhao"
+ },
+ {
+  "title": "d_zelu",
+  "from": "k_aq_wei",
+  "to": "k_aq_han"
+ },
+ {
+  "title": "d_aq040_aq_chu_chenxu",
+  "from": null,
+  "to": "k_aq_chu"
+ },
+ {
+  "title": "c_huaining",
+  "from": "d_chenxu",
+  "to": "d_aq040_aq_chu_chenxu"
+ },
+ {
+  "title": "c_caizhou",
+  "from": "d_chenxu",
+  "to": "d_aq040_aq_chu_chenxu"
+ },
+ {
+  "title": "c_shenzhou",
+  "from": "d_chenxu",
+  "to": "d_aq040_aq_chu_chenxu"
+ },
+ {
+  "title": "d_yanhai",
+  "from": "k_aq_qi",
+  "to": "k_aq040_lu"
+ },
+ {
+  "title": "d_aq040_aq_qi_yanhai",
+  "from": null,
+  "to": "k_aq_qi"
+ },
+ {
+  "title": "c_langya",
+  "from": "d_yanhai",
+  "to": "d_aq040_aq_qi_yanhai"
+ },
+ {
+  "title": "c_mizhou",
+  "from": "d_yanhai",
+  "to": "d_aq040_aq_qi_yanhai"
+ },
+ {
+  "title": "c_haizhou",
+  "from": "d_yanhai",
+  "to": "d_aq040_aq_qi_yanhai"
+ },
+ {
+  "title": "d_yideng",
+  "from": "k_aq_yan",
+  "to": "k_aq040_zhongshan"
+ },
+ {
+  "title": "d_aq040_aq_yan_yideng",
+  "from": null,
+  "to": "k_aq_yan"
+ },
+ {
+  "title": "c_yizhou_1",
+  "from": "d_yideng",
+  "to": "d_aq040_aq_yan_yideng"
+ },
+ {
+  "title": "d_aq040_aq_chu_biansong",
+  "from": null,
+  "to": "k_aq_chu"
+ },
+ {
+  "title": "c_yingzhou",
+  "from": "d_biansong",
+  "to": "d_aq040_aq_chu_biansong"
+ },
+ {
+  "title": "d_yuncao",
+  "from": "k_aq_song",
+  "to": "k_aq_qi"
+ },
+ {
+  "title": "d_aq040_aq040_wey_yuncao",
+  "from": null,
+  "to": "k_aq040_wey"
+ },
+ {
+  "title": "c_puzhou_2",
+  "from": "d_yuncao",
+  "to": "d_aq040_aq040_wey_yuncao"
+ },
+ {
+  "title": "d_aq040_aq_song_yuncao",
+  "from": null,
+  "to": "k_aq_song"
+ },
+ {
+  "title": "c_caozhou",
+  "from": "d_yuncao",
+  "to": "d_aq040_aq_song_yuncao"
+ },
+ {
+  "title": "d_aq040_aq_carthage_sevilla",
+  "from": null,
+  "to": "k_aq_carthage"
+ },
+ {
+  "title": "c_cadiz",
+  "from": "d_sevilla",
+  "to": "d_aq040_aq_carthage_sevilla"
+ },
+ {
+  "title": "d_mallorca",
+  "from": "k_valencia",
+  "to": "k_aq_carthage"
+ },
+ {
+  "title": "d_aq040_valencia_mallorca",
+  "from": null,
+  "to": "k_valencia"
+ },
+ {
+  "title": "c_mallorca",
+  "from": "d_mallorca",
+  "to": "d_aq040_valencia_mallorca"
+ },
+ {
+  "title": "c_menorca",
+  "from": "d_mallorca",
+  "to": "d_aq040_valencia_mallorca"
+ },
+ {
+  "title": "d_kuru",
+  "from": "k_delhi",
+  "to": "k_aq_nanda_delhi"
+ },
+ {
+  "title": "d_xichuan",
+  "from": "k_xichuan",
+  "to": "k_aq040_shu"
+ },
+ {
+  "title": "d_qiongnan",
+  "from": "k_xichuan",
+  "to": "k_aq040_shu"
+ },
+ {
+  "title": "d_xingyuan",
+  "from": "k_xingyuan",
+  "to": "k_aq040_shu"
+ },
+ {
+  "title": "d_baqu",
+  "from": "k_xingyuan",
+  "to": "k_aq040_ba"
+ },
+ {
+  "title": "d_dongchuan",
+  "from": "k_dongchuan",
+  "to": "k_aq040_shu"
+ },
+ {
+  "title": "d_wuxin",
+  "from": "k_dongchuan",
+  "to": "k_aq040_ba"
+ },
+ {
+  "title": "d_kuizhong",
+  "from": "k_kuizhou",
+  "to": "k_aq040_ba"
+ },
+ {
+  "title": "d_cyrenaica",
+  "from": "k_aq_egypt",
+  "to": "k_aq040_kyrene"
+ },
+ {
+  "title": "d_aq040_sardinia_sardinia",
+  "from": null,
+  "to": "k_sardinia"
+ },
+ {
+  "title": "c_logudoro",
+  "from": "d_sardinia",
+  "to": "d_aq040_sardinia_sardinia"
+ },
+ {
+  "title": "c_tortoli",
+  "from": "d_sardinia",
+  "to": "d_aq040_sardinia_sardinia"
+ },
+ {
+  "title": "d_kroumerie",
+  "from": "k_aq_carthage",
+  "to": "k_africa"
+ },
+ {
+  "title": "d_aq040_aq_carthage_kroumerie",
+  "from": null,
+  "to": "k_aq_carthage"
+ },
+ {
+  "title": "c_annaba",
+  "from": "d_kroumerie",
+  "to": "d_aq040_aq_carthage_kroumerie"
+ },
+ {
+  "title": "d_aq040_africa_syrte",
+  "from": null,
+  "to": "k_africa"
+ },
+ {
+  "title": "c_waddan",
+  "from": "d_syrte",
+  "to": "d_aq040_africa_syrte"
+ },
+ {
+  "title": "d_thrace",
+  "from": "k_aq_thrace",
+  "to": "k_aq040_byzantion"
+ },
+ {
+  "title": "d_aq040_thessalonika_thrace",
+  "from": null,
+  "to": "k_thessalonika"
+ },
+ {
+  "title": "c_kalliopolis",
+  "from": "d_thrace",
+  "to": "d_aq040_thessalonika_thrace"
+ },
+ {
+  "title": "d_aq040_aq_thrace_thrace",
+  "from": null,
+  "to": "k_aq_thrace"
+ },
+ {
+  "title": "c_brysis",
+  "from": "d_thrace",
+  "to": "d_aq040_aq_thrace_thrace"
+ },
+ {
+  "title": "d_strymon",
+  "from": "k_aq_thrace",
+  "to": "k_aq040_west_thrace"
+ },
+ {
+  "title": "d_aq040_thessalonika_strymon",
+  "from": null,
+  "to": "k_thessalonika"
+ },
+ {
+  "title": "c_serres",
+  "from": "d_strymon",
+  "to": "d_aq040_thessalonika_strymon"
+ },
+ {
+  "title": "d_aq040_aq040_central_thrace_philippopolis",
+  "from": null,
+  "to": "k_aq040_central_thrace"
+ },
+ {
+  "title": "c_philippopolis",
+  "from": "d_philippopolis",
+  "to": "d_aq040_aq040_central_thrace_philippopolis"
+ },
+ {
+  "title": "c_kran",
+  "from": "d_philippopolis",
+  "to": "d_aq040_aq040_central_thrace_philippopolis"
+ },
+ {
+  "title": "c_rhodopes",
+  "from": "d_philippopolis",
+  "to": "d_aq040_aq040_central_thrace_philippopolis"
+ },
+ {
+  "title": "d_georgia",
+  "from": "k_georgia",
+  "to": "k_aq_persia_iberia"
+ },
+ {
+  "title": "c_abydos",
+  "from": "d_aegean_islands",
+  "to": "d_aq040_hellespont"
+ },
+ {
+  "title": "d_aq040_hellespont",
+  "from": null,
+  "to": "k_aq_persia_nikaea"
+ }
+]

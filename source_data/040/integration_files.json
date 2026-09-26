@@ -1,0 +1,325 @@
+{
+  "backup": "C:\\antiquity_backups\\integrate_040_20260925_190258",
+  "files": [
+    {
+      "path": "common/landed_titles/aq_world.txt",
+      "bytes": 1688161,
+      "sha256": "eb824a8b11f63e28acf12d887aff790adf2cae09365d088ff08f40b5a97a2ff1"
+    },
+    {
+      "path": "localization/english/aq_l_english.yml",
+      "bytes": 357255,
+      "sha256": "6a85250a3a4b1573b7ded715b379066f3b414c7460715b93f3ac2500a53e4ede"
+    },
+    {
+      "path": "localization/english/aq_pillars_l_english.yml",
+      "bytes": 1724,
+      "sha256": "c9faa531d9b140a7335843bda45245c0abc78f6bb9cba61a1d1d2b582091870c"
+    },
+    {
+      "path": "localization/english/replace/aq030_confederations_l_english.yml",
+      "bytes": 14,
+      "sha256": "af49b5ae3e8d63969f1523ab09f09c2cd56ead1a670e6d0c1bc821113ed5130e"
+    },
+    {
+      "path": "localization/english/replace/aq030_l_english.yml",
+      "bytes": 9058,
+      "sha256": "957bc46c959bf6bd398e40a1cbc45400ba051f235c8aba9201c8013342d30f93"
+    },
+    {
+      "path": "localization/english/replace/aq030_title_adjectives_l_english.yml",
+      "bytes": 14,
+      "sha256": "af49b5ae3e8d63969f1523ab09f09c2cd56ead1a670e6d0c1bc821113ed5130e"
+    },
+    {
+      "path": "localization/english/replace/aq_calendar_l_english.yml",
+      "bytes": 9650,
+      "sha256": "6ee54c98549b2ca5d7bcdc287086339ba434e433c1195d20e02cdf0704cbe00a"
+    },
+    {
+      "path": "localization/english/replace/aq_overrides_l_english.yml",
+      "bytes": 148,
+      "sha256": "a8f333f6736f2b7755cb744526c3bbe04d4d440ccf23fe2fb1435580e8aab73b"
+    },
+    {
+      "path": "localization/french/aq_l_french.yml",
+      "bytes": 357254,
+      "sha256": "90f37bf9ad20645c2ab819d4b20ae17e6a2f585e890d0cd298ffb09f808eead8"
+    },
+    {
+      "path": "localization/french/aq_pillars_l_french.yml",
+      "bytes": 1723,
+      "sha256": "65e4a23c6e7a241f2a8fbf4e62f4aef2de5b5aa5306ca676c48cb00e3f0c75dc"
+    },
+    {
+      "path": "localization/french/replace/aq030_confederations_l_french.yml",
+      "bytes": 13,
+      "sha256": "15fe85f47856f1066a63bd5a0175f045888e6e1c94a8e41b14137faa3da26bd2"
+    },
+    {
+      "path": "localization/french/replace/aq030_l_french.yml",
+      "bytes": 9057,
+      "sha256": "6f32314d641ed971819521d9327aff04254854f831cccc1c45e6f9a210d7d0a9"
+    },
+    {
+      "path": "localization/french/replace/aq030_title_adjectives_l_french.yml",
+      "bytes": 13,
+      "sha256": "15fe85f47856f1066a63bd5a0175f045888e6e1c94a8e41b14137faa3da26bd2"
+    },
+    {
+      "path": "localization/french/replace/aq_calendar_l_french.yml",
+      "bytes": 9649,
+      "sha256": "c86330faca6ac1431e138108a4e67a2091f9f4dd951ce4b04e18d9483fc297db"
+    },
+    {
+      "path": "localization/french/replace/aq_overrides_l_french.yml",
+      "bytes": 147,
+      "sha256": "dd47ee52ad062b64fa398bc79154449fdc2351ce03c952c78b5f3f0e543231d9"
+    },
+    {
+      "path": "localization/german/aq_l_german.yml",
+      "bytes": 357254,
+      "sha256": "f279f95f06bbb76b9d58fc4568ecc3eaaec66ed12f3a23140931e42a6278e066"
+    },
+    {
+      "path": "localization/german/aq_pillars_l_german.yml",
+      "bytes": 1723,
+      "sha256": "3461b4f58757c4aa0ef405f2a103e02d28527f80a1efda18cba99375bf78a008"
+    },
+    {
+      "path": "localization/german/replace/aq030_confederations_l_german.yml",
+      "bytes": 13,
+      "sha256": "2c36eb172d9264632479151384bc6caed4f88125e4600188d9908deeb8a85bc4"
+    },
+    {
+      "path": "localization/german/replace/aq030_l_german.yml",
+      "bytes": 9057,
+      "sha256": "acf1e9b72305428a644a4bc0a3e8f968094b5e86e2664855ffae08df88f4046c"
+    },
+    {
+      "path": "localization/german/replace/aq030_title_adjectives_l_german.yml",
+      "bytes": 13,
+      "sha256": "2c36eb172d9264632479151384bc6caed4f88125e4600188d9908deeb8a85bc4"
+    },
+    {
+      "path": "localization/german/replace/aq_calendar_l_german.yml",
+      "bytes": 9649,
+      "sha256": "5bf99fdb6827b51fa2c1a2b490d2f3af20439859de35fbf752420c41fa70e27b"
+    },
+    {
+      "path": "localization/german/replace/aq_overrides_l_german.yml",
+      "bytes": 147,
+      "sha256": "71e2942d31d34d9e43e117e833eaae10051d50db3f585138566a73e481aa1025"
+    },
+    {
+      "path": "localization/spanish/aq_l_spanish.yml",
+      "bytes": 357255,
+      "sha256": "02173043e9992d09c4cc33cd70f5a25427b36a517ba7c0c01616c5fe59226f43"
+    },
+    {
+      "path": "localization/spanish/aq_pillars_l_spanish.yml",
+      "bytes": 1724,
+      "sha256": "3d877266356bb96a7ba3d4d332699bc9cd40bc0035bdab3dd54c7d8b3a52da19"
+    },
+    {
+      "path": "localization/spanish/replace/aq030_confederations_l_spanish.yml",
+      "bytes": 14,
+      "sha256": "c44bcf540759a1ec0a64f11458ed44fcd4f9b66e6a17351daed1c6b99a5dc9ed"
+    },
+    {
+      "path": "localization/spanish/replace/aq030_l_spanish.yml",
+      "bytes": 9058,
+      "sha256": "e0d02e4585fc1a7b9cf86aab54c4ffcbde837705c900ab2e3ffe5e440896c700"
+    },
+    {
+      "path": "localization/spanish/replace/aq030_title_adjectives_l_spanish.yml",
+      "bytes": 14,
+      "sha256": "c44bcf540759a1ec0a64f11458ed44fcd4f9b66e6a17351daed1c6b99a5dc9ed"
+    },
+    {
+      "path": "localization/spanish/replace/aq_calendar_l_spanish.yml",
+      "bytes": 9650,
+      "sha256": "6e20ca42e93486076c7b790526f85047a7f41404ca75364d26f25376b757f1d3"
+    },
+    {
+      "path": "localization/spanish/replace/aq_overrides_l_spanish.yml",
+      "bytes": 148,
+      "sha256": "ec62baeaab8c7fe899de31da42aa44a176ffd2ecb3f1ce88fb239d2aa7b1fee3"
+    },
+    {
+      "path": "localization/russian/aq_l_russian.yml",
+      "bytes": 357255,
+      "sha256": "13fac3fb8716175d0e630fe0ca1e89c50e48c9f19cf543815dffb843dd9aa448"
+    },
+    {
+      "path": "localization/russian/aq_pillars_l_russian.yml",
+      "bytes": 1724,
+      "sha256": "a85ee883c787cffa143647d3ed572ebe9340702be5268138b70bc6c949681b39"
+    },
+    {
+      "path": "localization/russian/replace/aq030_confederations_l_russian.yml",
+      "bytes": 14,
+      "sha256": "92ef0c541b4d76bf76127ea3a941705d22c2028732063ed9f0a27d7e8e8555a3"
+    },
+    {
+      "path": "localization/russian/replace/aq030_l_russian.yml",
+      "bytes": 9058,
+      "sha256": "ae99eca0030ab9c35089d98e77d8ff84b0404bf666567afa6d2573a245884014"
+    },
+    {
+      "path": "localization/russian/replace/aq030_title_adjectives_l_russian.yml",
+      "bytes": 14,
+      "sha256": "92ef0c541b4d76bf76127ea3a941705d22c2028732063ed9f0a27d7e8e8555a3"
+    },
+    {
+      "path": "localization/russian/replace/aq_calendar_l_russian.yml",
+      "bytes": 9650,
+      "sha256": "d846c8eadec595b4bd3b37a64b5f6eba3ba5a776e72076b4f87d5763aeeec86a"
+    },
+    {
+      "path": "localization/russian/replace/aq_overrides_l_russian.yml",
+      "bytes": 148,
+      "sha256": "0d82b1a07ff11692536b5e838d73b4a6bdef633de3c2400f8c7fedae02149d69"
+    },
+    {
+      "path": "localization/simp_chinese/aq_l_simp_chinese.yml",
+      "bytes": 357260,
+      "sha256": "873b955617726aaf2131044ee32a22f10ceceeea517d29a78eda85dddddd32c2"
+    },
+    {
+      "path": "localization/simp_chinese/aq_pillars_l_simp_chinese.yml",
+      "bytes": 1729,
+      "sha256": "edd3d6eb4236d60b0c1d7bfa54e24d4b4f6cd68461f0053d110dfcbfcf268a88"
+    },
+    {
+      "path": "localization/simp_chinese/replace/aq030_confederations_l_simp_chinese.yml",
+      "bytes": 19,
+      "sha256": "00f320c6d8d4ac8a096b145a452998b68c27d8f624378ef2ec2d4505043d2d6b"
+    },
+    {
+      "path": "localization/simp_chinese/replace/aq030_l_simp_chinese.yml",
+      "bytes": 9063,
+      "sha256": "53a4fa5e6c6b4083f808a4293efdfb15802af24b7926fcf7007f347391121628"
+    },
+    {
+      "path": "localization/simp_chinese/replace/aq030_title_adjectives_l_simp_chinese.yml",
+      "bytes": 19,
+      "sha256": "00f320c6d8d4ac8a096b145a452998b68c27d8f624378ef2ec2d4505043d2d6b"
+    },
+    {
+      "path": "localization/simp_chinese/replace/aq_calendar_l_simp_chinese.yml",
+      "bytes": 9655,
+      "sha256": "1d3ad48b2709f21102507ebd69f718f8100c8f8f522295f66af5ec540b0ad3d2"
+    },
+    {
+      "path": "localization/simp_chinese/replace/aq_overrides_l_simp_chinese.yml",
+      "bytes": 153,
+      "sha256": "61fcec2b125ad31a8d3d7f622202cebbdb54755e58cfa1ef722575fbf8e305d1"
+    },
+    {
+      "path": "localization/korean/aq_l_korean.yml",
+      "bytes": 357254,
+      "sha256": "72a0666b8ff6b520415967c906cb2492fec995aed130bb3bf12d8534a53eaa29"
+    },
+    {
+      "path": "localization/korean/aq_pillars_l_korean.yml",
+      "bytes": 1723,
+      "sha256": "778023657b99376809929ba85d729864313591f03d44f94a170aa1c506cb9b17"
+    },
+    {
+      "path": "localization/korean/replace/aq030_confederations_l_korean.yml",
+      "bytes": 13,
+      "sha256": "c2f49040de10b381fe2431faf946a2a09e467d3b3bf9dd397ae952290b256a19"
+    },
+    {
+      "path": "localization/korean/replace/aq030_l_korean.yml",
+      "bytes": 9057,
+      "sha256": "3431764d76d773f8486454283bcb4eeb90a1da16d9b8706805f72b277b9e755c"
+    },
+    {
+      "path": "localization/korean/replace/aq030_title_adjectives_l_korean.yml",
+      "bytes": 13,
+      "sha256": "c2f49040de10b381fe2431faf946a2a09e467d3b3bf9dd397ae952290b256a19"
+    },
+    {
+      "path": "localization/korean/replace/aq_calendar_l_korean.yml",
+      "bytes": 9649,
+      "sha256": "afbe79142ba0672749b0526726200a556b925008cbc43c2aeeafc92a7fc19e68"
+    },
+    {
+      "path": "localization/korean/replace/aq_overrides_l_korean.yml",
+      "bytes": 147,
+      "sha256": "f6788f29e54f189e427439f41cc1a69b0c572c087f147d16dee376dae714d025"
+    },
+    {
+      "path": "localization/japanese/aq_l_japanese.yml",
+      "bytes": 357256,
+      "sha256": "44d7de8a8d0bcf2a5ee432ab11402b72df0cc2c8689c52f5ff655abb6fae8ef2"
+    },
+    {
+      "path": "localization/japanese/aq_pillars_l_japanese.yml",
+      "bytes": 1725,
+      "sha256": "20070c28fe9dbf44a10c52b23051ea682452c9cd1cfab58faa6fd438c5cc464f"
+    },
+    {
+      "path": "localization/japanese/replace/aq030_confederations_l_japanese.yml",
+      "bytes": 15,
+      "sha256": "170489a6f10cbbc10d461023205852865f4c2068f76389914ab46d4fb14531ac"
+    },
+    {
+      "path": "localization/japanese/replace/aq030_l_japanese.yml",
+      "bytes": 9059,
+      "sha256": "e41878d6b94345fa042196960721527ae44338c6ac584fdeddd3daaff731a6ca"
+    },
+    {
+      "path": "localization/japanese/replace/aq030_title_adjectives_l_japanese.yml",
+      "bytes": 15,
+      "sha256": "170489a6f10cbbc10d461023205852865f4c2068f76389914ab46d4fb14531ac"
+    },
+    {
+      "path": "localization/japanese/replace/aq_calendar_l_japanese.yml",
+      "bytes": 9651,
+      "sha256": "266ceed326811a45e583e778cff0105e1ae785e26defb868f776f1781bf01f5b"
+    },
+    {
+      "path": "localization/japanese/replace/aq_overrides_l_japanese.yml",
+      "bytes": 149,
+      "sha256": "d90f990ce7d1d67cc3a9009884ca0f22d16e73c07d23563c34bfce146a95d609"
+    },
+    {
+      "path": "localization/polish/aq_l_polish.yml",
+      "bytes": 357254,
+      "sha256": "35d735d9db5ee15f6ff92a0be405c3ecc937044758b71056530908bc0d0a6762"
+    },
+    {
+      "path": "localization/polish/aq_pillars_l_polish.yml",
+      "bytes": 1723,
+      "sha256": "ab5d2933f6a1b796f4e6cd54e2f6593df9e271d4609654acb447b52560393ded"
+    },
+    {
+      "path": "localization/polish/replace/aq030_confederations_l_polish.yml",
+      "bytes": 13,
+      "sha256": "c7069d1ac8437bdcc46501a228a647c635fcdb72f247beab4d35ed8e0784b3ba"
+    },
+    {
+      "path": "localization/polish/replace/aq030_l_polish.yml",
+      "bytes": 9057,
+      "sha256": "9f98e9df118da79a7eb74ed63b36197d2a8a5a3fc26715fa87572ba39ad82318"
+    },
+    {
+      "path": "localization/polish/replace/aq030_title_adjectives_l_polish.yml",
+      "bytes": 13,
+      "sha256": "c7069d1ac8437bdcc46501a228a647c635fcdb72f247beab4d35ed8e0784b3ba"
+    },
+    {
+      "path": "localization/polish/replace/aq_calendar_l_polish.yml",
+      "bytes": 9649,
+      "sha256": "a73f9014bfc2c6e4e5194d71b861a96032165853d97cce6b2035cc2efdd11084"
+    },
+    {
+      "path": "localization/polish/replace/aq_overrides_l_polish.yml",
+      "bytes": 147,
+      "sha256": "2a071799fac2e0c8b93a529e3d4f14cdc7c927165a4f4f76de2edf5cf57e9e7e"
+    }
+  ]
+}

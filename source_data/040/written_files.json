@@ -1,0 +1,300 @@
+{
+  "backup": "C:\\antiquity_backups\\before_040_20260925_184536",
+  "files": [
+    {
+      "path": "common/bookmarks/bookmarks/aq040_eastern_bookmark.txt",
+      "bytes": 1763,
+      "sha256": "2a5c41214bf0ce6640aad7f8b75bc6950dbd0ffe9b764b8b827d10a89f1630ab"
+    },
+    {
+      "path": "common/landed_titles/aq_world.txt",
+      "bytes": 1687897,
+      "sha256": "adfbba4d98bea110885ecb0e3c6929e66ece624caa941f9617ec84f5e32d37ce"
+    },
+    {
+      "path": "history/titles/aq_world.txt",
+      "bytes": 740339,
+      "sha256": "bfc3e3211c46cff47e47d9331099f9782ab9d9ca868b15633ec666602eae6338"
+    },
+    {
+      "path": "history/characters/aq_world.txt",
+      "bytes": 5617411,
+      "sha256": "b93bcbaadff43d4ffdecc23546653d36d5f22836c0df17c3a2013d0ba9cfe6f4"
+    },
+    {
+      "path": "common/dynasties/aq040_dynasties.txt",
+      "bytes": 430,
+      "sha256": "e372739f17c73f3269568159b517c7fc569c44131958c2635662bbd84bb69a27"
+    },
+    {
+      "path": "localization/english/replace/aq030_confederations_l_english.yml",
+      "bytes": 14,
+      "sha256": "af49b5ae3e8d63969f1523ab09f09c2cd56ead1a670e6d0c1bc821113ed5130e"
+    },
+    {
+      "path": "localization/english/replace/aq030_l_english.yml",
+      "bytes": 9058,
+      "sha256": "957bc46c959bf6bd398e40a1cbc45400ba051f235c8aba9201c8013342d30f93"
+    },
+    {
+      "path": "localization/english/replace/aq030_title_adjectives_l_english.yml",
+      "bytes": 14,
+      "sha256": "af49b5ae3e8d63969f1523ab09f09c2cd56ead1a670e6d0c1bc821113ed5130e"
+    },
+    {
+      "path": "localization/english/replace/aq_overrides_l_english.yml",
+      "bytes": 148,
+      "sha256": "a8f333f6736f2b7755cb744526c3bbe04d4d440ccf23fe2fb1435580e8aab73b"
+    },
+    {
+      "path": "localization/english/replace/aq040_titles_l_english.yml",
+      "bytes": 254125,
+      "sha256": "ff8d13f47c1c7ce3c5c9d34339eaae7f46b960796fa27ed18c67c5e860bbf34e"
+    },
+    {
+      "path": "localization/french/replace/aq030_confederations_l_french.yml",
+      "bytes": 13,
+      "sha256": "15fe85f47856f1066a63bd5a0175f045888e6e1c94a8e41b14137faa3da26bd2"
+    },
+    {
+      "path": "localization/french/replace/aq030_l_french.yml",
+      "bytes": 9057,
+      "sha256": "6f32314d641ed971819521d9327aff04254854f831cccc1c45e6f9a210d7d0a9"
+    },
+    {
+      "path": "localization/french/replace/aq030_title_adjectives_l_french.yml",
+      "bytes": 13,
+      "sha256": "15fe85f47856f1066a63bd5a0175f045888e6e1c94a8e41b14137faa3da26bd2"
+    },
+    {
+      "path": "localization/french/replace/aq_overrides_l_french.yml",
+      "bytes": 147,
+      "sha256": "dd47ee52ad062b64fa398bc79154449fdc2351ce03c952c78b5f3f0e543231d9"
+    },
+    {
+      "path": "localization/french/replace/aq040_titles_l_french.yml",
+      "bytes": 254124,
+      "sha256": "2e4331132bb038611b85441a865c8d8911d909d23bc160ce82868de34e89308c"
+    },
+    {
+      "path": "localization/german/replace/aq030_confederations_l_german.yml",
+      "bytes": 13,
+      "sha256": "2c36eb172d9264632479151384bc6caed4f88125e4600188d9908deeb8a85bc4"
+    },
+    {
+      "path": "localization/german/replace/aq030_l_german.yml",
+      "bytes": 9057,
+      "sha256": "acf1e9b72305428a644a4bc0a3e8f968094b5e86e2664855ffae08df88f4046c"
+    },
+    {
+      "path": "localization/german/replace/aq030_title_adjectives_l_german.yml",
+      "bytes": 13,
+      "sha256": "2c36eb172d9264632479151384bc6caed4f88125e4600188d9908deeb8a85bc4"
+    },
+    {
+      "path": "localization/german/replace/aq_overrides_l_german.yml",
+      "bytes": 147,
+      "sha256": "71e2942d31d34d9e43e117e833eaae10051d50db3f585138566a73e481aa1025"
+    },
+    {
+      "path": "localization/german/replace/aq040_titles_l_german.yml",
+      "bytes": 254124,
+      "sha256": "377ffa162035b625927ef3f7fdcff5e0d0aafff8f61460a8708749bf3b12e6f6"
+    },
+    {
+      "path": "localization/spanish/replace/aq030_confederations_l_spanish.yml",
+      "bytes": 14,
+      "sha256": "c44bcf540759a1ec0a64f11458ed44fcd4f9b66e6a17351daed1c6b99a5dc9ed"
+    },
+    {
+      "path": "localization/spanish/replace/aq030_l_spanish.yml",
+      "bytes": 9058,
+      "sha256": "e0d02e4585fc1a7b9cf86aab54c4ffcbde837705c900ab2e3ffe5e440896c700"
+    },
+    {
+      "path": "localization/spanish/replace/aq030_title_adjectives_l_spanish.yml",
+      "bytes": 14,
+      "sha256": "c44bcf540759a1ec0a64f11458ed44fcd4f9b66e6a17351daed1c6b99a5dc9ed"
+    },
+    {
+      "path": "localization/spanish/replace/aq_overrides_l_spanish.yml",
+      "bytes": 148,
+      "sha256": "ec62baeaab8c7fe899de31da42aa44a176ffd2ecb3f1ce88fb239d2aa7b1fee3"
+    },
+    {
+      "path": "localization/spanish/replace/aq040_titles_l_spanish.yml",
+      "bytes": 254125,
+      "sha256": "de6ff7e1306dce483e587abd38041a521ec73bd78417afb8739dc9a429ec679d"
+    },
+    {
+      "path": "localization/russian/replace/aq030_confederations_l_russian.yml",
+      "bytes": 14,
+      "sha256": "92ef0c541b4d76bf76127ea3a941705d22c2028732063ed9f0a27d7e8e8555a3"
+    },
+    {
+      "path": "localization/russian/replace/aq030_l_russian.yml",
+      "bytes": 9058,
+      "sha256": "ae99eca0030ab9c35089d98e77d8ff84b0404bf666567afa6d2573a245884014"
+    },
+    {
+      "path": "localization/russian/replace/aq030_title_adjectives_l_russian.yml",
+      "bytes": 14,
+      "sha256": "92ef0c541b4d76bf76127ea3a941705d22c2028732063ed9f0a27d7e8e8555a3"
+    },
+    {
+      "path": "localization/russian/replace/aq_overrides_l_russian.yml",
+      "bytes": 148,
+      "sha256": "0d82b1a07ff11692536b5e838d73b4a6bdef633de3c2400f8c7fedae02149d69"
+    },
+    {
+      "path": "localization/russian/replace/aq040_titles_l_russian.yml",
+      "bytes": 254125,
+      "sha256": "f016b032c4af141a3ba0ea87a923f5d011d8dfa973ff7b0ef46c9e8544711b98"
+    },
+    {
+      "path": "localization/simp_chinese/replace/aq030_confederations_l_simp_chinese.yml",
+      "bytes": 19,
+      "sha256": "00f320c6d8d4ac8a096b145a452998b68c27d8f624378ef2ec2d4505043d2d6b"
+    },
+    {
+      "path": "localization/simp_chinese/replace/aq030_l_simp_chinese.yml",
+      "bytes": 9063,
+      "sha256": "53a4fa5e6c6b4083f808a4293efdfb15802af24b7926fcf7007f347391121628"
+    },
+    {
+      "path": "localization/simp_chinese/replace/aq030_title_adjectives_l_simp_chinese.yml",
+      "bytes": 19,
+      "sha256": "00f320c6d8d4ac8a096b145a452998b68c27d8f624378ef2ec2d4505043d2d6b"
+    },
+    {
+      "path": "localization/simp_chinese/replace/aq_overrides_l_simp_chinese.yml",
+      "bytes": 153,
+      "sha256": "61fcec2b125ad31a8d3d7f622202cebbdb54755e58cfa1ef722575fbf8e305d1"
+    },
+    {
+      "path": "localization/simp_chinese/replace/aq040_titles_l_simp_chinese.yml",
+      "bytes": 254130,
+      "sha256": "c4c02711b19a91584520219147f3349fb1c6a3673a85de0d35d2460ce83565ba"
+    },
+    {
+      "path": "localization/korean/replace/aq030_confederations_l_korean.yml",
+      "bytes": 13,
+      "sha256": "c2f49040de10b381fe2431faf946a2a09e467d3b3bf9dd397ae952290b256a19"
+    },
+    {
+      "path": "localization/korean/replace/aq030_l_korean.yml",
+      "bytes": 9057,
+      "sha256": "3431764d76d773f8486454283bcb4eeb90a1da16d9b8706805f72b277b9e755c"
+    },
+    {
+      "path": "localization/korean/replace/aq030_title_adjectives_l_korean.yml",
+      "bytes": 13,
+      "sha256": "c2f49040de10b381fe2431faf946a2a09e467d3b3bf9dd397ae952290b256a19"
+    },
+    {
+      "path": "localization/korean/replace/aq_overrides_l_korean.yml",
+      "bytes": 147,
+      "sha256": "f6788f29e54f189e427439f41cc1a69b0c572c087f147d16dee376dae714d025"
+    },
+    {
+      "path": "localization/korean/replace/aq040_titles_l_korean.yml",
+      "bytes": 254124,
+      "sha256": "7612083f511c2783a32f7a51d8395a9ecd1a177f7f6d9d8645b49162ba1fd88b"
+    },
+    {
+      "path": "localization/japanese/replace/aq030_confederations_l_japanese.yml",
+      "bytes": 15,
+      "sha256": "170489a6f10cbbc10d461023205852865f4c2068f76389914ab46d4fb14531ac"
+    },
+    {
+      "path": "localization/japanese/replace/aq030_l_japanese.yml",
+      "bytes": 9059,
+      "sha256": "e41878d6b94345fa042196960721527ae44338c6ac584fdeddd3daaff731a6ca"
+    },
+    {
+      "path": "localization/japanese/replace/aq030_title_adjectives_l_japanese.yml",
+      "bytes": 15,
+      "sha256": "170489a6f10cbbc10d461023205852865f4c2068f76389914ab46d4fb14531ac"
+    },
+    {
+      "path": "localization/japanese/replace/aq_overrides_l_japanese.yml",
+      "bytes": 149,
+      "sha256": "d90f990ce7d1d67cc3a9009884ca0f22d16e73c07d23563c34bfce146a95d609"
+    },
+    {
+      "path": "localization/japanese/replace/aq040_titles_l_japanese.yml",
+      "bytes": 254126,
+      "sha256": "a1eeeebd33ffd6437a37f559dec6d71705f6e1f33637d26042fc212ff87f23d9"
+    },
+    {
+      "path": "localization/polish/replace/aq030_confederations_l_polish.yml",
+      "bytes": 13,
+      "sha256": "c7069d1ac8437bdcc46501a228a647c635fcdb72f247beab4d35ed8e0784b3ba"
+    },
+    {
+      "path": "localization/polish/replace/aq030_l_polish.yml",
+      "bytes": 9057,
+      "sha256": "9f98e9df118da79a7eb74ed63b36197d2a8a5a3fc26715fa87572ba39ad82318"
+    },
+    {
+      "path": "localization/polish/replace/aq030_title_adjectives_l_polish.yml",
+      "bytes": 13,
+      "sha256": "c7069d1ac8437bdcc46501a228a647c635fcdb72f247beab4d35ed8e0784b3ba"
+    },
+    {
+      "path": "localization/polish/replace/aq_overrides_l_polish.yml",
+      "bytes": 147,
+      "sha256": "2a071799fac2e0c8b93a529e3d4f14cdc7c927165a4f4f76de2edf5cf57e9e7e"
+    },
+    {
+      "path": "localization/polish/replace/aq040_titles_l_polish.yml",
+      "bytes": 254124,
+      "sha256": "fb997a13ed50c189e95992e38783831a2ab8c5767c1b980e0496c977b9dacb3f"
+    },
+    {
+      "path": "source_data/040/applied_title_names.json",
+      "bytes": 905895,
+      "sha256": "f646049640b33a346e346ca607f2592126cac4fe45d766d17786160ab8ec6c50"
+    },
+    {
+      "path": "source_data/040/de_jure_moves.json",
+      "bytes": 15219,
+      "sha256": "be8afa8c06252207c1ed9d01f17d0b306053c9dd067e2f83ada2d0ae7317b796"
+    },
+    {
+      "path": "source_data/040/historical_overrides.json",
+      "bytes": 1136,
+      "sha256": "9766d6e462826fb5e93448b8818887a3a38fecfc5cf0d717bd5ed462a01a1780"
+    },
+    {
+      "path": "source_data/040/revision.json",
+      "bytes": 1694,
+      "sha256": "b8db26f41e563259c2157fa8f344ca838fb8a9d26c95c4b34829d8f491230ce0"
+    },
+    {
+      "path": "source_data/040/realm_manifest.json",
+      "bytes": 16956,
+      "sha256": "d3601bd10f08b3e136e54952e6d98f8cbb01f49e2ec6af7438872fdecdb7c5c7"
+    },
+    {
+      "path": "source_data/040/county_realms.csv",
+      "bytes": 329052,
+      "sha256": "ec7dd5f266bc9145d5bf61135aa7c70a27552b1c99fe7c890c332573220c46fd"
+    },
+    {
+      "path": "descriptor.mod",
+      "bytes": 571,
+      "sha256": "705131241d222bf58a6d9719d222b9dd64ecaf766684c202810481b58ce4ac07"
+    },
+    {
+      "path": "RELEASE_NOTES_040.md",
+      "bytes": 6948,
+      "sha256": "b8761ff96822809349b8dbaa590d6667120148ba9b3f5866c9ca91e3fc29c3dd"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5262,
+      "sha256": "0f6074759e8aa23d05f41b8deaae5ffe9315b74648844c29a29c8b24a938bd7b"
+    }
+  ]
+}

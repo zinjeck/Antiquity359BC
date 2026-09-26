@@ -1,0 +1,1169 @@
+{
+ "k_aq_macedon": {
+  "label": "Macedon",
+  "capital": "c_veria",
+  "color": [
+   188,
+   194,
+   116
+  ],
+  "counties": [
+   "c_thessalonika",
+   "c_veria"
+  ]
+ },
+ "k_aq_syracuse": {
+  "label": "Syracuse",
+  "capital": "c_siracusa",
+  "color": [
+   123,
+   166,
+   205
+  ],
+  "counties": [
+   "c_agrigento",
+   "c_messina",
+   "c_siracusa"
+  ]
+ },
+ "k_aq_epirus": {
+  "label": "Epirus",
+  "capital": "c_epeiros",
+  "color": [
+   151,
+   187,
+   149
+  ],
+  "counties": [
+   "c_epeiros",
+   "c_metzovo",
+   "c_nicopolis"
+  ]
+ },
+ "k_aq_athens": {
+  "label": "Athens",
+  "capital": "c_attica",
+  "color": [
+   92,
+   154,
+   208
+  ],
+  "counties": [
+   "c_attica",
+   "c_euboea"
+  ]
+ },
+ "k_aq_thebes": {
+  "label": "Thebes",
+  "capital": "c_boeotia",
+  "color": [
+   139,
+   132,
+   183
+  ],
+  "counties": [
+   "c_boeotia"
+  ]
+ },
+ "k_aq040_messenia": {
+  "label": "Messenia",
+  "capital": "c_messenia",
+  "color": [
+   145,
+   190,
+   146
+  ],
+  "counties": [
+   "c_messenia"
+  ]
+ },
+ "k_aq_sparta": {
+  "label": "Sparta",
+  "capital": "c_laconia",
+  "color": [
+   188,
+   104,
+   83
+  ],
+  "counties": [
+   "c_laconia"
+  ]
+ },
+ "k_aq_chalcidice": {
+  "label": "Chalcidian League",
+  "capital": "c_chalkidike",
+  "color": [
+   153,
+   178,
+   87
+  ],
+  "counties": [
+   "c_chalkidike"
+  ]
+ },
+ "e_aq_persia": {
+  "label": "Achaemenid Empire",
+  "capital": "c_istakhr",
+  "color": [
+   166,
+   220,
+   233
+  ],
+  "counties": [
+   "c_abbadan",
+   "c_abivard",
+   "c_ablastha",
+   "c_abydos",
+   "c_acre",
+   "c_aeolis",
+   "c_ahvaz",
+   "c_aintab",
+   "c_akhadid",
+   "c_al-haditha",
+   "c_aleppo",
+   "c_alexandretta",
+   "c_amida",
+   "c_amol",
+   "c_anbar",
+   "c_antiocheia",
+   "c_apahunik",
+   "c_aran",
+   "c_ardabil",
+   "c_ardestan",
+   "c_aror",
+   "c_arrajan",
+   "c_azysia",
+   "c_baalbek",
+   "c_badakhshan",
+   "c_badaraya",
+   "c_badghis",
+   "c_baduspan",
+   "c_baghdad",
+   "c_bagrewand",
+   "c_baihaq",
+   "c_bailaqan",
+   "c_bakharz",
+   "c_bakriya",
+   "c_balkh",
+   "c_balqa",
+   "c_bam",
+   "c_bamian",
+   "c_bampur",
+   "c_bannu",
+   "c_basra",
+   "c_batiha",
+   "c_behabad",
+   "c_beirut",
+   "c_bhakkar",
+   "c_bithynia",
+   "c_bost",
+   "c_bukhara",
+   "c_cappadocia",
+   "c_caria",
+   "c_cerasus",
+   "c_chaghaniyan",
+   "c_charsianon",
+   "c_chitral",
+   "c_chonae",
+   "c_cilicia",
+   "c_colonea",
+   "c_dabusiya",
+   "c_damascus",
+   "c_damghan",
+   "c_darabjerd",
+   "c_darmashan",
+   "c_dausar",
+   "c_dawraq",
+   "c_debul",
+   "c_dihistan",
+   "c_dinawar",
+   "c_dvin",
+   "c_east-tokharestan",
+   "c_edessa",
+   "c_euchaita",
+   "c_famagusta",
+   "c_farah",
+   "c_farava",
+   "c_firabr",
+   "c_galatia",
+   "c_galatia_salutaris",
+   "c_ghazna",
+   "c_ghazza",
+   "c_ghur",
+   "c_gilan",
+   "c_gurgan",
+   "c_guzgan",
+   "c_hadithat-ana",
+   "c_hadrianeia",
+   "c_hadrianopolis",
+   "c_hakkari",
+   "c_hama",
+   "c_hamadan",
+   "c_harran",
+   "c_hauran",
+   "c_hayk",
+   "c_helenopontus",
+   "c_herat",
+   "c_hereti",
+   "c_homs",
+   "c_honorias",
+   "c_hormuz",
+   "c_hulwan",
+   "c_ionia",
+   "c_irahistan",
+   "c_irbid",
+   "c_irbil",
+   "c_isauria",
+   "c_isfahan",
+   "c_iskaf",
+   "c_istakhr",
+   "c_jabal_kufs",
+   "c_jaffa",
+   "c_jerusalem",
+   "c_jilat",
+   "c_jiruft",
+   "c_juwain",
+   "c_juwair",
+   "c_kabul",
+   "c_kaisereia",
+   "c_kakheti",
+   "c_kalif",
+   "c_karbala",
+   "c_karran",
+   "c_kerak",
+   "c_kermanshah",
+   "c_khabur",
+   "c_khachen",
+   "c_khawr",
+   "c_khuttal",
+   "c_khuwar",
+   "c_kirkuk",
+   "c_kirman",
+   "c_kishsh",
+   "c_kiz",
+   "c_kufa",
+   "c_kurdistan",
+   "c_kyzistra",
+   "c_lar",
+   "c_lori",
+   "c_lower_galatia",
+   "c_luristan",
+   "c_lycandus",
+   "c_lycaonia",
+   "c_lycia",
+   "c_lydia",
+   "c_maab",
+   "c_mafaza",
+   "c_mandestan",
+   "c_mansura",
+   "c_maragha",
+   "c_marash",
+   "c_marvarrud",
+   "c_masabadhan",
+   "c_mayyafariqin",
+   "c_mazandaran",
+   "c_melitene",
+   "c_merv",
+   "c_mesopotamia",
+   "c_mosul",
+   "c_mugan",
+   "c_munjan",
+   "c_mysia",
+   "c_nakhshab",
+   "c_nandana",
+   "c_nasibin",
+   "c_negev",
+   "c_nicosia",
+   "c_nih",
+   "c_nihawand",
+   "c_nikaea",
+   "c_ninive",
+   "c_nishapur",
+   "c_oshrusana",
+   "c_pacatiana",
+   "c_palmyra",
+   "c_pamphylia",
+   "c_panjgur",
+   "c_paphlagonia",
+   "c_philomelium",
+   "c_phrygia",
+   "c_pisidia",
+   "c_pompeiopolis",
+   "c_prusa",
+   "c_purushapura",
+   "c_qadisiya",
+   "c_qain",
+   "c_qaryatan",
+   "c_qazwin",
+   "c_qinnasrin",
+   "c_qom",
+   "c_qumisha",
+   "c_rahba",
+   "c_rajanpur",
+   "c_ramhurmuz",
+   "c_ranikot",
+   "c_raqqa",
+   "c_rasht",
+   "c_rayy",
+   "c_riqan",
+   "c_rivsharan",
+   "c_rudbar",
+   "c_rukhaj",
+   "c_rusafa",
+   "c_ruyan",
+   "c_sabzevar",
+   "c_safata",
+   "c_saimara",
+   "c_samaiqan",
+   "c_samarkand",
+   "c_samarra",
+   "c_samosata",
+   "c_sanij",
+   "c_sarakhs",
+   "c_sardan",
+   "c_satala",
+   "c_sebasteia",
+   "c_seleucia",
+   "c_selge",
+   "c_shahrazur",
+   "c_shahre-babak",
+   "c_shaki",
+   "c_shayzar",
+   "c_shiraz",
+   "c_shirvan",
+   "c_shughnan",
+   "c_sibi",
+   "c_sif-i-umara",
+   "c_sinjar",
+   "c_sinope",
+   "c_sirjan",
+   "c_siwistan",
+   "c_sonda",
+   "c_suenik",
+   "c_sukhna",
+   "c_suriya",
+   "c_syrrusafa",
+   "c_tabriz",
+   "c_takrit",
+   "c_talish",
+   "c_tall_basma",
+   "c_tall_hamid",
+   "c_tarsos",
+   "c_tbilisi",
+   "c_theodosiopolis",
+   "c_thyatira",
+   "c_tib",
+   "c_tiberias",
+   "c_trebizond",
+   "c_tripoli",
+   "c_tun",
+   "c_turan",
+   "c_turuberan",
+   "c_tus",
+   "c_tustar",
+   "c_ubulla",
+   "c_udabhanda",
+   "c_upper_ghur",
+   "c_upper_khabur",
+   "c_urgun",
+   "c_urmiya",
+   "c_vanand",
+   "c_vaspurakan",
+   "c_vijnot",
+   "c_wakhan",
+   "c_wakhsh",
+   "c_waqisa",
+   "c_wasit",
+   "c_west-tokharestan",
+   "c_yazd",
+   "c_zabulistan",
+   "c_zamindawar",
+   "c_zamm",
+   "c_zanjan",
+   "c_zarafshan",
+   "c_zaranj",
+   "c_zela",
+   "c_zirkuh"
+  ]
+ },
+ "k_aq_saba": {
+  "label": "Saba",
+  "capital": "c_sanaa",
+  "color": [
+   218,
+   166,
+   110
+  ],
+  "counties": [
+   "c_najran",
+   "c_sanaa",
+   "c_tihamat-al-yamani",
+   "c_zabid"
+  ]
+ },
+ "k_aq040_main": {
+  "label": "Ma'in",
+  "capital": "c_jawf-al-yamani",
+  "color": [
+   191,
+   190,
+   111
+  ],
+  "counties": [
+   "c_jawf-al-yamani",
+   "c_wabar"
+  ]
+ },
+ "k_aq040_qataban": {
+  "label": "Qataban",
+  "capital": "c_taizz",
+  "color": [
+   196,
+   153,
+   121
+  ],
+  "counties": [
+   "c_dathina",
+   "c_mandab",
+   "c_taizz"
+  ]
+ },
+ "k_aq040_hadramaut": {
+  "label": "Hadramaut",
+  "capital": "c_hadramawt",
+  "color": [
+   173,
+   159,
+   119
+  ],
+  "counties": [
+   "c_ahqaf",
+   "c_hadramawt",
+   "c_kinda_sakun"
+  ]
+ },
+ "k_aq_rome": {
+  "label": "Rome",
+  "capital": "c_roma",
+  "color": [
+   179,
+   76,
+   68
+  ],
+  "counties": [
+   "c_roma"
+  ]
+ },
+ "k_aq_etruria": {
+  "label": "Etruria",
+  "capital": "c_firenze",
+  "color": [
+   156,
+   120,
+   187
+  ],
+  "counties": [
+   "c_arezzo",
+   "c_firenze",
+   "c_lucca",
+   "c_orbetello",
+   "c_orvieto",
+   "c_pisa",
+   "c_siena",
+   "c_viterbo"
+  ]
+ },
+ "k_aq_bosporus": {
+  "label": "Bosporan Kingdom",
+  "capital": "c_kerch",
+  "color": [
+   229,
+   203,
+   85
+  ],
+  "counties": [
+   "c_kerch",
+   "c_tmutarakan"
+  ]
+ },
+ "e_aq_nanda": {
+  "label": "Nanda",
+  "capital": "c_magadha",
+  "color": [
+   73,
+   204,
+   223
+  ],
+  "counties": [
+   "c_asni",
+   "c_ayodhya",
+   "c_bandhugadha",
+   "c_bangaon",
+   "c_bikrampur",
+   "c_candradvipa",
+   "c_chauragarh",
+   "c_chunar",
+   "c_damin_i_koh",
+   "c_damoh",
+   "c_delhi",
+   "c_gauda",
+   "c_gaya",
+   "c_gurgi",
+   "c_harikela",
+   "c_hastinapura",
+   "c_jaunpur",
+   "c_jharkand",
+   "c_kalanjara",
+   "c_kalinganagar",
+   "c_kalpi",
+   "c_kanyakubja",
+   "c_karmanta",
+   "c_kataka",
+   "c_katehar",
+   "c_khijjingakota",
+   "c_khinjali_mandala",
+   "c_kiranapura",
+   "c_kodalaka_mandala",
+   "c_kol",
+   "c_kotivarsa",
+   "c_kusinagara",
+   "c_lakhnau",
+   "c_laksmanavati",
+   "c_madhupur",
+   "c_magadha",
+   "c_mahoba",
+   "c_mallabhum",
+   "c_manikpur",
+   "c_mathura",
+   "c_midnapore",
+   "c_mithila",
+   "c_mudgagiri",
+   "c_munda",
+   "c_nabadwipa",
+   "c_naimisa",
+   "c_prayaga",
+   "c_pundravardhana",
+   "c_puri",
+   "c_radha",
+   "c_rajrappa",
+   "c_ratanpur",
+   "c_rayapura",
+   "c_rothas",
+   "c_samatata",
+   "c_sambalpur",
+   "c_sambhal",
+   "c_saptagrama",
+   "c_sasaram",
+   "c_simaramapura",
+   "c_sravasti",
+   "c_sripatha",
+   "c_sripuri",
+   "c_sthanisvara",
+   "c_suvarnagram",
+   "c_suvarnapura",
+   "c_swetaka_mandala",
+   "c_tamralipti",
+   "c_tripuri",
+   "c_tummana",
+   "c_varanasi",
+   "c_vijayapura",
+   "c_viraja",
+   "c_vizagipatam",
+   "c_vodamayutja"
+  ]
+ },
+ "k_aq_lanka": {
+  "label": "Anuradhapura",
+  "capital": "c_phiti",
+  "color": [
+   179,
+   145,
+   205
+  ],
+  "counties": [
+   "c_batticaloa",
+   "c_dakhina_desa",
+   "c_jaffna",
+   "c_kandy",
+   "c_kotte",
+   "c_phiti",
+   "c_rohana",
+   "c_trincomalee"
+  ]
+ },
+ "k_aq_qin": {
+  "label": "Qin",
+  "capital": "c_jingzhao",
+  "color": [
+   202,
+   205,
+   134
+  ],
+  "counties": [
+   "c_binzhou",
+   "c_chengzhou",
+   "c_fengxiang",
+   "c_huanzhou",
+   "c_huayin",
+   "c_jiezhou",
+   "c_jingzhao",
+   "c_jingzhou",
+   "c_jinzhou",
+   "c_jinzhou_1",
+   "c_longzhou_2",
+   "c_minzhou",
+   "c_qingyang",
+   "c_qinzhou_1",
+   "c_shangzhou",
+   "c_tongzhou",
+   "c_weizhou_2",
+   "c_xiaoguan",
+   "c_yaozhou",
+   "c_yuanzhou_2"
+  ]
+ },
+ "k_aq_wei": {
+  "label": "Wei",
+  "capital": "c_bianzhou",
+  "color": [
+   192,
+   158,
+   218
+  ],
+  "counties": [
+   "c_bianzhou",
+   "c_cizhou",
+   "c_hezhong",
+   "c_huazhou",
+   "c_jiangzhou_2",
+   "c_pingyang",
+   "c_shanzhou",
+   "c_weizhou",
+   "c_xiangzhou",
+   "c_xizhou"
+  ]
+ },
+ "k_aq_zhao": {
+  "label": "Zhao",
+  "capital": "c_mingzhou",
+  "color": [
+   170,
+   211,
+   158
+  ],
+  "counties": [
+   "c_beizhou",
+   "c_bozhou_1",
+   "c_daizhou",
+   "c_datong_2",
+   "c_fenzhou",
+   "c_hongzhou_2",
+   "c_huaian",
+   "c_jiushijiuquan",
+   "c_jizhou",
+   "c_lanzhou",
+   "c_liaozhou",
+   "c_mingzhou",
+   "c_rouyuan",
+   "c_shenzhou_1",
+   "c_shizhou",
+   "c_shuozhou",
+   "c_taiyuan",
+   "c_xingzhou",
+   "c_xinzhou",
+   "c_yingzhou_5",
+   "c_yongxing",
+   "c_yuzhou",
+   "c_zhaozhou"
+  ]
+ },
+ "k_aq040_zhongshan": {
+  "label": "Zhongshan",
+  "capital": "c_zhenzhou",
+  "color": [
+   198,
+   180,
+   125
+  ],
+  "counties": [
+   "c_dingzhou",
+   "c_zhenzhou"
+  ]
+ },
+ "k_aq_yan": {
+  "label": "Yan",
+  "capital": "c_youzhou",
+  "color": [
+   196,
+   222,
+   197
+  ],
+  "counties": [
+   "c_cangzhou",
+   "c_guizhou_2",
+   "c_hejian",
+   "c_jizhou_1",
+   "c_mozhou",
+   "c_pinzhou",
+   "c_tanzhou_2",
+   "c_yizhou_1",
+   "c_youzhou",
+   "c_zhuozhou"
+  ]
+ },
+ "k_aq_qi": {
+  "label": "Qi",
+  "capital": "c_qingzhou",
+  "color": [
+   133,
+   200,
+   192
+  ],
+  "counties": [
+   "c_dengzhou",
+   "c_dezhou",
+   "c_dizhou",
+   "c_haizhou",
+   "c_laizhou",
+   "c_langya",
+   "c_mizhou",
+   "c_qingzhou",
+   "c_qizhou",
+   "c_weizhou_4",
+   "c_yunzhou",
+   "c_zichuan"
+  ]
+ },
+ "k_aq_han": {
+  "label": "Han",
+  "capital": "c_zhengzhou",
+  "color": [
+   227,
+   190,
+   121
+  ],
+  "counties": [
+   "c_guozhou",
+   "c_huaizhou",
+   "c_longde",
+   "c_shanzhou_2",
+   "c_weizhou_1",
+   "c_yangcheng",
+   "c_yingchuan",
+   "c_zezhou",
+   "c_zhengzhou"
+  ]
+ },
+ "k_aq_chu": {
+  "label": "Chu",
+  "capital": "c_jiangling",
+  "color": [
+   233,
+   153,
+   142
+  ],
+  "counties": [
+   "c_anzhou",
+   "c_caizhou",
+   "c_chenzhou_1",
+   "c_chuzhou_1",
+   "c_chuzhou_2",
+   "c_daozhou",
+   "c_dengzhou_1",
+   "c_ezhou",
+   "c_fangzhou_1",
+   "c_fuzhou_2",
+   "c_fuzhou_3",
+   "c_guangzhou",
+   "c_guiyang",
+   "c_guizhou",
+   "c_hanyang",
+   "c_haozhou",
+   "c_hengzhou",
+   "c_hongzhou",
+   "c_huaining",
+   "c_huangzhou",
+   "c_jianchang",
+   "c_jiangling",
+   "c_jizhou_3",
+   "c_junzhou",
+   "c_langzhou",
+   "c_lianzhou",
+   "c_linjiang",
+   "c_liyang",
+   "c_liyang_2",
+   "c_lujiang",
+   "c_nanan",
+   "c_nankang",
+   "c_ningduzhou",
+   "c_qianzhou",
+   "c_qizhou_1",
+   "c_quanzhou_2",
+   "c_raozhou",
+   "c_shaozhou",
+   "c_shenzhou",
+   "c_shouzhou",
+   "c_shuzhou",
+   "c_suizhou_1",
+   "c_taizhou_1",
+   "c_tangzhou",
+   "c_tanzhou",
+   "c_xiangyang",
+   "c_xiazhou_1",
+   "c_xinhzou",
+   "c_yangzhou",
+   "c_yingzhou",
+   "c_yingzhou_2",
+   "c_yongzhou",
+   "c_yuanzhou",
+   "c_yuezhou_1",
+   "c_yunyang",
+   "c_yunzhou_2"
+  ]
+ },
+ "k_aq040_lu": {
+  "label": "Lu",
+  "capital": "c_yanzhou",
+  "color": [
+   181,
+   166,
+   95
+  ],
+  "counties": [
+   "c_yanzhou"
+  ]
+ },
+ "k_aq_song": {
+  "label": "Song",
+  "capital": "c_songzhou",
+  "color": [
+   213,
+   141,
+   186
+  ],
+  "counties": [
+   "c_bozhou",
+   "c_caozhou",
+   "c_huaiyang",
+   "c_sizhou_2",
+   "c_songzhou",
+   "c_suzhou",
+   "c_xuzhou_1"
+  ]
+ },
+ "k_aq040_wey": {
+  "label": "Wey",
+  "capital": "c_puzhou_2",
+  "color": [
+   224,
+   184,
+   194
+  ],
+  "counties": [
+   "c_puzhou_2"
+  ]
+ },
+ "k_aq_zhou": {
+  "label": "Zhou",
+  "capital": "c_henan",
+  "color": [
+   222,
+   208,
+   155
+  ],
+  "counties": [
+   "c_henan",
+   "c_ruzhou"
+  ]
+ },
+ "k_aq_yue": {
+  "label": "Yue",
+  "capital": "c_yuezhou",
+  "color": [
+   173,
+   209,
+   175
+  ],
+  "counties": [
+   "c_changzhou",
+   "c_chizhou",
+   "c_chuzhou",
+   "c_guangde",
+   "c_hangzhou",
+   "c_huzhou",
+   "c_jiangning",
+   "c_mingzhou_1",
+   "c_muzhou",
+   "c_runzhou",
+   "c_shezhou",
+   "c_suzhou_2",
+   "c_taizhou",
+   "c_wenzhou_2",
+   "c_wuzhou",
+   "c_xin_an",
+   "c_xiuzhou",
+   "c_xuanzhou",
+   "c_yuezhou"
+  ]
+ },
+ "k_aq_carthage": {
+  "label": "Carthage",
+  "capital": "c_tunis",
+  "color": [
+   126,
+   190,
+   130
+  ],
+  "counties": [
+   "c_annaba",
+   "c_arborea",
+   "c_cadiz",
+   "c_cagliari",
+   "c_djerba",
+   "c_gabes",
+   "c_gallura",
+   "c_iviza",
+   "c_jafara",
+   "c_kairwan",
+   "c_labda",
+   "c_mahdiya",
+   "c_malta",
+   "c_medjerda",
+   "c_palermo",
+   "c_satfura",
+   "c_sfax",
+   "c_syrte",
+   "c_tabassa",
+   "c_tripolitana",
+   "c_tunis",
+   "c_west_qamuda"
+  ]
+ },
+ "k_aq040_shu": {
+  "label": "Shu",
+  "capital": "c_chengdu",
+  "color": [
+   214,
+   185,
+   141
+  ],
+  "counties": [
+   "c_bizhou",
+   "c_chengdu",
+   "c_hanyuan",
+   "c_hanzhou",
+   "c_jianyang",
+   "c_jianzhou_1",
+   "c_jiazhou",
+   "c_jizhou_2",
+   "c_lingzhou_1",
+   "c_longzhou",
+   "c_maozhou",
+   "c_meizhou",
+   "c_mianzhou",
+   "c_pengzhou",
+   "c_puzhou",
+   "c_qiongbu",
+   "c_qiongzhou",
+   "c_tongchuan",
+   "c_xingyuan",
+   "c_yangzhou_1",
+   "c_yazhou_2",
+   "c_zizhou_2"
+  ]
+ },
+ "k_aq040_ba": {
+  "label": "Ba",
+  "capital": "c_yuzhou_2",
+  "color": [
+   194,
+   161,
+   128
+  ],
+  "counties": [
+   "c_bazhou",
+   "c_changzhou_1",
+   "c_fuzhou_4",
+   "c_kaizhou",
+   "c_kuizhou",
+   "c_luzhou_2",
+   "c_nanxi",
+   "c_quzhou",
+   "c_rongzhou",
+   "c_suining",
+   "c_tongzhou_1",
+   "c_wanzhou",
+   "c_yuzhou_2",
+   "c_zhongzhou"
+  ]
+ },
+ "k_aq040_kyrene": {
+  "label": "Kyrene",
+  "capital": "c_barqa",
+  "color": [
+   179,
+   212,
+   126
+  ],
+  "counties": [
+   "c_awjila",
+   "c_barqa",
+   "c_derna",
+   "c_tobruk"
+  ]
+ },
+ "k_aq_egypt": {
+  "label": "Kemet",
+  "capital": "c_cairo",
+  "color": [
+   102,
+   219,
+   112
+  ],
+  "counties": [
+   "c_al-buhaira",
+   "c_al-gharbiya",
+   "c_alexandria",
+   "c_aswan",
+   "c_asyut",
+   "c_bahnasa",
+   "c_bahriya",
+   "c_cairo",
+   "c_dakhla",
+   "c_damietta",
+   "c_farafra",
+   "c_farama",
+   "c_fayyum",
+   "c_firaun",
+   "c_giza",
+   "c_jabal_quzlum",
+   "c_kharga",
+   "c_qus",
+   "c_qusayr",
+   "c_sharkiya",
+   "c_sinai",
+   "c_siwa",
+   "c_sullum",
+   "c_ushmun"
+  ]
+ },
+ "k_aq_kush": {
+  "label": "Kush",
+  "capital": "c_meroe",
+  "color": [
+   188,
+   208,
+   82
+  ],
+  "counties": [
+   "c_abu_hammad",
+   "c_abwab",
+   "c_alodia",
+   "c_atbara",
+   "c_batn_al-hajar",
+   "c_dongola",
+   "c_eleila",
+   "c_faras",
+   "c_fazughli",
+   "c_gezira",
+   "c_gumuz",
+   "c_kalabsha",
+   "c_kurgus",
+   "c_meroe",
+   "c_naga",
+   "c_qasr_ibrim",
+   "c_qurta",
+   "c_sai",
+   "c_sennar",
+   "c_shamir",
+   "c_tagali",
+   "c_ushara",
+   "c_wadi_el-milk"
+  ]
+ },
+ "k_aq_illyria": {
+  "label": "Illyria",
+  "capital": "c_dyrrachion",
+  "color": [
+   171,
+   184,
+   133
+  ],
+  "counties": [
+   "c_antipatreia",
+   "c_arbanon",
+   "c_avlonas",
+   "c_debar",
+   "c_duklja",
+   "c_dyrrachion",
+   "c_pomorje",
+   "c_travunia"
+  ]
+ },
+ "k_aq_paeonia": {
+  "label": "Paeonia",
+  "capital": "c_skopje",
+  "color": [
+   200,
+   180,
+   139
+  ],
+  "counties": [
+   "c_skopje"
+  ]
+ },
+ "k_aq040_byzantion": {
+  "label": "Byzantion",
+  "capital": "c_byzantion",
+  "color": [
+   130,
+   184,
+   192
+  ],
+  "counties": [
+   "c_byzantion"
+  ]
+ },
+ "k_aq_thrace": {
+  "label": "Odrysia",
+  "capital": "c_adrianopolis",
+  "color": [
+   185,
+   160,
+   98
+  ],
+  "counties": [
+   "c_adrianopolis",
+   "c_beroe",
+   "c_brysis",
+   "c_burgas",
+   "c_zherkovo"
+  ]
+ },
+ "k_aq040_west_thrace": {
+  "label": "Western Thrace",
+  "capital": "c_mosynopolis",
+  "color": [
+   176,
+   182,
+   107
+  ],
+  "counties": [
+   "c_mosynopolis"
+  ]
+ },
+ "k_aq040_central_thrace": {
+  "label": "Central Thrace",
+  "capital": "c_philippopolis",
+  "color": [
+   194,
+   176,
+   123
+  ],
+  "counties": [
+   "c_kran",
+   "c_philippopolis",
+   "c_rhodopes"
+  ]
+ }
+}

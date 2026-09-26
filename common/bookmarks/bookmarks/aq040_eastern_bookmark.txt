@@ -1,0 +1,77 @@
+bm_aq040_east = {
+ start_date = 642.5.1
+ is_playable = yes
+ recommended = no
+ group = bm_group_aq_359
+ weight = { value = 90 }
+ character = {
+ name = aq040_bookmark_nanda
+ history_id = aq_nanda
+ dynasty = aq_dyn_nanda
+ type = male
+ birth = 602.1.1
+ title = e_aq_nanda
+ government = tribal_government
+ culture = aq_magadhan
+ religion = aq_faith_shukla_yajurvedic
+ difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+ position = { 200 350 }
+ animation = personality_bold
+ }
+ character = {
+ name = aq040_bookmark_qin
+ history_id = aq_qin
+ dynasty = aq_dyn_qin
+ type = male
+ birth = 620.1.1
+ title = k_aq_qin
+ government = tribal_government
+ culture = aq_qin
+ religion = aq_faith_chinese
+ difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+ position = { 450 570 }
+ animation = personality_bold
+ }
+ character = {
+ name = aq040_bookmark_zhao
+ history_id = aq_zhao
+ dynasty = aq_dyn_zhao
+ type = male
+ birth = 602.1.1
+ title = k_aq_zhao
+ government = tribal_government
+ culture = aq_zhao
+ religion = aq_faith_chinese
+ difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+ position = { 700 350 }
+ animation = personality_bold
+ }
+ character = {
+ name = aq040_bookmark_song
+ history_id = aq_song
+ dynasty = aq_dyn_song
+ type = male
+ birth = 603.1.1
+ title = k_aq_song
+ government = tribal_government
+ culture = aq_song
+ religion = aq_faith_chinese
+ difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+ position = { 950 570 }
+ animation = personality_bold
+ }
+ character = {
+ name = aq040_bookmark_chu
+ history_id = aq_chu
+ dynasty = aq_dyn_chu
+ type = male
+ birth = 607.1.1
+ title = k_aq_chu
+ government = tribal_government
+ culture = aq_chu
+ religion = aq_faith_chinese
+ difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+ position = { 1200 350 }
+ animation = personality_bold
+ }
+}

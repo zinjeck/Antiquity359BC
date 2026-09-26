@@ -1,4 +1,4 @@
-﻿# fictional generated person; precise birthday and attributes are authoring defaults.
+# fictional generated person; precise birthday and attributes are authoring defaults.
 aq_chief_1_spouse = {
  name = aq_name_meihe
  dynasty = aq_dyn_1
@@ -100001,7 +100001,7 @@ learning = 6
 
 # historical title used as name; birthday unknown; precise birthday and attributes are authoring defaults.
 aq_zhou = {
- name = aq_name_xian
+ name = aq040_name_ji_pian
  dynasty = aq_dyn_zhou
  culture = aq_zhou
  religion = aq_faith_chinese
@@ -172295,7 +172295,7 @@ learning = 5
 
 # historical ruler of Salamis; island-wide abstraction; precise birthday and attributes are authoring defaults.
 aq_evagoras = {
- name = aq_name_evagoras
+ name = aq040_name_evagoras_ii
  dynasty = aq_dyn_aq_evagoras
  culture = aq_hellenic
  religion = hellenic_pagan
@@ -216715,9 +216715,9 @@ learning = 11
 
 # historical; Duke Huan; precise birthday and attributes are authoring defaults.
 aq_song = {
- name = aq_name_bicheng
+ name = aq040_name_ticheng
  dynasty = aq_dyn_song
- culture = aq_sinitic
+ culture = aq_song
  religion = aq_faith_chinese
  
  diplomacy = 8
@@ -233033,11 +233033,11 @@ learning = 7
 
 # fictional generated chief; inherited regional name pool may contain later names; precise birthday and attributes are authoring defaults.
 aq_chief_3007 = {
- trait = nomadic_philosophy
- name = aq_name_hasqar
+
+ name = aq040_name_philiskos
  dynasty = aq_dyn_3007
- culture = aq_sarmatian
- religion = aq_faith_steppe
+ culture = aq_hellenic
+ religion = hellenic_pagan
  
  diplomacy = 10
 martial = 10
@@ -269642,4 +269642,79 @@ learning = 11
  father = aq_hecatomnus
  642.5.1 = { employer = aq_mausolus }
  
+}
+
+# Historical person; birth date and attributes are authoring estimates.
+aq040_central_thrace = {
+ name = aq040_name_central_thrace
+ dynasty = aq040_dyn_central_thrace
+ culture = aq_odrysian
+ religion = aq_faith_balkan
+ diplomacy = 8
+ martial = 8
+ stewardship = 9
+ intrigue = 6
+ learning = 7
+ trait = education_stewardship_2
+ 602.1.1 = { birth = yes }
+}
+
+# Fictional regional office-holder, not an attested ancient individual.
+aq040_local_cappadocia = {
+ name = aq040_name_local_cappadocia
+ dynasty = aq040_dyn_local_cappadocia
+ culture = aq_cappadocian
+ religion = aq_faith_ma
+ diplomacy = 8
+ martial = 8
+ stewardship = 9
+ intrigue = 6
+ learning = 7
+ trait = education_stewardship_2
+ 608.1.1 = { birth = yes }
+}
+
+# Fictional regional office-holder, not an attested ancient individual.
+aq040_local_ablastha = {
+ name = aq040_name_local_ablastha
+ dynasty = aq040_dyn_local_ablastha
+ culture = aq_cappadocian
+ religion = aq_faith_ma
+ diplomacy = 8
+ martial = 8
+ stewardship = 9
+ intrigue = 6
+ learning = 7
+ trait = education_stewardship_2
+ 608.1.1 = { birth = yes }
+}
+
+# Fictional regional office-holder, not an attested ancient individual.
+aq040_local_bampur = {
+ name = aq040_name_local_bampur
+ dynasty = aq040_dyn_local_bampur
+ culture = persian
+ religion = mazdayasna
+ diplomacy = 8
+ martial = 8
+ stewardship = 9
+ intrigue = 6
+ learning = 7
+ trait = education_stewardship_2
+ 608.1.1 = { birth = yes }
+}
+
+# Fictional regional office-holder, not an attested ancient individual.
+aq040_local_badakhshan = {
+ name = aq040_name_local_badakhshan
+ dynasty = aq040_dyn_local_badakhshan
+ culture = aq_sogdian
+ religion = mazdayasna
+ diplomacy = 8
+ martial = 8
+ stewardship = 9
+ intrigue = 6
+ learning = 7
+ trait = education_stewardship_2
+ 608.1.1 = { birth = yes }
 }
